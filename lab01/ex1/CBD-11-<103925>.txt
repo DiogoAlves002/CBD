@@ -1,0 +1,47 @@
+ping
+set myKey myValue
+exists mykey
+exists myKey
+type myKey
+set anotherKey hallo
+keys an
+keys *
+keys an*
+del mykey
+del myKey
+exists myKey
+type myKey
+scan 0
+scan 
+scan 1
+del anotherKey
+scan 0
+type anotherKey
+scan o
+scan 0
+set key hallo
+scan 0
+set key2 howdy
+scan 0
+scan 0 match  "ha"
+scan 0 match  "hallo"
+scan 0 match  "key"
+scan 0 match  "key2"
+scan 0 match  "key*"
+lpush key aaaa
+lpush key3 aaaa
+lpush key3 bbb
+scan 0
+get key
+get key3
+get key2
+rpush key3 ccc
+lrange key
+lrange key3
+lrange key3 0 -1
+lpop key3
+lrange key3 0 -1
+lpush key3 bbb
+lrange key3 0 -1
+ltrim key3 0 1
+lrange key3 0 -1

@@ -1,0 +1,24 @@
+user added!
+user added!
+user added!
+user added!
+joao's message sent!
+joao's message sent!
+ERROR: No messages yet!
+user maria now follows joao!
+joao: ola
+joao: eu sou o joao
+user fabio joined vermelho!
+fabio's message sent to vermelho!
+ERROR: user ines isn't part of vermelho!
+user ines joined vermelho!
+ines's message sent to vermelho!
+user ines left vermelho!
+(vermelho) fabio: ola a todos
+user joao joined azul!
+joao's message sent to azul!
+user maria joined vermelho!
+user maria joined azul!
+(vermelho) fabio: ola a todos
+(vermelho) ines: agora sim, olaaaa
+(azul) joao: ola a todos no grupo azul

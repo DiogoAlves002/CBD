@@ -1,0 +1,13 @@
+set myKey someValue
+set anotherKey anotherValue
+exists myKey
+exists notAKey
+scan 0 match "Key"
+del myKey
+exists myKey
+lpush myList "value"
+lrange myList 0 -1
+lpush myList "hallo" "world" "test"
+lrange myList 0 -1
+lpop myList
+lrange myList 0 -1
