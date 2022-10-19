@@ -42,9 +42,44 @@ db.restaurants.find({"address.coord.0": {$lte: -95.7}})
 // 3 resultados
 
 
-//9. Indique os restaurantes que não têm gastronomia "American", tiveram uma (ou mais) pontuação superior a 70 e estão numa latitude inferior a -65.
+// 9. Indique os restaurantes que não têm gastronomia "American", tiveram uma (ou mais) pontuação superior a 70 e estão numa latitude inferior a -65.
 db.restaurants.find({gastronomia: {$ne: 'American'}, grades: {$elemMatch: {score: {$gt: 70}}}, "address.coord.0": {$lte: -65}})
 // 5 resultados
+
+
+// 10. Liste o restaurant_id, o nome, a localidade e gastronomia dos restaurantes cujo nome começam por "Wil".
+
+//
+
+
+// 11. Liste o nome, a localidade e a gastronomia dos restaurantes que pertencem ao Bronx e cuja gastronomia é do tipo "American" ou "Chinese".
+db.restaurants.find( {localidade: "Bronx", $or: [{gastronomia: "American"}, {gastronomia: "Chinese"}]}, { nome: 1, localidade: 1, gastronomia: 1, _id: 0 } )
+// 91 resultados
+
+
+// 12. Liste o restaurant_id, o nome, a localidade e a gastronomia dos restaurantes localizados em "Staten Island", "Queens", ou "Brooklyn".
+db.restaurants.find( {$or: [{localidade: "Staten Island"}, {localidade: "Queens"}, {localidade: "Brooklyn"} ]}, {restaurant_id:1, nome: 1, localidade: 1, gastronomia: 1, _id: 0 } )
+// 1580 resultados
+
+
+// 13. Liste o nome, a localidade, o score e gastronomia dos restaurantes que alcançaram sempre pontuações inferiores ou igual a 3.
+
+// 
+
+
+// 14. Liste o nome e as avaliações dos restaurantes que obtiveram uma avaliação com um grade "A", um score 10 na data "2014-08-11T00: 00: 00Z" (ISODATE).
+
+//
+
+
+//
+
+//
+
+
+// 16. Liste o restaurant_id, o nome, o endereço (address) e as coordenadas geográficas (coord) dos restaurantes onde o 2º elemento da matriz de coordenadas tem um valor superior a 42 e inferior ou igual a 52.
+db.restaurants.find({"address.coord.1": {$gt: 42}, "address.coord.1": {$lt: 52}}, {restaurant_id:1, nome:1, "address.coord": 1})
+// 3772
 
 
 
