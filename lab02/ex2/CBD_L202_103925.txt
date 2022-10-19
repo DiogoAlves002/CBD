@@ -1,0 +1,52 @@
+// NMEC: 103925
+
+// 1. Liste todos os documentos da coleção.
+db.restaurants.find()
+// 3772 resultados
+
+
+// 2. Apresente os campos restaurant_id, nome, localidade e gastronomia para todos os documentos da coleção.
+db.restaurants.find( {}, { restaurant_id: 1, nome: 1, localidade: 1, gastronomia: 1 } )
+// 3772 resultados
+
+
+// 3. Apresente os campos restaurant_id, nome, localidade e código postal (zipcode), mas exclua o campo _id de todos os documentos da coleção.
+db.restaurants.find( {}, { restaurant_id: 1, nome: 1, localidade: 1, gastronomia: 1, _id: 0 } )
+// 3772 resultados
+
+
+// 4. Indique o total de restaurantes localizados no Bronx.
+db.restaurants.find( {localidade: "Bronx"}, { restaurant_id: 1, nome: 1, localidade: 1} )
+// 309 resultados
+
+
+// 5. Apresente os primeiros 15 restaurantes localizados no Bronx, ordenados por ordem crescente de nome.
+db.restaurants.find({localidade: "Bronx"}, { restaurant_id: 1, nome: 1, localidade: 1}).sort({nome:1}).limit(15)
+// 15 resultados
+
+
+// 6. Liste todos os restaurantes que tenham pelo menos um score superior a 85.
+db.restaurants.find({ grades: { $elemMatch: { score: { $gt: 85} } }})
+// 4 resultados
+
+
+// 7. Encontre os restaurantes que obtiveram uma ou mais pontuações (score) entre [80 e 100].
+db.restaurants.find({ grades: { $elemMatch: { score: { $gt: 85, $lte: 100 } } }})
+// 3 resultados
+
+
+// 8. Indique os restaurantes com latitude inferior a -95,7.
+db.restaurants.find({"address.coord.1": {$lte: -95.7}})
+// --- Como nao deu nenhum resultado, considerei a altitude em vez da latitude:
+db.restaurants.find({"address.coord.0": {$lte: -95.7}})
+// 3 resultados
+
+
+//9. Indique os restaurantes que não têm gastronomia "American", tiveram uma (ou mais) pontuação superior a 70 e estão numa latitude inferior a -65.
+db.restaurants.find({gastronomia: {$ne: 'American'}, grades: {$elemMatch: {score: {$gt: 70}}}, "address.coord.0": {$lte: -65}})
+// 5 resultados
+
+
+
+
+
