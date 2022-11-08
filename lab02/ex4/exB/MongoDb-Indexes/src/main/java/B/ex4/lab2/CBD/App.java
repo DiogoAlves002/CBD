@@ -2,12 +2,12 @@ package B.ex4.lab2.CBD;
 
 import com.mongodb.client.*;
 import com.mongodb.client.model.Indexes;
-import com.mongodb.client.model.Updates;
-
-import java.util.Arrays;
 
 import org.bson.Document;
-import org.bson.conversions.Bson;
+
+import static com.mongodb.client.model.Filters.*;
+
+
  
 public class App 
 {
@@ -31,7 +31,7 @@ public class App
         collection.createIndex(Indexes.ascending("gastronomia"));
         collection.createIndex(Indexes.text("nome"));
 
-        FindIterable<Document> insertedDocs = collection.find(("localidade", "aveiro"));
+        FindIterable<Document> insertedDocs = collection.find(eq("localidade", "aveiro"));
         for (Document doc : insertedDocs) {
             System.out.println(doc.toJson());
         }
