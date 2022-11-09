@@ -14,6 +14,9 @@ db.getCollection("json_award").aggregate( { $group: { _id: "$awardYear", count: 
 db.getCollection("json_award").aggregate( { $unwind: "$laureates" }, { $group: { _id: "$laureates.knownName.en", count: { $sum: 1}, awards: { $push: "$category.en" } } }, { $match: { count: { $gt: 1 } } } )
 
 
+// list categories with at least one award shared by more than 1 person and the winners of those awards
+db.getCollection("json_award").aggregate( { $unwind: "$laureates" }, { $group: { _id: "$category.en", count: { $sum: 1}, winners: { $push: "$laureates.knownName.en" } } }, { $match: { count: { $gt: 1 } } } )
 
 
-
+// the catefory with the highest average prize
+db.getCollection("json_award").aggregate( { $group: { _id: "$category.en", avgPrize: { $avg: "$prizeAmount"} } }, { $sort: { avgPrize: -1 } }, { $limit: 1 } )
