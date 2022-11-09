@@ -1,0 +1,27 @@
+// find peace awards with a prize lower than 150000
+db.getCollection("json_award").find( { "category.en": {$eq: "Peace"}, prizeAmount: { $lt: 150000 }},  {})
+
+
+//  find awards between [1920 and 1928[]
+
+db.getCollection("json_award").find( { "awardYear": {$gte: "1920", $lt: "1928"}},  {})
+
+
+
+// find awards given to someone named "Theodor" who won it with alone
+db.getCollection("json_award").find( { "laureates.knownName.en": {$regex: '(?i)Theodor'}, "laureates.portion": "1"},  {})
+
+
+
+// find awards given to someone named "Theodor" but not to someone with an id greater than 500
+db.getCollection("json_award").find( { "laureates.knownName.en": {$regex: '(?i)Theodor'}, "laureates.id": {$lt: "500"}},  {})
+
+
+// find Physics or Chemistry awards given in 1901
+
+db.getCollection("json_award").find( { $or: [ { "category.en": "Physics"}, { "category.en": "Chemistry"} ], "awardYear": "1901"},  {})
+
+
+
+// find awards older than 1920 shared by more than 1 person
+db.getCollection("json_award").find( { "awardYear": {$lt: "1920"}, "laureates.portion": {$ne: "1"}},  {})

@@ -1,0 +1,19 @@
+// average prize of awards by category 
+db.getCollection("json_award").aggregate( { $group: { _id: "$category.en", avgPrize: { $avg: "$prizeAmount"} } })
+
+
+// number of awards by year in ascending order
+db.getCollection("json_award").aggregate( { $group: { _id: "$awardYear", count: { $sum: 1} } }, { $sort: { _id: 1 } } )
+
+
+// list years with more than 5 awards
+db.getCollection("json_award").aggregate( { $group: { _id: "$awardYear", count: { $sum: 1} } }, { $match: { count: { $gt: 5 } } } )
+
+
+// list winners with more than 1 award and their awards
+db.getCollection("json_award").aggregate( { $unwind: "$laureates" }, { $group: { _id: "$laureates.knownName.en", count: { $sum: 1}, awards: { $push: "$category.en" } } }, { $match: { count: { $gt: 1 } } } )
+
+
+
+
+

@@ -1,0 +1,67 @@
+--Nobel Prize Dataset
+
+Source: https://www.kaggle.com/datasets/imdevskp/nobel-prize?resource=download&select=json_award.json
+
+To describe the structure I will be using a random document as an example. 
+I chose the this one in specific because there is a documment "dateAwarded" which is optional and this one happens to contain it.
+
+{
+  "awardYear": "1901",
+  "category": {
+    "en": "Peace",
+    "no": "Fred",
+    "se": "Fred"
+  },
+  "categoryFullName": {
+    "en": "The Nobel Peace Prize",
+    "no": "Nobels fredspris",
+    "se": "Nobels fredspris"
+  },
+  "dateAwarded": "1901-12-10",
+  "prizeAmount": 150782,
+  "prizeAmountAdjusted": 8567159,
+  "links": {
+    "rel": "nobelPrize",
+    "href": "http://masterdataapi.nobelprize.org/2/nobelPrize/pea/1901",
+    "action": "Get",
+    "types": "application/json"
+  },
+  "laureates": [
+    {
+      "id": "462",
+      "knownName": {
+        "en": "Henry Dunant"
+      },
+      "portion": "1/2",
+      "sortOrder": "1",
+      "motivation": {
+        "en": "for his humanitarian efforts to help wounded soldiers and create international understanding",
+        "no": "for sin humanitære innsats for å hjelpe sårede soldater og skape internasjonal forståelse"
+      },
+      "links": {
+        "rel": "laureate",
+        "href": "http://masterdataapi.nobelprize.org/2/laureate/462",
+        "action": "Get",
+        "types": "application/json"
+      }
+    },
+    {
+      "id": "463",
+      "knownName": {
+        "en": "Frédéric Passy"
+      },
+      "portion": "1/2",
+      "sortOrder": "2",
+      "motivation": {
+        "en": "for his lifelong work for international peace conferences, diplomacy and arbitration",
+        "no": "for sin  livslange innsats for internasjonale fredskonferanser, diplomati og voldgift"
+      },
+      "links": {
+        "rel": "laureate",
+        "href": "http://masterdataapi.nobelprize.org/2/laureate/463",
+        "action": "Get",
+        "types": "application/json"
+      }
+    }
+  ]
+}
