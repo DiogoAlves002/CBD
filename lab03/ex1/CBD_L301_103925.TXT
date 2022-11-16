@@ -1,0 +1,72 @@
+
+-- create a keyspace
+CREATE KEYSPACE IF NOT EXISTS store WITH REPLICATION = { 'class' : 'SimpleStrategy', 'replication_factor' : '1' };
+
+
+-- show all keyspaces
+SELECT * FROM system_schema.keyspaces;
+
+
+
+
+
+
+-- Create a table
+CREATE TABLE IF NOT EXISTS store.shopping_cart (
+userid text PRIMARY KEY,
+item_count int,
+last_update_timestamp timestamp
+);
+-- keys name are case insensitive!
+
+
+
+
+
+
+
+-- Insert data
+INSERT INTO store.shopping_cart
+(userid, item_count, last_update_timestamp)
+VALUES ('9876', 2, toTimeStamp(now()));
+INSERT INTO store.shopping_cart
+(userid, item_count, last_update_timestamp)
+VALUES ('1234', 5, toTimeStamp(now()));
+
+
+-- Insert more data
+INSERT INTO store.shopping_cart (userid, item_count) VALUES ('4567', 20);
+
+
+
+
+
+-- read data from table
+SELECT * FROM store.shopping_cart;
+
+-- read specific table
+SELECT item_count FROM store.shopping_cart;
+
+
+
+
+
+
+
+-- Edit data
+UPDATE store.shopping_cart SET item_count=33 WHERE userid = '4567';
+-- must use partition key in condition!
+
+
+
+
+-- Remove data
+DELETE item_count FROM store.shopping_cart  WHERE userid = '1234';
+
+-- Remove an entire row
+DELETE FROM store.shopping_cart WHERE userid = '4567';
+
+
+
+
+
