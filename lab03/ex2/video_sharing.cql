@@ -3,37 +3,53 @@ use video_sharing;
 
 create table if not exist users (
     user_id text primary key,
-    user_name text,
-    name text,
-    email text,
-    creation_timestamp timestamp
+    user_name text not null,
+    name text not null,
+    email text not null,
+    creation_timestamp timestamp not null
+    comments_id set <text>
 );
 
 
 create table if not exists video (
     video_id text primary key,
-    author text,
-    name text,
-    description text,
-    tags set<text>,
-    creation_timestamp timestamp
-    followers_id set<text>
-)
+    author text not null,
+    name text not null,
+    description text not null,
+    creation_timestamp timestamp not null
 
-create if not exists comments(
+    tags set<text> not null,
+    followers_id set<text> not null
+    rating list <int> not null
+    comments_id set <text>,
+);
+
+
+create table if not exists comments(
     comment_id text primary key,
-    video_id text,
-    data text,
-    creation_timestamp timestamp
-)
+    video_id text not null,
+    author_user_id text not null
+    data text not null,
+    creation_timestamp timestamp not null
+);
 
 
-create if not exists events(
+create table if not exists events(
     event_id text primary key,
-    type text,
-    video_time int,
-    creation_timestamp timestamp
-)
+    video_id text not null,
+    user_id text not null,
+    type text not null,
+    video_time int not null,
+    creation_timestamp timestamp not null
+);
+
+
+
+
+
+
+
+
 
 
 
