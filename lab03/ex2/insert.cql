@@ -526,6 +526,7 @@ VALUES(21, 7, 12, 'stop', 120, toTimeStamp(now()))
 
 
 
+
 # followers
 update video_sharing.video
 set followers_id = followers_id + {2, 3, 4}
