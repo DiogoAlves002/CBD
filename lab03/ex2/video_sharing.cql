@@ -7,6 +7,7 @@ create table if not exist users (
     name text not null,
     email text not null,
     creation_timestamp timestamp not null,
+    
     comments_id set <text>
 );
 
@@ -19,8 +20,8 @@ create table if not exists video (
     creation_timestamp timestamp not null,
 
     tags set<text> not null,
-    followers_id set<int> not null,
-    rating list <int> not null,
+    rating list <int>,
+    followers_id set<int>,
     comments_id set <int>
 );
 
