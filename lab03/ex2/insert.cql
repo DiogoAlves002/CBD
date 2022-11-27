@@ -508,6 +508,85 @@ where video_id = 17
 
 
 
+# ratings
+update  video_sharing.video
+set rating = {1, 4, 3, 5, 3, 4, 3, 5}
+where video_id = 1
+
+update  video_sharing.video
+set rating = {3, 1, 4, 5, 4, 5, 3, 4, 1, 1, 2, 1, 4, 5, 5}
+where video_id = 2
+
+update  video_sharing.video
+set rating = {4, 5, 5, 2, 4, 2, 2, 3, 1, 4, 2, 2, 5, 5, 4, 2, 5, 3, 2}
+where video_id = 3
+
+update  video_sharing.video
+set rating = {2, 3, 1, 2, 3, 4, 2, 5, 5, 1, 3, 1, 2, 3, 1, 3, 5}
+where video_id = 4
+
+update  video_sharing.video
+set rating = {5, 1, 4, 2, 5, 2, 4, 4}
+where video_id = 5
+
+update  video_sharing.video
+set rating = {5, 1, 1, 5, 5, 3, 4, 4, 5, 2}
+where video_id = 6
+
+update  video_sharing.video
+set rating = {4, 1, 5, 3, 5, 1, 2, 1, 3}
+where video_id = 7
+
+update  video_sharing.video
+set rating = {2, 4, 2, 2, 4, 3, 1, 3}
+where video_id = 8
+
+update  video_sharing.video
+set rating = {2, 2, 2, 3, 1, 2, 4, 3, 2, 4, 2, 4, 3}
+where video_id = 9
+
+update  video_sharing.video
+set rating = {4, 3, 3, 3, 2, 2, 3, 2, 1, 4, 2, 2, 2, 4, 1}
+where video_id = 10
+
+update  video_sharing.video
+set rating = {2, 5, 3, 2, 5, 5, 1, 4, 2}
+where video_id = 11
+
+update  video_sharing.video
+set rating = {5, 4, 5, 4, 3, 1, 3, 1, 5, 1, 1, 2, 1, 5, 1, 4, 2, 4}
+where video_id = 12
+
+update  video_sharing.video
+set rating = {1, 1, 5, 2, 5, 5, 5, 5, 3, 3, 3, 3, 3}
+where video_id = 13
+
+update  video_sharing.video
+set rating = {3, 4, 1, 4, 4, 4, 5, 2, 4, 5}
+where video_id = 14
+
+update  video_sharing.video
+set rating = {5, 4, 1, 2, 2, 4, 2, 5, 4, 2, 3, 4}
+where video_id = 15
+
+update  video_sharing.video
+set rating = {2, 3, 4, 1, 1, 3, 5}
+where video_id = 16
+
+update  video_sharing.video
+set rating = {1, 3, 1, 4, 2, 2, 4, 2, 5, 1, 3, 5, 3, 1, 1, 5, 4, 4, 1}
+where video_id = 17
+
+
+
+
+
+
+
+
+
+
+
 
 
 
