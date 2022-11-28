@@ -158,7 +158,7 @@ VALUES (17, 2, 'But I Did Kidnap His Wife!', 'A video about the best criminal ev
 # comments
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(1, 2, 1, 'YES!!!!!  So I''m a manager at a software company.  Ever since I heard this song I send this out to my team every Friday.  They love it.  I know one day someone will forward it to HR.  But you know, until then it''s FFFUFL', toTimeStamp(now()))
+VALUES(1, 2, 1, 'YES!!!!!  So I''m a manager at a software company.  Ever since I heard this song I send this out to my team every Friday.  They love it.  I know one day someone will forward it to HR.  But you know, until then it''s FFFUFL', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {1}
 where video_id = 2;
@@ -168,7 +168,7 @@ where user_id = 1;
 
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(2, 2, 3, 'I need a 10 hour version. I could and would literally listen to this all day. Clear Bill Wurtz vibe. Love it ❤️', toTimeStamp(now()))
+VALUES(2, 2, 3, 'I need a 10 hour version. I could and would literally listen to this all day. Clear Bill Wurtz vibe. Love it ❤️', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {2}
 where video_id = 2;
@@ -177,7 +177,7 @@ set comments_id = comments_id + {2}
 where user_id = 3;
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(3, 2, 4. 'Congratulations! If you''re reading this and it''s Friday, you made it through the week! Good job! Enjoy Flat Fuck Friday!', toTimeStamp(now()))
+VALUES(3, 2, 4. 'Congratulations! If you''re reading this and it''s Friday, you made it through the week! Good job! Enjoy Flat Fuck Friday!', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {3}
 where video_id = 2;
@@ -187,7 +187,7 @@ where user_id = 4;
 
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(4, 3, 2, 'The camera man knew what Dwight was doing and did absolutely nothing but film this chaos. Nice.', toTimeStamp(now()))
+VALUES(4, 3, 2, 'The camera man knew what Dwight was doing and did absolutely nothing but film this chaos. Nice.', toTimeStamp(now()));
 insert into video_sharing.comments
 update video_sharing.video
 set comments_id = comments_id + {4}
@@ -196,7 +196,7 @@ update video_sharing.user
 set comments_id = comments_id + {4}
 where user_id = 2;
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(5, 3, 3, 'I love how Michael screams, “OH MY GOD, IT''S HAPPENING,” like he has been expecting this to happen for years. 💀', toTimeStamp(now()))
+VALUES(5, 3, 3, 'I love how Michael screams, “OH MY GOD, IT''S HAPPENING,” like he has been expecting this to happen for years. 💀', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {5}
 where video_id = 3;
@@ -206,7 +206,7 @@ where user_id = 3;
 
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(6, 8, 3, 'the fact that it''s jschlatt, a force of chaos, telling him to stop just makes it even better. if you can make schlatt concerned then you are a force to be reckoned with', toTimeStamp(now()))
+VALUES(6, 8, 3, 'the fact that it''s jschlatt, a force of chaos, telling him to stop just makes it even better. if you can make schlatt concerned then you are a force to be reckoned with', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {6}
 where video_id = 8;
@@ -216,7 +216,7 @@ where user_id = 3;
 
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(7, 8, 2, 'YOUR BUILD SUCKS, YOU SUCK - Technoblade to Smajor, now in a tournament that Smajor organizes', toTimeStamp(now()))
+VALUES(7, 8, 2, 'YOUR BUILD SUCKS, YOU SUCK - Technoblade to Smajor, now in a tournament that Smajor organizes', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {7}
 where video_id = 8;
@@ -225,7 +225,7 @@ set comments_id = comments_id + {7}
 where user_id = 2;
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(8, 8, 1, 'It took him a year and a half to edit this clip, but he finally did it.', toTimeStamp(now()))
+VALUES(8, 8, 1, 'It took him a year and a half to edit this clip, but he finally did it.', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {8}
 where video_id = 8;
@@ -234,7 +234,7 @@ set comments_id = comments_id + {8}
 where user_id = 1;
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(9, 8, 3, 'Techno is just too powerful for everyone', toTimeStamp(now()))
+VALUES(9, 8, 3, 'Techno is just too powerful for everyone', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {9}
 where video_id = 8;
@@ -244,7 +244,7 @@ where user_id = 3;
 
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(10, 9, 6, 'He''s actually a brilliant stand up comedian because he knew that atleast some1 will clap his hands subconsciously', toTimeStamp(now()))
+VALUES(10, 9, 6, 'He''s actually a brilliant stand up comedian because he knew that atleast some1 will clap his hands subconsciously', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {10}
 where video_id = 9;
@@ -253,7 +253,7 @@ set comments_id = comments_id + {10}
 where user_id = 6;
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(11, 9, 5, 'Plot twist- they were not clapping, they were reloading guns.', toTimeStamp(now()))
+VALUES(11, 9, 5, 'Plot twist- they were not clapping, they were reloading guns.', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {11}
 where video_id = 9;
@@ -263,7 +263,7 @@ where user_id = 5;
 
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(12, 12, 7, 'a única pessoa deste mundo que queria que o Éder chutasse à baliza!', toTimeStamp(now()))
+VALUES(12, 12, 7, 'a única pessoa deste mundo que queria que o Éder chutasse à baliza!', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {12}
 where video_id = 12;
@@ -272,7 +272,7 @@ set comments_id = comments_id + {12}
 where user_id = 7;
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(13, 12, 8, 'I''m Portuguese and I don''t understand a word of what he''s saying but I''m still laughing', toTimeStamp(now()))
+VALUES(13, 12, 8, 'I''m Portuguese and I don''t understand a word of what he''s saying but I''m still laughing', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {13}
 where video_id = 12;
@@ -282,7 +282,7 @@ where user_id = 8;
 
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(14, 13, 9, 'I just realized... 2020 began on a Wednesday. This whole year has been one long aaaaaah. 2020 is the world''s longest It is Wednesday my dudes ever.', toTimeStamp(now()))
+VALUES(14, 13, 9, 'I just realized... 2020 began on a Wednesday. This whole year has been one long aaaaaah. 2020 is the world''s longest It is Wednesday my dudes ever.', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {14}
 where video_id = 13;
@@ -291,7 +291,7 @@ set comments_id = comments_id + {14}
 where user_id = 9;
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(15, 13, 10, 'Imagine if this was the only evidence that humans ever existed', toTimeStamp(now()))
+VALUES(15, 13, 10, 'Imagine if this was the only evidence that humans ever existed', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {15}
 where video_id = 13;
@@ -301,7 +301,7 @@ where user_id = 10;
 
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(16, 14, 11, 'I''m not crying, you''re crying', toTimeStamp(now()))
+VALUES(16, 14, 11, 'I''m not crying, you''re crying', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {16}
 where video_id = 14;
@@ -310,7 +310,7 @@ set comments_id = comments_id + {16}
 where user_id = 11;
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(17, 14, 12, 'Hellooooo is there a less shit referee around? - every football fan ever', toTimeStamp(now()))
+VALUES(17, 14, 12, 'Hellooooo is there a less shit referee around? - every football fan ever', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {17}
 where video_id = 14;
@@ -320,7 +320,7 @@ where user_id = 12;
 
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(18, 14, 13, 'Being a fan of soccer, moments like this are literally beautiful LOL', toTimeStamp(now()))
+VALUES(18, 14, 13, 'Being a fan of soccer, moments like this are literally beautiful LOL', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {18}
 where video_id = 14;
@@ -330,7 +330,7 @@ where user_id = 13;
 
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(19, 15, 14, 'It must be hard for him tobe a single child raising 2 parents', toTimeStamp(now()))
+VALUES(19, 15, 14, 'It must be hard for him tobe a single child raising 2 parents', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {19}
 where video_id = 15;
@@ -339,7 +339,7 @@ set comments_id = comments_id + {19}
 where user_id = 14;
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(20, 15, 15, 'He was like “I don''t even know why you try anymore Jim” lol. Yeah nothing is really baby proof. Even birth control lol', toTimeStamp(now()))
+VALUES(20, 15, 15, 'He was like “I don''t even know why you try anymore Jim” lol. Yeah nothing is really baby proof. Even birth control lol', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {20}
 where video_id = 15;
@@ -348,7 +348,7 @@ set comments_id = comments_id + {20}
 where user_id = 15;
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(21, 15, 16, 'His expression at the end said: "Is that all you got, bro?"', toTimeStamp(now()))
+VALUES(21, 15, 16, 'His expression at the end said: "Is that all you got, bro?"', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {21}
 where video_id = 15;
@@ -357,7 +357,7 @@ set comments_id = comments_id + {21}
 where user_id = 16;
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(22, 15, 17, 'He looks dissapointed in his dad for buying that instead of toys.', toTimeStamp(now()))
+VALUES(22, 15, 17, 'He looks dissapointed in his dad for buying that instead of toys.', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {22}
 where video_id = 15;
@@ -367,7 +367,7 @@ where user_id = 17;
 
 insert into video_sharing.comments
 (comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(23, 16, 18, '"what is he doing ?" "He''s beginning to believe"', toTimeStamp(now()))
+VALUES(23, 16, 18, '"what is he doing ?" "He''s beginning to believe"', toTimeStamp(now()));
 update video_sharing.video
 set comments_id = comments_id + {23}
 where video_id = 16;
@@ -388,136 +388,136 @@ where user_id = 18;
 # events
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(1, 1, 2, 'pause', 10, toTimeStamp(now()))
+VALUES(1, 1, 2, 'pause', 10, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(2, 1, 2, 'play', 10, toTimeStamp(now()))
+VALUES(2, 1, 2, 'play', 10, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(3, 1, 2, 'pause', 20, toTimeStamp(now()))
+VALUES(3, 1, 2, 'pause', 20, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(4, 1, 2, 'play', 20, toTimeStamp(now()))
+VALUES(4, 1, 2, 'play', 20, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(5, 1, 2, 'pause', 50, toTimeStamp(now()))
+VALUES(5, 1, 2, 'pause', 50, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(6, 1, 2, 'play', 50, toTimeStamp(now()))
+VALUES(6, 1, 2, 'play', 50, toTimeStamp(now()));
 
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(4, 2, 1, 'pause', 10, toTimeStamp(now()))
+VALUES(4, 2, 1, 'pause', 10, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(5, 2, 3, 'pause', 20, toTimeStamp(now()))
+VALUES(5, 2, 3, 'pause', 20, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(6, 2, 1, 'stop', 10, toTimeStamp(now()))
+VALUES(6, 2, 1, 'stop', 10, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(7, 2, 3, 'play', 20, toTimeStamp(now()))
+VALUES(7, 2, 3, 'play', 20, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(8, 2, 3, 'pause', 40, toTimeStamp(now()))
+VALUES(8, 2, 3, 'pause', 40, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(9, 2, 3, 'play', 40, toTimeStamp(now()))
+VALUES(9, 2, 3, 'play', 40, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(10, 2, 3, 'pause', 66, toTimeStamp(now()))
+VALUES(10, 2, 3, 'pause', 66, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(11, 2, 3, 'play', 66, toTimeStamp(now()))
+VALUES(11, 2, 3, 'play', 66, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(12, 2, 3, 'stop', 80, toTimeStamp(now()))
+VALUES(12, 2, 3, 'stop', 80, toTimeStamp(now()));
 
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(9, 3, 4, 'pause', 15, toTimeStamp(now()))
+VALUES(9, 3, 4, 'pause', 15, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(10, 3, 4, 'play', 15, toTimeStamp(now()))
+VALUES(10, 3, 4, 'play', 15, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(11, 3, 4, 'pause', 30, toTimeStamp(now()))
+VALUES(11, 3, 4, 'pause', 30, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(12, 3, 4, 'play', 30, toTimeStamp(now()))
+VALUES(12, 3, 4, 'play', 30, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(13, 3, 4, 'pause', 60, toTimeStamp(now()))
+VALUES(13, 3, 4, 'pause', 60, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(14, 3, 4, 'stop', 60, toTimeStamp(now()))
+VALUES(14, 3, 4, 'stop', 60, toTimeStamp(now()));
 
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(11, 4, 8, 'stop', 50, toTimeStamp(now()))
+VALUES(11, 4, 8, 'stop', 50, toTimeStamp(now()));
 
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(12, 5, 10, 'pause', 100, toTimeStamp(now()))
+VALUES(12, 5, 10, 'pause', 100, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(13, 5, 10, 'play', 100, toTimeStamp(now()))
+VALUES(13, 5, 10, 'play', 100, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(14, 5, 12, 'pause', 200, toTimeStamp(now()))
+VALUES(14, 5, 12, 'pause', 200, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(15, 5, 10, 'pause', 150, toTimeStamp(now()))
+VALUES(15, 5, 10, 'pause', 150, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(16, 5, 10, 'play', 150, toTimeStamp(now()))
+VALUES(16, 5, 10, 'play', 150, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(17, 5, 12, 'play', 200, toTimeStamp(now()))
+VALUES(17, 5, 12, 'play', 200, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(18, 5, 10, 'stop', 210, toTimeStamp(now()))
+VALUES(18, 5, 10, 'stop', 210, toTimeStamp(now()));
 
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(14, 6, 11, 'pause', 10, toTimeStamp(now()))
+VALUES(14, 6, 11, 'pause', 10, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(15, 6, 14, 'stop', 30, toTimeStamp(now()))
+VALUES(15, 6, 14, 'stop', 30, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(15, 6, 11, 'play', 10, toTimeStamp(now()))
+VALUES(15, 6, 11, 'play', 10, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(16, 6, 11, 'pause', 20, toTimeStamp(now()))
+VALUES(16, 6, 11, 'pause', 20, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(17, 6, 11, 'play', 20, toTimeStamp(now()))
+VALUES(17, 6, 11, 'play', 20, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(18, 6, 11, 'pause', 30, toTimeStamp(now()))
+VALUES(18, 6, 11, 'pause', 30, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(19, 6, 11, 'play', 30, toTimeStamp(now()))
+VALUES(19, 6, 11, 'play', 30, toTimeStamp(now()));
 
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(16, 7, 12, 'pause', 80, toTimeStamp(now()))
+VALUES(16, 7, 12, 'pause', 80, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(17, 7, 12, 'play', 80, toTimeStamp(now()))
+VALUES(17, 7, 12, 'play', 80, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(18, 7, 12, 'pause', 100, toTimeStamp(now()))
+VALUES(18, 7, 12, 'pause', 100, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(19, 7, 12, 'play', 100, toTimeStamp(now()))
+VALUES(19, 7, 12, 'play', 100, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(20, 7, 12, 'pause', 120, toTimeStamp(now()))
+VALUES(20, 7, 12, 'pause', 120, toTimeStamp(now()));
 insert into video_sharing.events
 (event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
-VALUES(21, 7, 12, 'stop', 120, toTimeStamp(now()))
+VALUES(21, 7, 12, 'stop', 120, toTimeStamp(now()));
 
 
 
@@ -530,47 +530,47 @@ VALUES(21, 7, 12, 'stop', 120, toTimeStamp(now()))
 # followers
 update video_sharing.video
 set followers_id = followers_id + {2, 3, 4}
-where video_id = 1
+where video_id = 1;
 
 update video_sharing.video
 set followers_id = followers_id + {1, 4}
-where video_id = 2
+where video_id = 2;
 
 update video_sharing.video
 set followers_id = followers_id + {2, 4, 6, 9, 10}
-where video_id = 3
+where video_id = 3;
 
 update video_sharing.video
 set followers_id = followers_id + {3, 4, 10}
-where video_id = 5
+where video_id = 5;
 
 update video_sharing.video
 set followers_id = followers_id + {7, 9, 10, 15, 16, 17}
-where video_id = 6
+where video_id = 6;
 
 update video_sharing.video
 set followers_id = followers_id + {1}
-where video_id = 7
+where video_id = 7;
 
 update video_sharing.video
 set followers_id = followers_id + {1, 4, 5, 12, 13, 14, 16, 17}
-where video_id = 8
+where video_id = 8;
 
 update video_sharing.video
 set followers_id = followers_id + {1, 15, 16}
-where video_id = 11
+where video_id = 11;
 
 update video_sharing.video
 set followers_id = followers_id + {2, 7, 11}
-where video_id = 12
+where video_id = 12;
 
 update video_sharing.video
 set followers_id = followers_id + {1, 3, 4, 7, 8, 9, 10, 14, 16, 17}
-where video_id = 15
+where video_id = 15;
 
 update video_sharing.video
 set followers_id = followers_id + {1, 14, 15, 16, 17}
-where video_id = 17
+where video_id = 17;
 
 
 
@@ -582,35 +582,35 @@ where video_id = 17
 # ratings
 update  video_sharing.video
 set rating = rating + {1, 4, 3, 5, 3, 4, 3, 5}
-where video_id = 1
+where video_id = 1;
 
 update  video_sharing.video
 set rating = rating + {3, 1, 4, 5, 4, 5, 3, 4, 1, 1, 2, 1, 4, 5, 5}
-where video_id = 2
+where video_id = 2;
 
 update  video_sharing.video
 set rating = rating + {4, 5, 5, 2, 4, 2, 2, 3, 1, 4, 2, 2, 5, 5, 4, 2, 5, 3, 2}
-where video_id = 3
+where video_id = 3;
 
 update  video_sharing.video
 set rating = rating + {2, 3, 1, 2, 3, 4, 2, 5, 5, 1, 3, 1, 2, 3, 1, 3, 5}
-where video_id = 4
+where video_id = 4;
 
 update  video_sharing.video
 set rating = rating + {5, 1, 4, 2, 5, 2, 4, 4}
-where video_id = 5
+where video_id = 5;
 
 update  video_sharing.video
 set rating = rating + {5, 1, 1, 5, 5, 3, 4, 4, 5, 2}
-where video_id = 6
+where video_id = 6;
 
 update  video_sharing.video
 set rating = rating + {4, 1, 5, 3, 5, 1, 2, 1, 3}
-where video_id = 7
+where video_id = 7;
 
 update  video_sharing.video
 set rating = rating + {2, 4, 2, 2, 4, 3, 1, 3}
-where video_id = 8
+where video_id = 8;
 
 update  video_sharing.video
 set rating = rating + {2, 2, 2, 3, 1, 2, 4, 3, 2, 4, 2, 4, 3}
@@ -618,35 +618,35 @@ where video_id = 9
 
 update  video_sharing.video
 set rating = rating + {4, 3, 3, 3, 2, 2, 3, 2, 1, 4, 2, 2, 2, 4, 1}
-where video_id = 10
+where video_id = 10;
 
 update  video_sharing.video
 set rating = rating + {2, 5, 3, 2, 5, 5, 1, 4, 2}
-where video_id = 11
+where video_id = 11;
 
 update  video_sharing.video
 set rating = rating + {5, 4, 5, 4, 3, 1, 3, 1, 5, 1, 1, 2, 1, 5, 1, 4, 2, 4}
-where video_id = 12
+where video_id = 12;
 
 update  video_sharing.video
 set rating = rating + {1, 1, 5, 2, 5, 5, 5, 5, 3, 3, 3, 3, 3}
-where video_id = 13
+where video_id = 13;
 
 update  video_sharing.video
 set rating = rating + {3, 4, 1, 4, 4, 4, 5, 2, 4, 5}
-where video_id = 14
+where video_id = 14;
 
 update  video_sharing.video
 set rating = rating + {5, 4, 1, 2, 2, 4, 2, 5, 4, 2, 3, 4}
-where video_id = 15
+where video_id = 15;
 
 update  video_sharing.video
 set rating = {rating + 2, 3, 4, 1, 1, 3, 5}
-where video_id = 16
+where video_id = 16;
 
 update  video_sharing.video
 set rating = rating + {1, 3, 1, 4, 2, 2, 4, 2, 5, 1, 3, 5, 3, 1, 1, 5, 4, 4, 1}
-where video_id = 17
+where video_id = 17;
 
 
 
