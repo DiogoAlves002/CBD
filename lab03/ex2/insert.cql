@@ -81,7 +81,6 @@ VALUES (17, 'beens', 'Elianna Gray', 'beens@gmail.com', toTimeStamp(now()));
 insert into video_sharing.videos
 (video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
 VALUES (1, 1, 'These guys made an earth sandwich!', 'A video about the best sandwich ever', 'https://www.youtube.com/shorts/LEKnMVomL0k', toTimeStamp(now()), {'sandwich', 'earth', 'food'}, {}, {}, {});
-
 insert into video_sharing.videos
 (video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
 VALUES (2, 1, 'Flat Fuck friday', 'A video about the best crocodile ever', 'https://www.youtube.com/watch?v=A5U8ypHq3BU', toTimeStamp(now()), {'crocodile'}, {}, {}, {});
@@ -89,12 +88,10 @@ VALUES (2, 1, 'Flat Fuck friday', 'A video about the best crocodile ever', 'http
 
 insert into video_sharing.videos
 (video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
-VALUES (3, 2, 'Fire Drill - The Office US', 'A video about the best dunder mifflin employee ever', 'https://www.youtube.com/watch?v=gO8N3L_aERg', toTimeStamp(now()), {'office', 'dunder mifflin', 'fire drill', 'dwight'}, {}, {}, {});
-
+VALUES (3, 2, 'Fire Drill - The Office US', 'A video about the best dunder mifflin employee ever', 'https://www.youtube.com/watch?v=gO8N3L_aERg', toTimeStamp(now()), {'the office', 'dunder mifflin', 'fire drill', 'dwight'}, {}, {}, {});
 insert into video_sharing.videos
 (video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
 VALUES (4, 2, 'Guy thinks I cant play Rush E and calls me a liar', 'A video about the best pianist ever', 'https://www.youtube.com/watch?v=on4IoQ2MQ7M', toTimeStamp(now()), {'piano', 'music'}, {}, {}, {});
-
 insert into video_sharing.videos
 (video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
 VALUES (5, 2, 'Chef Mike', 'A video about the best chef ever', 'https://www.youtube.com/watch?v=X19pYwmaTgs', toTimeStamp(now()), {'chef', 'food'}, {}, {}, {});
@@ -102,11 +99,9 @@ VALUES (5, 2, 'Chef Mike', 'A video about the best chef ever', 'https://www.yout
 insert into video_sharing.videos
 (video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
 VALUES (6, 3, 'Trailer Park Boys - One nice kitty', 'A video about the best kitty ever', 'https://www.youtube.com/watch?v=CGz36bWJ61k', toTimeStamp(now()), {'kitty'}, {}, {}, {});
-
 insert into video_sharing.videos
 (video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
 VALUES (7, 3, 'The Office - I declare bankruptcy! Michael Scott', 'A video about the best boss ever', 'https://www.youtube.com/watch?v=HuGIgf-ICHM', toTimeStamp(now()), {'the office', 'boss'}, {}, {}, {});
-
 insert into video_sharing.videos
 (video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
 VALUES (8, 3, 'technoblade breaks minecraft monday', 'A video about the best minecraft pvp player ever', 'https://www.youtube.com/watch?v=RrjsbuU1o14', toTimeStamp(now()), {'minecraft', 'pvp'}, {}, {}, {});
@@ -114,38 +109,33 @@ VALUES (8, 3, 'technoblade breaks minecraft monday', 'A video about the best min
 insert into video_sharing.videos
 (video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
 VALUES (9, 4, 'If you are racist and you know it clap your hands', 'A video about the best comedian ever', 'https://www.youtube.com/watch?v=3sa7THpGuSk', toTimeStamp(now()), {'comedian'}, {}, {}, {});
-
 insert into video_sharing.videos 
 (video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
 VALUES(10, 4, 'Tell us something your mum does not know', 'A video about the best british ever', 'https://www.youtube.com/watch?v=MVIBf3cnTf0', toTimeStamp(now()), {'british'}, {}, {}, {});
 
 insert into video_sharing.videos
 (video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
-VALUES (11, 2, 'My very first somewhat useless invention', 'A video about the best invention ever', 'https://www.youtube.com/watch?v=iW1Nff6jgjo', toTimeStamp(now()), {'russian', 'invention'}, {}, {}, {});
+VALUES (11, 6, 'My very first somewhat useless invention', 'A video about the best invention ever', 'https://www.youtube.com/watch?v=iW1Nff6jgjo', toTimeStamp(now()), {'russian', 'invention'}, {}, {}, {});
 
 insert into video_sharing.videos
 (video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
-VALUES (12, 3, 'final euro 2016 golo de eder chuta dai', 'A video about the best goal ever', 'https://www.youtube.com/watch?v=_t-4V4am5Qk', toTimeStamp(now()), {'goal', 'euro 2016'}, {}, {}, {});
+VALUES (12, 9, 'final euro 2016 golo de eder chuta dai', 'A video about the best goal ever', 'https://www.youtube.com/watch?v=_t-4V4am5Qk', toTimeStamp(now()), {'goal', 'euro 2016'}, {}, {}, {});
+insert into video_sharing.videos
+(video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
+VALUES (13, 9, 'It Is Wednesday My Dudes', 'A video about the best wekday ever', 'https://www.youtube.com/watch?v=du-TY1GUFGk', toTimeStamp(now()), {'wednesday'}, {}, {}, {});
 
 insert into video_sharing.videos
 (video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
-VALUES (13, 3, 'It Is Wednesday My Dudes', 'A video about the best wekday ever', 'https://www.youtube.com/watch?v=du-TY1GUFGk', toTimeStamp(now()), {'wednesday'}, {}, {}, {});
-
+VALUES (14, 13, 'Ozzy Man Reviews: Best Soccer Ending Ever', 'A video about the best football game ever', 'https://www.youtube.com/watch?v=j-rmM1uQdms', toTimeStamp(now()), {'football'}, {}, {}, {});
 insert into video_sharing.videos
 (video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
-VALUES (14, 3, 'Ozzy Man Reviews: Best Soccer Ending Ever', 'A video about the best football game ever', 'https://www.youtube.com/watch?v=j-rmM1uQdms', toTimeStamp(now()), {'football'}, {}, {}, {});
-
-insert into video_sharing.videos
-(video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
-VALUES (15, 4, 'Toddler Instantly Rips off Baby Proof Plate With Ease', 'A video about the best baby ever', 'https://www.youtube.com/shorts/wfWMs_0wd_g', toTimeStamp(now()), {'baby', 'cute'}, {}, {}, {});
-
+VALUES (15, 13, 'Toddler Instantly Rips off Baby Proof Plate With Ease', 'A video about the best baby ever', 'https://www.youtube.com/shorts/wfWMs_0wd_g', toTimeStamp(now()), {'baby', 'cute'}, {}, {}, {});
 insert into video_sharing.videos 
 (video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
-VALUES(16, 4. 'The Superman''s Return - Michael Guerra is back on bike to fight road cyclists'' crimes', 'A video about the best cyclist ever', 'https://www.youtube.com/watch?v=3Iz7ZMALaCY', toTimeStamp(now()), {'cyclist'}, {}, {}, {});
-
+VALUES(16, 13. 'The Superman''s Return - Michael Guerra is back on bike to fight road cyclists'' crimes', 'A video about the best cyclist ever', 'https://www.youtube.com/watch?v=3Iz7ZMALaCY', toTimeStamp(now()), {'cyclist'}, {}, {}, {});
 insert into video_sharing.videos
 (video_id, user_id, video_name, video_description, video_url, creation_timestamp, tags)
-VALUES (17, 2, 'But I Did Kidnap His Wife!', 'A video about the best criminal ever', 'https://www.youtube.com/watch?v=52q-wJQAO-Y', toTimeStamp(now()), {'gta5', 'trevor', 'michael'}, {}, {}, {});
+VALUES (17, 13, 'But I Did Kidnap His Wife!', 'A video about the best criminal ever', 'https://www.youtube.com/watch?v=52q-wJQAO-Y', toTimeStamp(now()), {'gta5', 'trevor', 'michael'}, {}, {}, {});
 
 
 
