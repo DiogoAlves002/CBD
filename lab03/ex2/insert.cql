@@ -138,66 +138,68 @@ VALUES (17, 13, 'But I Did Kidnap His Wife!', 'A video about the best criminal e
 
 
 
-BEGIN BATCH USING TIMESTAMP 1111111111
 
-  INSERT INTO video_sharing.commentsByUser(
-    comment_id, author_user_id, video_id, comment_text, creation_timestamp
-  ) VALUES (
-    1, 2, 1, 'YES!!!!!  So I''m a manager at a software company.  Ever since I heard this song I send this out to my team every Friday.  They love it.  I know one day someone will forward it to HR.  But you know, until then it''s FFFUFL', 1111111111
-  );
-  
-  INSERT INTO cycling.commentsByUser (
-    comment_id, author_user_id, video_id, comment_text, creation_timestamp
-  ) VALUES (
-    1, 2, 1, 'YES!!!!!  So I''m a manager at a software company.  Ever since I heard this song I send this out to my team every Friday.  They love it.  I know one day someone will forward it to HR.  But you know, until then it''s FFFUFL', 1111111111
-  );
 
-APPLY BATCH;
+
+--comments 
+begin batch using timestamp 1111111111
+INSERT INTO video_sharing.commentsByUser(
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
+    ) VALUES (
+      1, 2, 1, 'YES!!!!!  So I''m a manager at a software company.  Ever since I heard this song I send this out to my team every Friday.  They love it.  I know one day someone will forward it to HR.  But you know, until then it''s FFFUFL', '2022-12-06T00:00:00.001+0000'
+    );
+
+INSERT INTO video_sharing.commentsByUser (
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
+    ) VALUES (
+      1, 2, 1, 'YES!!!!!  So I''m a manager at a software company.  Ever since I heard this song I send this out to my team every Friday.  They love it.  I know one day someone will forward it to HR.  But you know, until then it''s FFFUFL', 1111111111
+    );
+apply batch;
 begin batch using timestamp 1111111112
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
-      2, 2, 3, 'I need a 10 hour version. I could and would literally listen to this all day. Clear Bill Wurtz vibe. Love it ❤️', 1111111111
+      2, 2, 3, 'I need a 10 hour version. I could and would literally listen to this all day. Clear Bill Wurtz vibe. Love it ❤️', 1111111112
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
-      2, 2, 3, 'I need a 10 hour version. I could and would literally listen to this all day. Clear Bill Wurtz vibe. Love it ❤️', 1111111111
+      2, 2, 3, 'I need a 10 hour version. I could and would literally listen to this all day. Clear Bill Wurtz vibe. Love it ❤️', 1111111112
     );
 apply batch;
 begin batch using timestamp 1111111113
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
-      3, 2, 4. 'Congratulations! If you''re reading this and it''s Friday, you made it through the week! Good job! Enjoy Flat Fuck Friday!', 1111111111
+      3, 2, 4. 'Congratulations! If you''re reading this and it''s Friday, you made it through the week! Good job! Enjoy Flat Fuck Friday!', 1111111113
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
-      3, 2, 4. 'Congratulations! If you''re reading this and it''s Friday, you made it through the week! Good job! Enjoy Flat Fuck Friday!', 1111111111
+      3, 2, 4. 'Congratulations! If you''re reading this and it''s Friday, you made it through the week! Good job! Enjoy Flat Fuck Friday!', 1111111113
     );
 apply batch;
 
 begin batch using timestamp 1111111114
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       4, 3, 2, 'The camera man knew what Dwight was doing and did absolutely nothing but film this chaos. Nice.', 1111111114
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       4, 3, 2, 'The camera man knew what Dwight was doing and did absolutely nothing but film this chaos. Nice.', 1111111114
     );
 apply batch;
 begin batch using timestamp 1111111115
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       5, 3, 3, 'I love how Michael screams, “OH MY GOD, IT''S HAPPENING,” like he has been expecting this to happen for years. 💀', 1111111115
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       5, 3, 3, 'I love how Michael screams, “OH MY GOD, IT''S HAPPENING,” like he has been expecting this to happen for years. 💀', 1111111115
     );
@@ -205,48 +207,48 @@ apply batch;
 
 begin batch using timestamp 1111111116
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       6, 8, 3, 'the fact that it''s jschlatt, a force of chaos, telling him to stop just makes it even better. if you can make schlatt concerned then you are a force to be reckoned with', 1111111116
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       6, 8, 3, 'the fact that it''s jschlatt, a force of chaos, telling him to stop just makes it even better. if you can make schlatt concerned then you are a force to be reckoned with', 1111111116
     );
 apply batch;
 begin batch using timestamp 1111111117
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       7, 8, 2, 'YOUR BUILD SUCKS, YOU SUCK - Technoblade to Smajor, now in a tournament that Smajor organizes', 1111111117
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       7, 8, 2, 'YOUR BUILD SUCKS, YOU SUCK - Technoblade to Smajor, now in a tournament that Smajor organizes', 1111111117
     );
 apply batch;
 begin batch using timestamp 1111111118
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       8, 8, 1, 'It took him a year and a half to edit this clip, but he finally did it.', 1111111118
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       8, 8, 1, 'It took him a year and a half to edit this clip, but he finally did it.', 1111111118
     );
 apply batch;
 begin batch using timestamp 1111111119
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       9, 8, 3, 'Techno is just too powerful for everyone', 1111111119
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       9, 8, 3, 'Techno is just too powerful for everyone', 1111111119
     );
@@ -254,24 +256,24 @@ apply batch;
 
 begin batch using timestamp 1111111120
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       10, 9, 6, 'He''s actually a brilliant stand up comedian because he knew that atleast some1 will clap his hands subconsciously', 1111111120
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       10, 9, 6, 'He''s actually a brilliant stand up comedian because he knew that atleast some1 will clap his hands subconsciously', 1111111120
     );
 apply batch;
 begin batch using timestamp 1111111121
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       11, 9, 5, 'Plot twist- they were not clapping, they were reloading guns.', 1111111121
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       11, 9, 5, 'Plot twist- they were not clapping, they were reloading guns.', 1111111121
     );
@@ -279,24 +281,24 @@ apply batch;
 
 begin batch using timestamp 1111111122
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       12, 12, 7, 'a única pessoa deste mundo que queria que o Éder chutasse à baliza!', 1111111122
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       12, 12, 7, 'a única pessoa deste mundo que queria que o Éder chutasse à baliza!', 1111111122
     );
 apply batch;
 begin batch using timestamp 1111111123
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       13, 12, 8, 'I''m Portuguese and I don''t understand a word of what he''s saying but I''m still laughing', 1111111123
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       13, 12, 8, 'I''m Portuguese and I don''t understand a word of what he''s saying but I''m still laughing', 1111111123
     );
@@ -304,24 +306,24 @@ apply batch;
 
 begin batch using timestamp 1111111124
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       14, 13, 9, 'I just realized... 2020 began on a Wednesday. This whole year has been one long aaaaaah. 2020 is the world''s longest It is Wednesday my dudes ever.', 1111111124
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       14, 13, 9, 'I just realized... 2020 began on a Wednesday. This whole year has been one long aaaaaah. 2020 is the world''s longest It is Wednesday my dudes ever.', 1111111124
     );
 apply batch;
 begin batch using timestamp 1111111125
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       15, 13, 10, 'Imagine if this was the only evidence that humans ever existed', 1111111125
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       15, 13, 10, 'Imagine if this was the only evidence that humans ever existed', 1111111125
     );
@@ -329,301 +331,103 @@ apply batch;
 
 begin batch using timestamp 1111111126
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       16, 14, 11, 'I''m not crying, you''re crying', 1111111126
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
       16, 14, 11, 'I''m not crying, you''re crying', 1111111126
     );
 apply batch;
-------------------------------------------------------------------------------------HERE
 begin batch using timestamp 1111111127
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
-      16, 14, 11, 'I''m not crying, you''re crying', 1111111127
+      17, 14, 12, 'Hellooooo is there a less shit referee around? - every football fan ever', 1111111127
     );
-insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+insert into video_sharing.commentsByUser(
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
-      16, 14, 11, 'I''m not crying, you''re crying', 1111111127
+      17, 14, 12, 'Hellooooo is there a less shit referee around? - every football fan ever', 1111111127
     );
 apply batch;
 begin batch using timestamp 1111111128
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
-      15, 13, 10, 'Imagine if this was the only evidence that humans ever existed', 1111111128
+      18, 14, 13, 'Being a fan of soccer, moments like this are literally beautiful LOL', 1111111128
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
-      15, 13, 10, 'Imagine if this was the only evidence that humans ever existed', 1111111128
+      18, 14, 13, 'Being a fan of soccer, moments like this are literally beautiful LOL', 1111111128
     );
 apply batch;
+
 begin batch using timestamp 1111111129
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
-      15, 13, 10, 'Imagine if this was the only evidence that humans ever existed', 1111111129
+      19, 15, 14, 'It must be hard for him tobe a single child raising 2 parents', 1111111129
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
-      15, 13, 10, 'Imagine if this was the only evidence that humans ever existed', 1111111129
+      19, 15, 14, 'It must be hard for him tobe a single child raising 2 parents', 1111111129
     );
 apply batch;
 begin batch using timestamp 1111111130
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
-      15, 13, 10, 'Imagine if this was the only evidence that humans ever existed', 1111111130
+      20, 15, 15, 'He was like “I don''t even know why you try anymore Jim” lol. Yeah nothing is really baby proof. Even birth control lol', 1111111130
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
-      15, 13, 10, 'Imagine if this was the only evidence that humans ever existed', 1111111130
+      20, 15, 15, 'He was like “I don''t even know why you try anymore Jim” lol. Yeah nothing is really baby proof. Even birth control lol', 1111111130
     );
 apply batch;
 begin batch using timestamp 1111111131
 insert into video_sharing.commentsByUser(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
-      15, 13, 10, 'Imagine if this was the only evidence that humans ever existed', 1111111131
+      21, 15, 16, 'His expression at the end said: "Is that all you got, bro?"', 1111111131
     );
 insert into video_sharing.commentsByVideo(
-    comment_id, user_id, video_id, comment_text, creation_timestamp
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
     )VALUES (
-      15, 13, 10, 'Imagine if this was the only evidence that humans ever existed', 1111111131
+      21, 15, 16, 'His expression at the end said: "Is that all you got, bro?"', 1111111131
+    );
+apply batch;
+begin batch using timestamp 1111111132
+insert into video_sharing.commentsByUser(
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
+    )VALUES (
+      22, 15, 17, 'He looks dissapointed in his dad for buying that instead of toys.', 1111111132
+    );
+insert into video_sharing.commentsByVideo(
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
+    )VALUES (
+      22, 15, 17, 'He looks dissapointed in his dad for buying that instead of toys.', 1111111132
     );
 apply batch;
 
+begin batch using timestamp 1111111133
+insert into video_sharing.commentsByUser(
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
+    )VALUES (
+      23, 16, 18, '"what is he doing ?" "He''s beginning to believe"', 1111111133
+    );
+insert into video_sharing.commentsByVideo(
+    comment_id, author_user_id, video_id, comment_text, creation_timestamp
+    )VALUES (
+      23, 16, 18, '"what is he doing ?" "He''s beginning to believe"', 1111111133
+    );
+apply batch;
 
-
-
-
-
-
-
--- comments
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(1, 2, 1, 'YES!!!!!  So I''m a manager at a software company.  Ever since I heard this song I send this out to my team every Friday.  They love it.  I know one day someone will forward it to HR.  But you know, until then it''s FFFUFL', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {1}
-where video_id = 2;
-update video_sharing.user
-set comments_id = comments_id + {1}
-where user_id = 1; #
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(2, 2, 3, 'I need a 10 hour version. I could and would literally listen to this all day. Clear Bill Wurtz vibe. Love it ❤️', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {2}
-where video_id = 2;
-update video_sharing.user
-set comments_id = comments_id + {2}
-where user_id = 3; #
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(3, 2, 4. 'Congratulations! If you''re reading this and it''s Friday, you made it through the week! Good job! Enjoy Flat Fuck Friday!', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {3}
-where video_id = 2;
-update video_sharing.user
-set comments_id = comments_id + {3}
-where user_id = 4; #
-
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(4, 3, 2, 'The camera man knew what Dwight was doing and did absolutely nothing but film this chaos. Nice.', toTimeStamp(now()));
-insert into video_sharing.comments
-update video_sharing.video
-set comments_id = comments_id + {4}
-where video_id = 3;
-update video_sharing.user
-set comments_id = comments_id + {4}
-where user_id = 2;#
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(5, 3, 3, 'I love how Michael screams, “OH MY GOD, IT''S HAPPENING,” like he has been expecting this to happen for years. 💀', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {5}
-where video_id = 3;
-update video_sharing.user
-set comments_id = comments_id + {5}
-where user_id = 3;#
-
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(6, 8, 3, 'the fact that it''s jschlatt, a force of chaos, telling him to stop just makes it even better. if you can make schlatt concerned then you are a force to be reckoned with', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {6}
-where video_id = 8;
-update video_sharing.user
-set comments_id = comments_id + {6}
-where user_id = 3;#
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(7, 8, 2, 'YOUR BUILD SUCKS, YOU SUCK - Technoblade to Smajor, now in a tournament that Smajor organizes', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {7}
-where video_id = 8;
-update video_sharing.user
-set comments_id = comments_id + {7}
-where user_id = 2;#
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(8, 8, 1, 'It took him a year and a half to edit this clip, but he finally did it.', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {8}
-where video_id = 8;
-update video_sharing.user
-set comments_id = comments_id + {8}
-where user_id = 1;#
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(9, 8, 3, 'Techno is just too powerful for everyone', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {9}
-where video_id = 8;
-update video_sharing.user
-set comments_id = comments_id + {9}
-where user_id = 3;#
-
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(10, 9, 6, 'He''s actually a brilliant stand up comedian because he knew that atleast some1 will clap his hands subconsciously', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {10}
-where video_id = 9;
-update video_sharing.user
-set comments_id = comments_id + {10}
-where user_id = 6;#
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(11, 9, 5, 'Plot twist- they were not clapping, they were reloading guns.', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {11}
-where video_id = 9;
-update video_sharing.user
-set comments_id = comments_id + {11}
-where user_id = 5;#
-
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(12, 12, 7, 'a única pessoa deste mundo que queria que o Éder chutasse à baliza!', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {12}
-where video_id = 12;
-update video_sharing.user
-set comments_id = comments_id + {12}
-where user_id = 7;#
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(13, 12, 8, 'I''m Portuguese and I don''t understand a word of what he''s saying but I''m still laughing', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {13}
-where video_id = 12;
-update video_sharing.user
-set comments_id = comments_id + {13}
-where user_id = 8;#
-
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(14, 13, 9, 'I just realized... 2020 began on a Wednesday. This whole year has been one long aaaaaah. 2020 is the world''s longest It is Wednesday my dudes ever.', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {14}
-where video_id = 13;
-update video_sharing.user
-set comments_id = comments_id + {14}
-where user_id = 9;#
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(15, 13, 10, 'Imagine if this was the only evidence that humans ever existed', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {15}
-where video_id = 13;
-update video_sharing.user
-set comments_id = comments_id + {15}
-where user_id = 10;#
-
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(16, 14, 11, 'I''m not crying, you''re crying', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {16}
-where video_id = 14;
-update video_sharing.user
-set comments_id = comments_id + {16}
-where user_id = 11;#
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(17, 14, 12, 'Hellooooo is there a less shit referee around? - every football fan ever', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {17}
-where video_id = 14;
-update video_sharing.user
-set comments_id = comments_id + {17}
-where user_id = 12;
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(18, 14, 13, 'Being a fan of soccer, moments like this are literally beautiful LOL', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {18}
-where video_id = 14;
-update video_sharing.user
-set comments_id = comments_id + {18}
-where user_id = 13;
-
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(19, 15, 14, 'It must be hard for him tobe a single child raising 2 parents', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {19}
-where video_id = 15;
-update video_sharing.user
-set comments_id = comments_id + {19}
-where user_id = 14;
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(20, 15, 15, 'He was like “I don''t even know why you try anymore Jim” lol. Yeah nothing is really baby proof. Even birth control lol', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {20}
-where video_id = 15;
-update video_sharing.user
-set comments_id = comments_id + {20}
-where user_id = 15;
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(21, 15, 16, 'His expression at the end said: "Is that all you got, bro?"', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {21}
-where video_id = 15;
-update video_sharing.user
-set comments_id = comments_id + {21}
-where user_id = 16;
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(22, 15, 17, 'He looks dissapointed in his dad for buying that instead of toys.', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {22}
-where video_id = 15;
-update video_sharing.user
-set comments_id = comments_id + {22}
-where user_id = 17;
-
-insert into video_sharing.comments
-(comment_id, video_id, author_user_id, data, creation_timestamp)
-VALUES(23, 16, 18, '"what is he doing ?" "He''s beginning to believe"', toTimeStamp(now()));
-update video_sharing.video
-set comments_id = comments_id + {23}
-where video_id = 16;
-update video_sharing.user
-set comments_id = comments_id + {23}
-where user_id = 18;
 
 
 
