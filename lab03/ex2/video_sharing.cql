@@ -54,7 +54,7 @@ create table if not exists events(
     event_id int primary key,
     video_id int,
     user_id int,
-    event_ text,
+    event_type text,
     video_time int,
     creation_timestamp timestamp  
 );

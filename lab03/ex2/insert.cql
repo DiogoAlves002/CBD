@@ -441,136 +441,136 @@ apply batch;
 
 -- events
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(1, 1, 2, 'pause', 10, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(2, 1, 2, 'play', 10, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(3, 1, 2, 'pause', 20, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(4, 1, 2, 'play', 20, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(5, 1, 2, 'pause', 50, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(6, 1, 2, 'play', 50, toTimeStamp(now()));
 
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(4, 2, 1, 'pause', 10, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(5, 2, 3, 'pause', 20, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(6, 2, 1, 'stop', 10, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(7, 2, 3, 'play', 20, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(8, 2, 3, 'pause', 40, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(9, 2, 3, 'play', 40, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(10, 2, 3, 'pause', 66, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(11, 2, 3, 'play', 66, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(12, 2, 3, 'stop', 80, toTimeStamp(now()));
 
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(9, 3, 4, 'pause', 15, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(10, 3, 4, 'play', 15, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(11, 3, 4, 'pause', 30, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(12, 3, 4, 'play', 30, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(13, 3, 4, 'pause', 60, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(14, 3, 4, 'stop', 60, toTimeStamp(now()));
 
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(11, 4, 8, 'stop', 50, toTimeStamp(now()));
 
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(12, 5, 10, 'pause', 100, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(13, 5, 10, 'play', 100, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(14, 5, 12, 'pause', 200, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(15, 5, 10, 'pause', 150, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(16, 5, 10, 'play', 150, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(17, 5, 12, 'play', 200, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(18, 5, 10, 'stop', 210, toTimeStamp(now()));
 
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(14, 6, 11, 'pause', 10, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(15, 6, 14, 'stop', 30, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(15, 6, 11, 'play', 10, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(16, 6, 11, 'pause', 20, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(17, 6, 11, 'play', 20, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(18, 6, 11, 'pause', 30, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(19, 6, 11, 'play', 30, toTimeStamp(now()));
 
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(16, 7, 12, 'pause', 80, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(17, 7, 12, 'play', 80, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(18, 7, 12, 'pause', 100, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(19, 7, 12, 'play', 100, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(20, 7, 12, 'pause', 120, toTimeStamp(now()));
 insert into video_sharing.events
-(event_id, video_id, user_id, event_type, video_time, , creation_timestamp)
+(event_id, video_id, user_id, event_type, video_time, creation_timestamp)
 VALUES(21, 7, 12, 'stop', 120, toTimeStamp(now()));
 
 
@@ -582,47 +582,47 @@ VALUES(21, 7, 12, 'stop', 120, toTimeStamp(now()));
 
 
 -- followers
-update video_sharing.video
+update video_sharing.videos
 set followers_id = followers_id + {2, 3, 4}
 where video_id = 1;
 
-update video_sharing.video
+update video_sharing.videos
 set followers_id = followers_id + {1, 4}
 where video_id = 2;
 
-update video_sharing.video
+update video_sharing.videos
 set followers_id = followers_id + {2, 4, 6, 9, 10}
 where video_id = 3;
 
-update video_sharing.video
+update video_sharing.videos
 set followers_id = followers_id + {3, 4, 10}
 where video_id = 5;
 
-update video_sharing.video
+update video_sharing.videos
 set followers_id = followers_id + {7, 9, 10, 15, 16, 17}
 where video_id = 6;
 
-update video_sharing.video
+update video_sharing.videos
 set followers_id = followers_id + {1}
 where video_id = 7;
 
-update video_sharing.video
+update video_sharing.videos
 set followers_id = followers_id + {1, 4, 5, 12, 13, 14, 16, 17}
 where video_id = 8;
 
-update video_sharing.video
+update video_sharing.videos
 set followers_id = followers_id + {1, 15, 16}
 where video_id = 11;
 
-update video_sharing.video
+update video_sharing.videos
 set followers_id = followers_id + {2, 7, 11}
 where video_id = 12;
 
-update video_sharing.video
+update video_sharing.videos
 set followers_id = followers_id + {1, 3, 4, 7, 8, 9, 10, 14, 16, 17}
 where video_id = 15;
 
-update video_sharing.video
+update video_sharing.videos
 set followers_id = followers_id + {1, 14, 15, 16, 17}
 where video_id = 17;
 
@@ -634,72 +634,72 @@ where video_id = 17;
 
 
 -- ratings
-update  video_sharing.video 
-set rating = rating + {1, 4, 3, 5, 3, 4, 3, 5} # a ideia era ir atualizando um de cada vez para simular diferentes utilizadores cada um a dar o seu rating, mas era trabalho desnecessario
+update  video_sharing.videos 
+set ratings = ratings + [1, 4, 3, 5, 3, 4, 3, 5] -- a ideia era ir atualizando um de cada vez para simular diferentes utilizadores cada um a dar o seu rating, mas era trabalho desnecessario
 where video_id = 1;
 
-update  video_sharing.video
-set rating = rating + {3, 1, 4, 5, 4, 5, 3, 4, 1, 1, 2, 1, 4, 5, 5}
+update  video_sharing.videos
+set ratings = ratings + [3, 1, 4, 5, 4, 5, 3, 4, 1, 1, 2, 1, 4, 5, 5]
 where video_id = 2;
 
-update  video_sharing.video
-set rating = rating + {4, 5, 5, 2, 4, 2, 2, 3, 1, 4, 2, 2, 5, 5, 4, 2, 5, 3, 2}
+update  video_sharing.videos
+set ratings = ratings + [4, 5, 5, 2, 4, 2, 2, 3, 1, 4, 2, 2, 5, 5, 4, 2, 5, 3, 2]
 where video_id = 3;
 
-update  video_sharing.video
-set rating = rating + {2, 3, 1, 2, 3, 4, 2, 5, 5, 1, 3, 1, 2, 3, 1, 3, 5}
+update  video_sharing.videos
+set ratings = ratings + [2, 3, 1, 2, 3, 4, 2, 5, 5, 1, 3, 1, 2, 3, 1, 3, 5]
 where video_id = 4;
 
-update  video_sharing.video
-set rating = rating + {5, 1, 4, 2, 5, 2, 4, 4}
+update  video_sharing.videos
+set ratings = ratings + [5, 1, 4, 2, 5, 2, 4, 4]
 where video_id = 5;
 
-update  video_sharing.video
-set rating = rating + {5, 1, 1, 5, 5, 3, 4, 4, 5, 2}
+update  video_sharing.videos
+set ratings = ratings + [5, 1, 1, 5, 5, 3, 4, 4, 5, 2]
 where video_id = 6;
 
-update  video_sharing.video
-set rating = rating + {4, 1, 5, 3, 5, 1, 2, 1, 3}
+update  video_sharing.videos
+set ratings = ratings + [4, 1, 5, 3, 5, 1, 2, 1, 3]
 where video_id = 7;
 
-update  video_sharing.video
-set rating = rating + {2, 4, 2, 2, 4, 3, 1, 3}
+update  video_sharing.videos
+set ratings = ratings + [2, 4, 2, 2, 4, 3, 1, 3]
 where video_id = 8;
 
-update  video_sharing.video
-set rating = rating + {2, 2, 2, 3, 1, 2, 4, 3, 2, 4, 2, 4, 3}
-where video_id = 9
+update  video_sharing.videos
+set ratings = ratings + [2, 2, 2, 3, 1, 2, 4, 3, 2, 4, 2, 4, 3]
+where video_id = 9;
 
-update  video_sharing.video
-set rating = rating + {4, 3, 3, 3, 2, 2, 3, 2, 1, 4, 2, 2, 2, 4, 1}
+update  video_sharing.videos
+set ratings = ratings + [4, 3, 3, 3, 2, 2, 3, 2, 1, 4, 2, 2, 2, 4, 1]
 where video_id = 10;
 
-update  video_sharing.video
-set rating = rating + {2, 5, 3, 2, 5, 5, 1, 4, 2}
+update  video_sharing.videos
+set ratings = ratings + [2, 5, 3, 2, 5, 5, 1, 4, 2]
 where video_id = 11;
 
-update  video_sharing.video
-set rating = rating + {5, 4, 5, 4, 3, 1, 3, 1, 5, 1, 1, 2, 1, 5, 1, 4, 2, 4}
+update  video_sharing.videos
+set ratings = ratings + [5, 4, 5, 4, 3, 1, 3, 1, 5, 1, 1, 2, 1, 5, 1, 4, 2, 4]
 where video_id = 12;
 
-update  video_sharing.video
-set rating = rating + {1, 1, 5, 2, 5, 5, 5, 5, 3, 3, 3, 3, 3}
+update  video_sharing.videos
+set ratings = ratings + [1, 1, 5, 2, 5, 5, 5, 5, 3, 3, 3, 3, 3]
 where video_id = 13;
 
-update  video_sharing.video
-set rating = rating + {3, 4, 1, 4, 4, 4, 5, 2, 4, 5}
+update  video_sharing.videos
+set ratings = ratings + [3, 4, 1, 4, 4, 4, 5, 2, 4, 5]
 where video_id = 14;
 
-update  video_sharing.video
-set rating = rating + {5, 4, 1, 2, 2, 4, 2, 5, 4, 2, 3, 4}
+update  video_sharing.videos
+set ratings = ratings + [5, 4, 1, 2, 2, 4, 2, 5, 4, 2, 3, 4]
 where video_id = 15;
 
-update  video_sharing.video
-set rating = {rating + 2, 3, 4, 1, 1, 3, 5}
+update  video_sharing.videos
+set ratings = ratings + [2, 3, 4, 1, 1, 3, 5]
 where video_id = 16;
 
-update  video_sharing.video
-set rating = rating + {1, 3, 1, 4, 2, 2, 4, 2, 5, 1, 3, 5, 3, 1, 1, 5, 4, 4, 1}
+update  video_sharing.videos
+set ratings = ratings + [1, 3, 1, 4, 2, 2, 4, 2, 5, 1, 3, 5, 3, 1, 1, 5, 4, 4, 1]
 where video_id = 17;
 
 
