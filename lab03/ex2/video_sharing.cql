@@ -1,3 +1,5 @@
+drop keyspace video_sharing;
+
 create keyspace if not exists video_sharing with replication = {'class': 'SimpleStrategy', 'replication_factor': '1'};
 use video_sharing;
 
@@ -6,9 +8,7 @@ create table IF NOT EXISTS users (
     user_name text,
     name text,
     email text,
-    creation_timestamp timestamp,
-    
-    comments_id set <text>
+    creation_timestamp timestamp
 );
 
 
@@ -22,33 +22,32 @@ create table if not exists videos (
 
     tags set<text>,
     ratings list <int>,
-    followers_id set<int>,
-    comments_id set <int>
+    followers_id set<int>
 );
 
 
 create table if not exists commentsByUser (
-    comment_id int primary key,
+    comment_id int,
     author_user_id int,
     video_id int,
     comment_text text,
     creation_timestamp timestamp,
 
     PRIMARY KEY (comment_id, author_user_id, creation_timestamp)
-);
-WITH CLUSTERING ORDER BY (creation_timestamp DESC);
+)
+WITH CLUSTERING ORDER BY (author_user_id ASC, creation_timestamp DESC);
 
 
 create table if not exists commentsByVideo (
-    comment_id int primary key,
+    comment_id int,
     author_user_id int,
     video_id int,
     comment_text text,
     creation_timestamp timestamp,
 
     PRIMARY KEY (comment_id, video_id, creation_timestamp)
-);
-WITH CLUSTERING ORDER BY (creation_timestamp DESC);
+)
+WITH CLUSTERING ORDER BY (video_id ASC, creation_timestamp DESC);
 
 
 create table if not exists events(

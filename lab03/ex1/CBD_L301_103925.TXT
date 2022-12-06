@@ -1,9 +1,9 @@
 
--- create a keyspace
+-- Create a keyspace
 CREATE KEYSPACE IF NOT EXISTS store WITH REPLICATION = { 'class' : 'SimpleStrategy', 'replication_factor' : '1' };
 
 
--- show all keyspaces
+-- Show all keyspaces
 SELECT * FROM system_schema.keyspaces;
 
 
@@ -41,10 +41,10 @@ INSERT INTO store.shopping_cart (userid, item_count) VALUES ('4567', 20);
 
 
 
--- read data from a table
+-- Read data from a table
 SELECT * FROM store.shopping_cart;
 
--- read a specific collum from a table
+-- Read a specific collum from a table
 SELECT item_count FROM store.shopping_cart;
 
 
