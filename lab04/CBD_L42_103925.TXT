@@ -1,0 +1,59 @@
+// NMEC: 103925
+
+#1
+MATCH (actor)-[:DIRECTED]->(movie)<-[:ACTED_IN]-(actor) RETURN actor.name, movie.title
+
+
+#2
+MATCH (m:Movie)<-[:ACTED_IN]-(actor) WHERE m.released>2005 RETURN actor.name
+
+
+#3
+match (n)-[r]-(n2)
+with n, n2, count(r) as numRelations  
+where numRelations > 1
+return n, n2
+
+
+#4
+match (n:Person)-[:REVIEWED]->(m:Movie)<-[:REVIEWED]-(n2:Person)
+where id(n) > id(n2)
+return n.name, n2.name, m.title
+// id(n) > id(n2) asserts that names wont be repeated as (n-n2 , n2-n)
+
+
+#5
+match (n:Person)-[:ACTED_IN]->(m:Movie)<-[:ACTED_IN]-(n2:Person)
+with n, n2, count(m) as numMovies
+where id(n) < id(n2) and numMovies > 1
+return n.name, n2.name
+// Unfortunatly I dont think we can return the movie name since we'd need to add m to the with clause which interfers with the count
+
+
+#6
+match (n:Person)-[:ACTED_IN]->(m:Movie {title: "Apollo 13"})
+return avg(m.released - n.born) as avgAge
+
+
+#7
+match (n:Person)-[:ACTED_IN]->(m:Movie )
+with avg(m.released - n.born) as avgAge, m
+order by avgAge DESC
+limit 10
+return m.title, round(avgAge, 2)
+
+
+#8
+match (n:Person)-[:ACTED_IN]->(m:Movie )
+with avg(m.released - n.born) as avgAge, m
+order by avgAge
+limit 1
+match (n:Person)-[:ACTED_IN]->(m)
+return n.name, m.title
+// ------TODO (?)
+
+
+
+
+
+
