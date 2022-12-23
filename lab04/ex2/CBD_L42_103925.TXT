@@ -1,0 +1,132 @@
+// NMEC: 103925
+
+#1
+MATCH (actor)-[:DIRECTED]->(movie)<-[:ACTED_IN]-(actor) RETURN actor.name, movie.title
+
+
+#2
+MATCH (m:Movie)<-[:ACTED_IN]-(actor) WHERE m.released>2005 RETURN actor.name
+
+
+#3
+match (n)-[r]-(n2)
+with n, n2, count(r) as numRelations  
+where numRelations > 1
+return n, n2
+
+
+#4
+match (n:Person)-[:REVIEWED]->(m:Movie)<-[:REVIEWED]-(n2:Person)
+where id(n) > id(n2)
+return n.name, n2.name, m.title
+// id(n) > id(n2) asserts that names wont be repeated as (n-n2 , n2-n)
+
+
+#5
+match (n:Person)-[:ACTED_IN]->(m:Movie)<-[:ACTED_IN]-(n2:Person)
+with n, n2, count(m) as numMovies
+where id(n) < id(n2) and numMovies > 1
+return n.name, n2.name
+// Unfortunatly I dont think we can return the movie name since we'd need to add m to the with clause which interfers with the count
+
+
+#6
+match (n:Person)-[:ACTED_IN]->(m:Movie {title: "Apollo 13"})
+return avg(m.released - n.born) as avgAge
+
+
+#7
+match (n:Person)-[:ACTED_IN]->(m:Movie )
+with avg(m.released - n.born) as avgAge, m
+order by avgAge DESC
+limit 10
+return m.title, round(avgAge, 2)
+
+
+#8
+match (n:Person)-[:ACTED_IN]->(m:Movie )
+with avg(m.released - n.born) as avgAge, m
+order by avgAge
+limit 1
+match (n:Person)-[:ACTED_IN]->(m)
+return n.name, m.title
+
+
+#9
+match (n:Person {name: "John Cusack"}), (n2:Person {name: "Demi Moore"}), path = shortestPath((n)-[*]-(n2))
+return path
+// gives a warning that this may not be the most efficient way of doing this but it works
+
+
+#10
+match (n:Person {name: "Keanu Reeves"}), (n2:Person {name: "Tom Cruise"}), path = shortestPath((n)-[*]-(n2))
+return length(path) as pathLength
+
+
+#11
+match (n:Person), (n2:Person) 
+where n.name =~ '.*\\bJim\\b.*' and n2.name =~ '.*\\bKevin\\b.*'
+match path = shortestPath((n)-[*]-(n2))
+with length(path) as dimensions
+order by dimensions
+limit 1
+return dimensions
+
+
+#12
+MATCH (n: Person {name:'Jim Cash'})-[*2]-(n2: Person)
+RETURN n2
+
+
+#13
+MATCH (n: Person {name:'Kevin Bacon'}), (n2: Person), path = shortestPath((n)-[*]-(n2))
+where id(n) > id(n2)
+with length(path) as l, path
+order by l DESC
+limit 1
+RETURN path
+
+
+#14
+MATCH (n: Person), (n2: Person), path = shortestPath((n)-[*]-(n2))
+where id(n) > id(n2)
+with length(path) as len_pah
+order by len_pah DESC
+limit 1
+RETURN len_pah
+
+
+#15
+MATCH (n: Person), (n2: Person), path = shortestPath((n)-[*]-(n2))
+where id(n) > id(n2)
+with length(path) as len
+order by len
+RETURN len, count(len)
+
+
+#16
+MATCH (n: Person), (n2: Person), path = allShortestPaths((n)-[:ACTED_IN*]-(n2))
+where id(n) > id(n2)
+with avg(length(path)) as avg_len, n, n2
+order by avg_len
+limit 10
+RETURN n.name, n2.name, avg_len
+
+
+#17
+match (n:Person)-[r:ACTED_IN]->(m:Movie)
+where any(role in r.roles where role STARTS WITH 'Dr.')
+return n.name as Ator, r as Lista_das_roles
+
+
+
+
+
+
+
+
+
+
+
+
+
