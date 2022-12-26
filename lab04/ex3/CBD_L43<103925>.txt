@@ -1,0 +1,31 @@
+// NMEC: 103925
+
+// a) entity modelation
+
+// (:User {svn_id, real_name, organization})-[:worked_on {num, role_on_project}]->(:Project {project_name})
+
+
+
+
+// b) load Data into Neo4j
+
+// load csv with headers from 'file:///git_selection.csv' as row
+// with toInteger(row.num) as num, row
+// merge (u:User {svn_id: row.svn_id, real_name: row.real_name, organization: row.organization})
+// merge (p:Project {project_name: row.project_name})
+// merge (u)-[w:worked_on {num: toInteger(num), role_on_project: row.role_on_project}]->(p);
+
+
+
+
+// c) cypher queries
+
+#1
+match (u:User)-[w:worked_on]->(p:Project)
+return u as user
+
+
+#2
+load csv with headers from 'file:///git_selection.csv' as row
+with toInteger(row.num) as num, row
+return row.real_name as name
