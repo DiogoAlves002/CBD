@@ -27,7 +27,7 @@ return u as user
 
 #2
 match (u:User)-[w:worked_on]->(p:Project)
-return u.real_name as nome
+return distinct(u.real_name) as nome
 
 
 #3
@@ -39,13 +39,13 @@ return p
 
 #4
 match (u:User)-[w:worked_on]->(p:Project)
-with count(r) as numProjects, u
+with count(p) as numProjects, u
 return u, numProjects
 
 
 #5
 match (u:User)-[w:worked_on]->(p:Project)
-with count(r) as numProjects, u
+with count(p) as numProjects, u
 return u, numProjects
 order by numProjects desc
 
@@ -63,14 +63,13 @@ return p, numUsers
 
 #8
 match (u:User {svn_id: "atm"})-[w:worked_on]->(p:Project)<-[w2:worked_on]-(u2:User)
-where id(u) > id(u2)
+where not u2.svn_id = "atm"
 return u.real_name as atm_name, u2.real_name as user2_name, p.project_name as project_name
 
 
 #9
 match (u:User {svn_id: "atm"})-[w:worked_on {role_on_project: "PMC"}]->(p:Project)<-[w2:worked_on {role_on_project: "Committer"}]-(u2:User)
-where id(u) > id(u2)
-return u2 as user
-
+where not u2.svn_id = "atm"
+return u2.svn_id as user
 
 
