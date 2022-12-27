@@ -9,11 +9,11 @@
 
 // b) load Data into Neo4j
 
-// load csv with headers from 'file:///git_selection.csv' as row
-// with toInteger(row.num) as num, row
-// merge (u:User {svn_id: row.svn_id, real_name: row.real_name, organization: row.organization})
-// merge (p:Project {project_name: row.project_name})
-// merge (u)-[w:worked_on {num: toInteger(num), role_on_project: row.role_on_project}]->(p);
+load csv with headers from 'file:///git_selection.csv' as row
+with toInteger(row.num) as num, row
+merge (u:User {svn_id: row.svn_id, real_name: row.real_name, organization: row.organization})
+merge (p:Project {project_name: row.project_name})
+merge (u)-[w:worked_on {num: toInteger(num), role_on_project: row.role_on_project}]->(p);
 
 
 
@@ -26,6 +26,51 @@ return u as user
 
 
 #2
-load csv with headers from 'file:///git_selection.csv' as row
-with toInteger(row.num) as num, row
-return row.real_name as name
+match (u:User)-[w:worked_on]->(p:Project)
+return u.real_name as nome
+
+
+#3
+match (u:User)-[w:worked_on]->(p:Project)
+with count(p) as numUsers, p
+where numUsers > 1
+return p
+
+
+#4
+match (u:User)-[w:worked_on]->(p:Project)
+with count(r) as numProjects, u
+return u, numProjects
+
+
+#5
+match (u:User)-[w:worked_on]->(p:Project)
+with count(r) as numProjects, u
+return u, numProjects
+order by numProjects desc
+
+#6
+match (u:User)-[w:worked_on]->(p:Project)
+with count(u) as numUsers, p
+return p, numUsers
+
+
+#7
+match (u:User)-[w:worked_on {role_on_project: "Committer"}]->(p:Project)
+with count(u) as numUsers, p
+return p, numUsers
+
+
+#8
+match (u:User {svn_id: "atm"})-[w:worked_on]->(p:Project)<-[w2:worked_on]-(u2:User)
+where id(u) > id(u2)
+return u.real_name as atm_name, u2.real_name as user2_name, p.project_name as project_name
+
+
+#9
+match (u:User {svn_id: "atm"})-[w:worked_on {role_on_project: "PMC"}]->(p:Project)<-[w2:worked_on {role_on_project: "Committer"}]-(u2:User)
+where id(u) > id(u2)
+return u2 as user
+
+
+
