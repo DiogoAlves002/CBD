@@ -1,0 +1,666 @@
+,id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license,state,city
+4,51498,Guest House With Its Own Entrance/Exit and Hot Tub,236758,Bay,City of Los Angeles,Mar Vista,34.00389,-118.44126,Entire home/apt,189,3,378,2022-08-21,2.6,1,348,41,HSR19-001336,CA,Los Angeles
+7,2732,Zen Life at the Beach,3041,Yoga Priestess,Other Cities,Santa Monica,34.0044,-118.48095,Private room,179,7,24,2022-08-21,0.17,2,323,3,228269,CA,Los Angeles
+11,187526,Malibu Pacific Ocean View Room 1,215462,Paul,Other Cities,Malibu,34.03073,-118.75513,Private room,350,2,196,2022-08-24,1.58,4,365,14,Exempt,CA,Los Angeles
+15,5728,Tiny Home in Artistic Oasis near Venice and LAX,9171,Sanni,City of Los Angeles,Del Rey,33.9875,-118.432,Private room,50,30,314,2022-05-31,1.96,3,48,2,HSR19-002149,CA,Los Angeles
+17,5729,Zen Room with Floating Bed near Venice and LAX,9171,Sanni,City of Los Angeles,Del Rey,33.9875,-118.432,Private room,65,30,238,2022-07-28,1.5,3,77,6,HSR19-002149,CA,Los Angeles
+20,61153,Hollywood  Hills Bedroom,3415,Nataraj,City of Los Angeles,Hollywood Hills West,34.10998,-118.38152,Private room,71,30,9,2021-08-22,0.09,4,365,0,HSR19-004287,CA,Los Angeles
+25,195229,"Great West L.A. location, near much",393829,Debra,City of Los Angeles,Mar Vista,34.02035,-118.43428,Private room,147,30,38,2022-04-23,0.31,1,365,7,HSR21-001488,CA,Los Angeles
+26,63416,VIEWS! HOLLYWOOD SIGN - DOWNTOWN #1,309512,Vincenzo,City of Los Angeles,Hollywood Hills,34.11344,-118.32399,Private room,150,2,130,2022-07-11,0.91,3,330,16,HSR21-000113,CA,Los Angeles
+27,7992,Quiet/Cozy/Clean/Walkable Quaint Area,22363,Tom,City of Los Angeles,Atwater Village,34.11364,-118.26068,Entire home/apt,100,31,269,2022-08-07,2.04,2,129,24,HSR19-003514,CA,Los Angeles
+43,69838,L.A. Lifestyle--like you live here,351521,Georgia,City of Los Angeles,Mid-City,34.03833,-118.33662,Private room,109,2,661,2022-09-06,4.72,1,279,55,HSR21-001664,CA,Los Angeles
+44,74770,Spacious Upstairs Studio Near Lake Balboa Park,394279,Zeev,City of Los Angeles,Encino,34.18177,-118.52621,Entire home/apt,119,2,170,2022-09-04,1.21,3,262,34,HSR19-003866,CA,Los Angeles
+45,210489,3br 3ba townhome near Beverly Hills,76111,Joy,City of Los Angeles,Pico-Robertson,34.05303,-118.39449,Entire home/apt,340,31,14,2019-08-22,0.14,2,267,0,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+47,14098,"Glamour Calls Us A Haven of Peace, Modern Architectural Zen Hollywood Hills",55411,Hank,City of Los Angeles,Hollywood Hills,34.11834,-118.31997,Entire home/apt,363,5,36,2022-06-19,0.26,10,60,4,HSR19-003021,CA,Los Angeles
+48,212036,Guest House: North Hollywood/Universal,1093111,Nancy,City of Los Angeles,Sun Valley,34.22532,-118.39592,Entire home/apt,99,30,157,2020-08-24,1.39,2,365,0,HSR19-004622,CA,Los Angeles
+53,15089,***The Cottage at Casa Redondo & Rabbit Sanctuary,59169,Josh,City of Los Angeles,Mid-City,34.04244,-118.3522,Entire home/apt,185,4,86,2022-08-29,0.55,3,324,19,HSR19-000600,CA,Los Angeles
+55,15333,The Enchanted Manor-Private Oasis,60057,Georgia,City of Los Angeles,Valley Village,34.16614532470703,-118.4123764038086,Entire home/apt,504,2,9,2022-09-05,0.12,2,333,3,HSR19-000906,CA,Los Angeles
+56,79832,Guest Quarters @ the Hollywood Sign,28569,Robert,City of Los Angeles,Hollywood Hills,34.12801,-118.31919,Entire home/apt,110,30,484,2021-01-18,3.46,1,335,0,HSR19-002716,CA,Los Angeles
+58,80714,Cozy secluded Guesthouse in Garden,436647,Cari,City of Los Angeles,Mid-Wilshire,34.05798,-118.35541,Entire home/apt,119,30,185,2022-02-01,1.32,1,296,2,HSR19-003488,CA,Los Angeles
+61,18041,Boho home w/detached Studio &Jacuzzi   31 day sale,69546,Lisa,City of Los Angeles,Venice,33.99179,-118.45056,Entire home/apt,400,7,4,2022-04-25,0.11,3,64,1,HSR21-002074,CA,Los Angeles
+62,18067,Bohemian Home with rooftop  Jacuzzi and Tiki Bar,69546,Lisa,City of Los Angeles,Venice,33.99117,-118.45159,Entire home/apt,257,1,61,2022-05-08,0.47,3,60,10,HSR21-002074,CA,Los Angeles
+65,20585,"Private Studio, 6 Doors to Beach",77857,Barbara,City of Los Angeles,Venice,33.98047,-118.46514,Entire home/apt,129,3,543,2022-08-27,3.58,1,61,37,HSR19-001144,CA,Los Angeles
+68,84694,Zen Hollywood Hills Escape. Views Value Peace+Pvcy,55411,Hank,City of Los Angeles,Hollywood Hills,34.12018,-118.32051,Entire home/apt,224,5,8,2021-08-07,0.06,10,6,0,HSR19-003021,CA,Los Angeles
+70,20786,Mondrian-Inspired Studio With Breathtaking Views And Light,55411,Hank,City of Los Angeles,Hollywood Hills,34.11187,-118.32479,Entire home/apt,286,31,59,2022-08-17,0.47,10,165,19,HSR19-003405,CA,Los Angeles
+71,217971,GEORGEOUS CANYON BEACH GUESTHOUSE,1126652,Len,City of Los Angeles,Pacific Palisades,34.02886,-118.51392,Entire home/apt,191,2,86,2022-08-12,0.86,5,15,27,HSR19-004121,CA,Los Angeles
+72,22355,"Experience Angeleno Magazine's ""Best Rental In Hills""",55411,Hank,City of Los Angeles,Hollywood Hills,34.11374,-118.32503,Entire home/apt,272,30,61,2022-07-21,0.41,10,148,8,HSR19-003405,CA,Los Angeles
+76,23363,Silver Lake foothills studio with huge deck,91335,David,City of Los Angeles,Silver Lake,34.10104,-118.25659,Entire home/apt,154,3,200,2022-08-12,1.49,1,33,12,HSR21-001071,CA,Los Angeles
+77,222200,Walk to Venice Beach from Luxury Home,1124533,Cam + RD,City of Los Angeles,Venice,33.99314,-118.46053,Entire home/apt,899,4,94,2022-04-12,0.76,3,152,23,HSR19-002064,CA,Los Angeles
+79,226517,Picturesque port town awaits you !,1180987,Osiris,City of Los Angeles,San Pedro,33.74232,-118.30168,Private room,30,31,120,2022-06-26,0.93,3,225,3,HSR19-003150,CA,Los Angeles
+81,23710,Cactus Dreaming in Highland Park,94038,Tatiana,City of Los Angeles,Highland Park,34.12057,-118.18934,Entire home/apt,210,1,333,2022-08-29,2.54,1,35,62,HSR19-001190,CA,Los Angeles
+82,23925,Cactus Flower - Modernist Solar Guesthouse with Large Garden,95543,Ecoboutiquehomes,City of Los Angeles,Venice,34.0025,-118.4657,Entire home/apt,297,30,167,2022-03-25,1.84,9,17,9,HSR19-004625,CA,Los Angeles
+84,23979,Sleek New York Style Loft With Jaw-Dropping Hollywood Views,55411,Hank,City of Los Angeles,Hollywood Hills,34.11957,-118.32013,Entire home/apt,263,5,47,2022-07-27,0.31,10,78,16,HSR19-003021,CA,Los Angeles
+88,87595,GoodVibeStudio+Venice Bch+LAX+Bikes,479630,Corbin,City of Los Angeles,Westchester,33.96731,-118.41919,Entire home/apt,120,31,464,2022-03-16,3.35,1,89,8,HSR19-003197,CA,Los Angeles
+93,96334,Private room in a cozy creative home,511559,Julie,City of Los Angeles,Woodland Hills,34.15504,-118.6031,Private room,59,30,26,2019-07-22,0.19,1,0,0,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+96,24349,"Experience the Wolford House, a Mid Century Hilltop Jewel",98565,Zara,City of Los Angeles,Mount Washington,34.10942,-118.22003,Entire home/apt,375,3,160,2022-08-13,1.84,1,232,15,HSR21-002783,CA,Los Angeles
+99,28529,2BR DWELL Inspired Escape InThe Sky Peace+Privacy,55411,Hank,City of Los Angeles,Hollywood Hills,34.11212,-118.32526,Entire home/apt,396,30,40,2022-06-12,0.27,10,178,6,HSR19-003405,CA,Los Angeles
+102,100074,Budget Accommodation Beachside!,239712,Silvio,Other Cities,Santa Monica,34.01204,-118.49715,Hotel room,128,1,560,2022-09-04,4.05,4,225,87,Exempt,CA,Los Angeles
+106,101702,Lovely Echo Park Studio,532541,Maiana,City of Los Angeles,Echo Park,34.07332,-118.26331,Entire home/apt,150,30,223,2022-07-30,1.62,2,365,4,HSR19-004125,CA,Los Angeles
+107,249907,"Artist's House Decks, Yard & View",594808,Frank And Jonny,City of Los Angeles,Westlake,34.06246,-118.27871,Entire home/apt,245,3,80,2022-08-23,0.73,1,0,13,HSR19-002350,CA,Los Angeles
+111,37298,Spacious Soothing Hillside Hideaway Views+Zen Vibe,55411,Hank,City of Los Angeles,Hollywood Hills,34.11319,-118.32303,Entire home/apt,382,31,5,2022-01-13,0.04,10,152,1,HSR19-003405,CA,Los Angeles
+113,254259,"Tranquil and Contemporary Secluded Guest Suite in Venice, Ca",1335578,Derek,City of Los Angeles,Venice,34.00438,-118.45598,Entire home/apt,179,2,525,2022-09-05,3.98,1,234,70,HSR19-002506,CA,Los Angeles
+116,254320,Large 1-Bedroom Guest House in Great Location,343842,Jane,City of Los Angeles,Studio City,34.1414,-118.40714,Entire home/apt,225,2,145,2022-06-22,1.16,1,233,14,HSR19-003172,CA,Los Angeles
+118,254844,The Oasis in Beverly Hills.,1338512,Kasia,City of Los Angeles,Beverly Crest,34.08851,-118.42911,Entire home/apt,999,2,198,2022-08-19,1.6,1,354,21,HSR21-003398,CA,Los Angeles
+122,255656,Classic Central Hollywood Gem,1343997,Hollywood,City of Los Angeles,Hollywood,34.10336,-118.32366,Entire home/apt,132,30,22,2020-10-26,0.18,6,339,0,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+125,255701,Lovely Hollywd Apt-w/ porch&garden,1343997,Hollywood,City of Los Angeles,Hollywood,34.10336,-118.32366,Entire home/apt,169,30,26,2020-03-08,0.2,6,334,0,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+134,258803,Beverly Hills/BevCenter/Cedars/RodeoDr/W Hollywood,1367539,Cássia,City of Los Angeles,Beverly Grove,34.07103,-118.37869,Entire home/apt,265,30,55,2020-08-18,0.45,3,0,0,HSR20-001074,CA,Los Angeles
+135,131174,Santa Monica Beach Suite 5,648867,Anthony,City of Los Angeles,Pacific Palisades,34.02732,-118.51856,Private room,125,30,259,2022-06-04,2.73,4,328,4,Exempt - This listing is a hotel or motel,CA,Los Angeles
+141,260698,Historic Craftsman Home in Pasadena,1367809,Toni,Other Cities,Pasadena,34.16589,-118.12312,Entire home/apt,500,3,4,2022-06-14,0.05,1,186,1,SRU2018-00006,CA,Los Angeles
+142,131635,COZY BEDROOM FOR TWO  (2 TWIN BEDS),647546,Marco,City of Los Angeles,Valley Glen,34.1831,-118.39929,Private room,70,31,77,2022-02-19,0.57,4,97,2,HSR19-003988,CA,Los Angeles
+145,47078,Villa Guest Suite 5 Minutes From Hollywood Boulevard,211786,Judith,City of Los Angeles,Hollywood Hills,34.11536,-118.33211,Entire home/apt,135,30,458,2022-01-05,3.14,2,276,1,HSR19-000019,CA,Los Angeles
+146,132908,Spectacular Home With Breathtaking View,633484,Alexio & Vero,City of Los Angeles,Hollywood Hills West,34.10236,-118.37752,Entire home/apt,700,31,249,2021-01-24,1.95,1,365,0,HSR20-002235,CA,Los Angeles
+149,47537,Malibu Ocean View Rooms for Rent 3,215462,Paul,Other Cities,Malibu,34.0309,-118.75528,Private room,450,2,167,2022-07-10,1.24,4,365,8,STR21-0049,CA,Los Angeles
+151,266975,"Creative Zen Retreat. Enjoy, Create, Relax. Reconnect.",1399964,Studio W Venice,City of Los Angeles,Venice,33.99764,-118.46465,Entire home/apt,242,3,361,2022-09-03,2.83,1,301,60,HSR19-002347,CA,Los Angeles
+154,268130,"Venice COZY, LOVELY Private PROPERTY",1405441,Jay,City of Los Angeles,Venice,33.98844,-118.46765,Entire home/apt,190,30,62,2022-02-18,0.47,1,173,1,HSR20-001333,CA,Los Angeles
+156,50005,Guest House - Nightly or Weekly,49391,Michelle,City of Los Angeles,Hollywood,34.09641,-118.34979,Entire home/apt,115,30,143,2022-08-24,0.98,1,121,21,HSR19-003079,CA,Los Angeles
+158,288779,Monthly Dorms at Gramercy Place!,1497543,Gramercy,City of Los Angeles,Arlington Heights,34.04572,-118.31367,Shared room,35,30,20,2022-08-22,0.15,19,365,1,Exempt - This listing is a hotel or motel,CA,Los Angeles
+159,138244,Garden of Edenhurst Guest House - 1BR,675083,Alejandra,City of Los Angeles,Atwater Village,34.1217,-118.26329,Entire home/apt,145,30,98,2022-01-15,0.72,4,243,4,HSR21-001354,CA,Los Angeles
+161,150097,CHARMING MASTER STUDIO  W/JACUZZI TUB  IN NOHO,647546,Marco,City of Los Angeles,Valley Glen,34.18163,-118.39925,Private room,65,30,216,2020-11-29,1.8,4,58,0,Exempt - This listing is a bed and breakfast,CA,Los Angeles
+163,273119,Venice Retreat Designer Poolhouse,1429142,Gabriela,City of Los Angeles,Venice,33.99618,-118.45439,Entire home/apt,139,4,220,2022-08-14,1.7,1,212,28,HSR19-003035,CA,Los Angeles
+170,298259,"Relaxing Retreat with  5G WiFi, Parking, and Calm",1537525,Deborah,City of Los Angeles,Mar Vista,33.99795,-118.44521,Entire home/apt,175,31,299,2021-07-20,2.32,1,6,0,HSR19-002570,CA,Los Angeles
+178,300311,Private Rooms at Gramercy Place!,1497543,Gramercy,City of Los Angeles,Arlington Heights,34.04579,-118.31363,Private room,65,30,32,2022-05-03,0.25,19,365,1,Exempt - This listing is a hotel or motel,CA,Los Angeles
+181,286866,Romantic Escape in Silverlake,135271,Maddalena,City of Los Angeles,Atwater Village,34.11224,-118.25668,Private room,184,1,567,2022-08-26,4.36,1,116,93,HSR19-003102,CA,Los Angeles
+183,300323,Gramercy Place---monthly dorms,1497543,Gramercy,City of Los Angeles,Harvard Heights,34.04612,-118.31176,Shared room,35,30,148,2020-01-20,1.14,19,324,0,Exempt - This listing is a hotel or motel,CA,Los Angeles
+184,300329,Student Housing---month to month at Gramercy Place,1497543,Gramercy,City of Los Angeles,Harvard Heights,34.04711,-118.31178,Shared room,40,30,11,2022-06-20,0.09,19,365,1,Exempt - This listing is a hotel or motel,CA,Los Angeles
+185,287339,Dog Friendly 3BD Home on PRIVATE beach in Malibu,1494781,Tara,Other Cities,Malibu,34.03862,-118.62243,Entire home/apt,1743,2,94,2022-08-18,0.74,2,246,15,STR20-0017,CA,Los Angeles
+186,300343,Private Room---month to month at Gramercy Place!,1497543,Gramercy,City of Los Angeles,Harvard Heights,34.04621,-118.31188,Private room,65,30,23,2022-08-11,0.18,19,365,2,Exempt - This listing is a hotel or motel,CA,Los Angeles
+187,181511,"Sunny, spacious apartment with deck",870087,Martineke,City of Los Angeles,Elysian Valley,34.10053,-118.24925,Entire home/apt,140,30,40,2022-08-22,0.3,2,297,5,Exempt - This listing is a bed and breakfast,CA,Los Angeles
+188,288038,Monthly Dorms at Gramercy Place,1497543,Gramercy,City of Los Angeles,Harvard Heights,34.04717,-118.3121,Shared room,35,30,80,2022-09-02,0.61,19,334,4,Exempt - This listing is a hotel or motel,CA,Los Angeles
+189,409740,Stunning Modern Home Mulholland Dr with Sauna,3608303,Veronica,City of Los Angeles,Hollywood Hills West,34.12244,-118.36029,Entire home/apt,763,3,201,2022-09-03,1.59,2,347,26,HSR19-004207,CA,Los Angeles
+190,300371,GRAMERCY PLACE! Dorms available.,1497543,Gramercy,City of Los Angeles,Arlington Heights,34.04656,-118.31408,Shared room,35,30,48,2019-07-27,0.37,19,365,0,Exempt - This listing is a hotel or motel,CA,Los Angeles
+191,288061,STUDENT HOUSING---month to month at Gramercy Place,1497543,Gramercy,City of Los Angeles,Arlington Heights,34.04611,-118.31389,Shared room,40,30,38,2022-07-18,0.31,19,344,1,Exempt - This listing is a hotel or motel,CA,Los Angeles
+192,300407,Interns love Gramercy Place!,1497543,Gramercy,City of Los Angeles,Harvard Heights,34.04609,-118.31187,Shared room,35,30,47,2022-04-09,0.37,19,365,2,Exempt - This listing is a hotel or motel,CA,Los Angeles
+194,288428,Beautiful private room+ bath+a new nice queen bed.,1705379,Mariko,City of Los Angeles,Van Nuys,34.19141,-118.48034,Private room,95,2,175,2022-08-17,1.34,1,308,15,HSR21-003167,CA,Los Angeles
+198,305478,PRIVATE Central Guesthouse - LOVELY,1571311,Shelley,City of Los Angeles,Mid-City,34.03592,-118.33382,Entire home/apt,131,4,448,2022-08-28,3.49,2,17,27,HSR19-000804,CA,Los Angeles
+203,564102,Private Bright Studio,1568466,Julie AND Lautner,City of Los Angeles,Venice,34.00383,-118.46579,Entire home/apt,99,30,246,2022-01-03,1.99,1,342,15,HSR19-001415,CA,Los Angeles
+204,307541,PRIVATE ROOM (Couple) w/ BATHROOM,1254174,Felix,City of Los Angeles,Venice,33.98831,-118.47154,Private room,69,30,16,2021-01-20,0.12,6,0,0,Exempt - This listing is a hotel or motel,CA,Los Angeles
+205,416651,Silver Lake - Apartment with VIEWS!,1647272,Bianca,City of Los Angeles,Silver Lake,34.08609,-118.27127,Entire home/apt,250,30,16,2022-07-29,0.13,3,364,5,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+207,565733,Paradise with a pool,2781593,Reyna,City of Los Angeles,Hollywood Hills,34.11411,-118.31521,Entire home/apt,400,30,8,2017-08-16,0.07,1,275,0,HSR19-002598,CA,Los Angeles
+208,308582,Gramercy Place Dorm Rooms,1497543,Gramercy,City of Los Angeles,Arlington Heights,34.04775,-118.31315,Shared room,35,30,14,2019-04-24,0.11,19,365,0,Exempt - This listing is a hotel or motel,CA,Los Angeles
+210,308584,Dorm Rooms Monthly at Gramercy Place!,1497543,Gramercy,City of Los Angeles,Harvard Heights,34.04636,-118.31195,Shared room,35,31,22,2022-07-23,0.18,19,344,2,Exempt - This listing is a hotel or motel,CA,Los Angeles
+214,566016,Mulholland Mid Century - Pool & Fab View,2783478,Lyndall,City of Los Angeles,Studio City,34.12448,-118.37604,Entire home/apt,1304,3,187,2022-09-06,1.59,1,46,14,HSR19-002562,CA,Los Angeles
+215,311176,Your Home Away from Home,1604905,Yael,City of Los Angeles,Leimert Park,34.00882,-118.33335,Entire home/apt,150,30,22,2021-08-25,0.49,1,362,0,HSR19-004793,CA,Los Angeles
+216,566195,The Cottage of Lake Balboa,2760033,Brad And Natasha,City of Los Angeles,Lake Balboa,34.18868,-118.50509,Entire home/apt,156,2,606,2022-09-03,5.05,1,291,36,HSR19-000144,CA,Los Angeles
+217,312387,2br Cottage in LA,1606040,Vanessa,City of Los Angeles,Broadway-Manchester,33.92483,-118.27031,Entire home/apt,147,3,168,2022-08-27,1.34,1,365,24,HSR19-003546,CA,Los Angeles
+219,431476,Hollywood Retreat-Central-Walkable,1343997,Hollywood,City of Los Angeles,Hollywood,34.10336,-118.32366,Entire home/apt,147,30,19,2021-11-19,0.18,6,90,1,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+220,432104,COMFY CASITA IN BELMONT HEIGHTS,2148981,Marisa,Other Cities,Long Beach,33.76405,-118.14655,Entire home/apt,150,4,63,2022-08-26,0.53,1,34,2,PRP22-00803,CA,Los Angeles
+221,571242,"Room with breakfast in Pasadena, CA",2811194,Kay,Other Cities,Pasadena,34.16675,-118.11573,Private room,52,6,54,2022-07-28,0.44,1,42,5,SRH2019-00230,CA,Los Angeles
+227,435277,3 Blocks to Cedars Sinai-Best Neighborhood in town,2161902,Rachel,Other Cities,Beverly Hills,34.07173,-118.386,Private room,78,30,45,2022-07-30,0.37,1,244,3,Exempt - This listing is a bed and breakfast,CA,Los Angeles
+234,326787,Room with en suite bathroom,34583,Elaine,City of Los Angeles,Hollywood,34.10039,-118.35362,Private room,110,30,184,2021-07-02,1.57,1,313,0,Exempt - This listing is a bed and breakfast,CA,Los Angeles
+241,579927,Spacious DESIGNER HOUSE in heart of Venice Beach,2852812,Elena & Michael,City of Los Angeles,Venice,33.98185,-118.46691,Entire home/apt,664,2,101,2022-08-14,0.99,5,144,22,HSR21-000150,CA,Los Angeles
+250,446757,Hollywood Retreat-Balcony+City View,1343997,Hollywood,City of Los Angeles,Hollywood,34.10336,-118.32366,Entire home/apt,179,30,41,2021-04-03,0.46,6,327,0,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+255,346756,Sunny Large Studio with Full Kitchen,11878764,Daniel,Other Cities,Santa Monica,34.02445,-118.49391,Entire home/apt,135,31,55,2021-11-15,0.43,6,253,1,222035,CA,Los Angeles
+256,453527,"The Common Studio, Venice Beach, CA",1037820,The Common House,City of Los Angeles,Venice,34.00323,-118.46589,Entire home/apt,164,2,164,2022-07-31,1.31,2,109,33,HSR20-000303,CA,Los Angeles
+260,462726,TOTALLY PRIVATE MINI-STUDIO & PATIO!,618883,Cris,City of Los Angeles,Sherman Oaks,34.15898,-118.4593,Entire home/apt,100,3,289,2022-08-26,2.84,1,152,36,HSR19-002721,CA,Los Angeles
+262,586709,Bungalow in the sky,2892483,Ernesto,City of Los Angeles,Echo Park,34.09322,-118.25024,Private room,160,3,84,2022-09-02,0.71,1,37,20,HSR19-000453,CA,Los Angeles
+263,350634,Guest house Villa/Vine-covered  - LA walk to beach,1776981,Carrie,Other Cities,El Segundo,33.91961,-118.42146,Entire home/apt,154,2,435,2022-08-22,3.4,4,299,59,43181,CA,Los Angeles
+265,463025,"Marina del Rey & Venice, Beach is so close!",2184027,Michael,City of Los Angeles,Del Rey,33.98962,-118.42346,Private room,111,3,405,2022-08-29,3.26,1,84,61,HSR21-001039,CA,Los Angeles
+268,354281,On the BEACH  in Belmont Shore (PRP22-00864),1793869,Elizabeth,Other Cities,Long Beach,33.76371,-118.12497,Private room,169,2,125,2022-08-29,1.07,1,270,3,PRP22-00864,CA,Los Angeles
+269,590936,Loft for sublet Downtown LA,2915924,Petr,City of Los Angeles,Lincoln Heights,34.07566,-118.22307,Entire home/apt,95,30,56,2021-07-03,0.58,1,0,0,HSR20-000690,CA,Los Angeles
+275,593043,Great Family Home with Pool,2927706,Shirley,Other Cities,Santa Monica,34.00816,-118.46601,Entire home/apt,500,3,3,2022-07-05,0.05,1,88,1,223523,CA,Los Angeles
+279,490221,Brentwood Artist Farmhouse,2424764,Delphine,City of Los Angeles,Brentwood,34.06462,-118.4919,Entire home/apt,550,31,46,2020-10-02,0.37,1,326,0,HSR20-001460,CA,Los Angeles
+282,596481,Prime location in trendy Echo Park,2762016,Andrew,City of Los Angeles,Echo Park,34.06824,-118.25268,Private room,63,30,17,2019-11-11,0.14,2,0,0,HSR19-001894,CA,Los Angeles
+288,602739,"""Shabby Chic Beach House""",2982798,Jessica,City of Los Angeles,Venice,33.99168,-118.46671,Entire home/apt,190,30,51,2021-12-18,0.57,1,193,2,HSR19-004748,CA,Los Angeles
+291,374590,Amazing Silverlake home with VIEWS,1647272,Bianca,City of Los Angeles,Silver Lake,34.09451,-118.27413,Entire home/apt,418,30,28,2020-04-13,0.22,3,316,0,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+292,495207,Arty Venice compound w/huge yard,2154178,Dawn,City of Los Angeles,Venice,33.98682,-118.46196,Entire home/apt,350,30,17,2019-08-07,0.14,1,252,0,HSR19-000417,CA,Los Angeles
+294,498014,Great Room with Private Bath in Venice +Free Bike,2458647,Mark,City of Los Angeles,Venice,33.99847,-118.46617,Private room,175,3,121,2022-08-26,1.33,3,69,12,HSR21-000661,CA,Los Angeles
+298,498342,"Unwind at a Tranquil, Quiet Home",2460077,Bryce,City of Los Angeles,Canoga Park,34.21033,-118.61166,Private room,85,30,158,2022-07-14,1.38,1,343,2,HSR19-003219,CA,Los Angeles
+302,611542,Gorgeous and Tranquil Laurel Canyon Home,3032775,Wendy,City of Los Angeles,Hollywood Hills West,34.11037,-118.38294,Entire home/apt,616,3,27,2022-06-22,0.23,1,225,1,HSR20-002122,CA,Los Angeles
+305,611841,In the hills below Hollywood Sign!,3035002,Vicki,City of Los Angeles,Hollywood Hills,34.11737,-118.32114,Entire home/apt,170,4,204,2022-08-23,1.66,1,235,39,HSR19-000391,CA,Los Angeles
+306,502172,Remodeled Mid Century Deck House.,2477978,Laura,City of Los Angeles,Eagle Rock,34.12597,-118.22577,Entire home/apt,320,30,31,2019-12-31,0.26,1,364,0,HSR19-004128,CA,Los Angeles
+308,611903,Colorful Oasis in the Heart of Silverlake,3891392,Ethan,City of Los Angeles,Silver Lake,34.10475,-118.26176,Entire home/apt,628,5,66,2022-09-06,0.6,1,0,6,HSR21-002401,CA,Los Angeles
+310,617321,Long Beach 50s Mod Bixby Bed/Bath,3059666,Jean,Other Cities,Long Beach,33.83361,-118.18018,Private room,85,1,54,2022-06-16,0.56,6,17,12,NRP21-00164,CA,Los Angeles
+311,394508,Private Guest House Netflix/ Exec/ Monthly Rates,1972326,Craig,City of Los Angeles,Hollywood,34.0967,-118.33316,Entire home/apt,149,5,81,2022-08-12,0.64,1,275,11,HSR21-001941,CA,Los Angeles
+313,619457,Hollywood Grove Hillside,3069669,Paul,City of Los Angeles,Hollywood Hills,34.10854,-118.3145,Entire home/apt,450,30,2,2014-12-27,0.02,1,70,0,HSR19-002469,CA,Los Angeles
+317,394904,REDUCED LUXURY MODERN GETTY 1 HOUSE walk to Beach!,10156476,Robert,Other Cities,Santa Monica,34.00351,-118.478,Entire home/apt,525,31,47,2020-07-12,0.4,8,321,0,228082,CA,Los Angeles
+320,395305,Guest house with kitchen & bathroom,1975664,Jessica & Puk,City of Los Angeles,Glassell Park,34.12887,-118.23526,Entire home/apt,85,30,291,2020-03-20,2.31,1,0,0,HSR19-005089,CA,Los Angeles
+323,622974,PRIVATE ROOM W/BR IN SANTA MONICA,3088602,N G,Other Cities,Santa Monica,34.0251,-118.48914,Private room,85,5,8,2020-08-22,0.07,1,363,0,236100,CA,Los Angeles
+324,515705,Natty Echo Park Enclave with Separate Homes!,2435461,William,City of Los Angeles,Echo Park,34.07273,-118.25646,Entire home/apt,278,4,20,2019-09-08,0.16,4,54,0,HSR19-002901,CA,Los Angeles
+327,400478,Gramercy Place-month to month dorms,1497543,Gramercy,City of Los Angeles,Harvard Heights,34.04762,-118.3125,Shared room,35,30,38,2020-01-16,0.3,19,365,0,Exempt - This listing is a hotel or motel,CA,Los Angeles
+328,518815,Ocean View Room in Malibu 2,215462,Paul,Other Cities,Malibu,34.03074,-118.75723,Private room,300,2,263,2022-08-28,2.12,4,353,36,STR21-0049,CA,Los Angeles
+329,625983,Charming House in NOHO District,3106817,Tirza,City of Los Angeles,North Hollywood,34.17112,-118.36777,Entire home/apt,110,30,18,2022-01-02,0.15,1,0,1,HSR19-002194,CA,Los Angeles
+330,524134,"Master bedroom & Private Bath, Sofa&Patio | Venice",2458647,Mark,City of Los Angeles,Venice,33.99826,-118.46464,Private room,257,2,13,2022-05-03,0.12,3,88,1,HSR21-000661,CA,Los Angeles
+332,626181,Venice Urban Farm,3107999,Natasha And Kenny,City of Los Angeles,Venice,33.99325,-118.46191,Entire home/apt,399,3,8,2022-07-25,0.1,1,3,2,HSR21-001951,CA,Los Angeles
+334,402053,Woodland Hills / You are the *Star*,2006759,Cathy,City of Los Angeles,Woodland Hills,34.16958,-118.65344,Entire home/apt,85,30,126,2022-08-05,1.01,3,302,7,HSR19-004098,CA,Los Angeles
+335,526012,Work from Home in a Quiet Guesthouse with Garden,2566215,Jo-Ann,City of Los Angeles,Venice,33.99518,-118.46315,Entire home/apt,240,31,378,2022-08-28,3.03,4,318,34,HSR19-003921,CA,Los Angeles
+336,634133,Private Mid-Century Inspired Guesthouse,3157553,Amy & Peter,City of Los Angeles,Mid-Wilshire,34.05165,-118.33828,Entire home/apt,155,2,758,2022-09-07,6.18,1,130,87,HSR19-000180,CA,Los Angeles
+338,404691,Gramercy Place-month to month dorms,1497543,Gramercy,City of Los Angeles,Harvard Heights,34.04734,-118.31183,Shared room,35,30,27,2016-06-25,0.22,19,365,0,Exempt - This listing is a hotel or motel,CA,Los Angeles
+339,404795,Gramercy Place--dorm rooms available. Great Price!,1497543,Gramercy,City of Los Angeles,Arlington Heights,34.04738,-118.31411,Shared room,35,30,27,2020-02-20,0.22,19,340,0,Exempt - This listing is a hotel or motel,CA,Los Angeles
+343,635213,Beautiful room in Pasadena home,3164742,Audrey,Other Cities,Pasadena,34.15438,-118.08306,Private room,70,1,165,2022-09-07,1.36,2,8,16,SRH2018-00019,CA,Los Angeles
+345,669590,MY HOLLYWOOD SPACE RENTAL 18,2622454,Mary,City of Los Angeles,Hollywood,34.09995,-118.32801,Private room,65,30,472,2021-07-29,3.87,10,310,0,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+349,533646,MY HOLLYWOOD SPACE RENTAL 15,2622454,Mary,City of Los Angeles,Hollywood,34.10038,-118.33003,Private room,65,30,605,2022-05-06,4.9,10,252,2,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+350,639363,"Artistic & cozy home, Venice, CA",3191837,Masha,City of Los Angeles,Mar Vista,33.99849,-118.43987,Entire home/apt,237,30,76,2021-11-28,0.62,1,241,1,HSR20-002523,CA,Los Angeles
+351,533884,Beautiful quiet/ studio/ bath/ garden & bikes B,1776981,Carrie,Other Cities,El Segundo,33.91961,-118.42146,Private room,80,2,427,2022-08-27,3.43,4,279,81,43181,CA,Los Angeles
+352,669955,Life is Good in Los Angeles B&B HSR19-004088,3393312,Ronit,City of Los Angeles,Sherman Oaks,34.16276,-118.46502,Private room,141,2,54,2022-01-01,0.44,1,207,4,HSR19-004088,CA,Los Angeles
+354,674784,Mediterranean Oasis with  Pool!,3426647,Pete,City of Los Angeles,Valley Village,34.16188,-118.39776,Entire home/apt,443,7,27,2022-08-26,0.31,1,120,6,HSR22-001086,CA,Los Angeles
+355,534552,Amazing VIEWS - Silverlake home,1647272,Bianca,City of Los Angeles,Silver Lake,34.08523,-118.27088,Entire home/apt,250,30,9,2018-09-12,0.08,3,364,0,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+357,537363,Relax with a View at a Spanish-style Hilltop Home,2639652,Alex,City of Los Angeles,Highland Park,34.11599,-118.18593,Entire home/apt,139,30,167,2022-08-31,1.44,1,163,3,HSR19-001427,CA,Los Angeles
+359,643866,Private Guest Suite Close to the Beach,3220633,Heather,City of Los Angeles,Westchester,33.96523,-118.43159,Private room,132,30,141,2021-03-18,1.42,1,89,0,HSR19-002851,CA,Los Angeles
+362,644008,MY HOLLYWOOD SPACE RENTAL 16,2622454,Mary,City of Los Angeles,Hollywood,34.1016,-118.32992,Private room,65,30,484,2022-03-07,3.95,10,252,2,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+365,644009,MY HOLLYWOOD SPACE RENTAL 17,2622454,Mary,City of Los Angeles,Hollywood,34.10239,-118.32851,Private room,65,30,494,2022-07-14,4.05,10,340,3,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+368,646570,Trendy Urban Living/echo park,2305260,Joanne,City of Los Angeles,Echo Park,34.07464,-118.25778,Entire home/apt,139,30,47,2022-06-28,0.4,3,296,2,HSR19-004945,CA,Los Angeles
+377,542016,Venice Garden Paradise Private Room,2665108,Angela,City of Los Angeles,Venice,33.99495,-118.4549,Private room,129,30,262,2022-08-17,2.11,4,341,30,HSR19-002622,CA,Los Angeles
+378,661903,Peaceful Topanga Canyon Pool Home,3238908,Carin,City of Los Angeles,Woodland Hills,34.15858,-118.61546,Private room,66,30,40,2022-02-27,0.33,2,253,2,HSR19-003306,CA,Los Angeles
+380,546663,West LA charmer w/pool sleeps 4-6.  HSR22-000493,2528129,Bianca,City of Los Angeles,Rancho Park,34.03327,-118.42568,Entire home/apt,400,30,17,2021-11-29,0.23,1,236,1,HSR19-001168,CA,Los Angeles
+385,552851,Modern Home with Ocean Breezes,2717177,Sarah,City of Los Angeles,Del Rey,33.98854,-118.43798,Entire home/apt,215,30,7,2019-08-01,0.07,1,82,0,HSR19-005546,CA,Los Angeles
+391,752388,Quiet/Cozy Venice Beach - 1 BDR APT,3655118,Joe & Judy,City of Los Angeles,Venice,33.98218,-118.4703,Entire home/apt,128,30,387,2022-07-19,3.27,1,334,3,Exempt - This listing is a bed and breakfast,CA,Los Angeles
+393,688583,Stylish Suite in Silver Lake,3515462,Walter,City of Los Angeles,Silver Lake,34.08974,-118.27021,Entire home/apt,95,3,155,2022-09-05,1.34,1,185,22,HSR19-001008,CA,Los Angeles
+394,862186,Plant Lovers Guesthouse Nestled in Tropical Pool Oasis,634440,Amara,City of Los Angeles,Reseda,34.19134,-118.52282,Entire home/apt,254,1,483,2022-09-08,4.65,1,322,92,HSR19-002315,CA,Los Angeles
+396,752540,3BR House in LA-Gorgeous view/ Pool,6455021,Payman,City of Los Angeles,Woodland Hills,34.17635,-118.57944,Entire home/apt,529,2,204,2022-08-30,1.71,1,343,15,HSR19-002284,CA,Los Angeles
+398,755837,Traditional Grandeur in the Hollywood Hills,3953867,Keller,City of Los Angeles,Hollywood Hills,34.10813,-118.34098,Entire home/apt,400,5,56,2022-06-03,0.52,2,47,6,HSR19-002137,CA,Los Angeles
+399,693634,Marina Del Rey Area Prime Location,3548344,Franco,City of Los Angeles,Del Rey,33.98435,-118.42873,Entire home/apt,219,3,106,2022-08-21,0.89,1,230,20,HSR19-004153,CA,Los Angeles
+400,868801,Santa Monica - Super loft-studio,4577233,Linda,Other Cities,Santa Monica,34.01099,-118.47314,Entire home/apt,137,4,235,2022-09-08,2.0,1,14,30,215691,CA,Los Angeles
+414,873218,"Gorgeous, remodeled, private home Woodland Hills",4588522,Hannah,City of Los Angeles,Woodland Hills,34.17075,-118.6194,Entire home/apt,250,30,7,2014-07-27,0.06,1,358,0,HSR19-002750,CA,Los Angeles
+417,770046,Charming Hidden Spanish Bungalow in the Heart of Hollywood,2972149,Will,City of Los Angeles,Hollywood,34.09351,-118.32837,Entire home/apt,132,30,383,2022-06-26,4.61,1,155,4,HSR19-003547,CA,Los Angeles
+420,776201,STUDENT HOUSING---month to month at Gramercy Place,1497543,Gramercy,City of Los Angeles,Arlington Heights,34.04795,-118.31315,Shared room,40,30,23,2022-06-22,0.2,19,288,2,Exempt - This listing is a hotel or motel,CA,Los Angeles
+432,781313,Craftsman Private Suite - Rose Bowl/Old Town/JPL,4120944,Laura,Other Cities,Pasadena,34.16283,-118.13643,Private room,100,3,152,2022-09-05,1.29,1,218,25,SRH2018-00022,CA,Los Angeles
+434,890924,NoHo Arts - Guest Room,4732895,Christopher,City of Los Angeles,North Hollywood,34.1795,-118.37155,Private room,42,7,70,2022-07-05,0.63,3,114,3,HSR19-001264,CA,Los Angeles
+436,713490,Siverlake home close to Hollywood,3672482,Bi,City of Los Angeles,Silver Lake,34.07783,-118.2766,Entire home/apt,139,30,25,2022-08-17,0.26,2,313,3,HSR19-002640,CA,Los Angeles
+437,892469,Audrey Hepburn room-I'm Australian,4743375,Rebekah The Aussie,City of Los Angeles,Arlington Heights,34.03858,-118.32636,Private room,99,30,248,2022-01-31,2.14,3,364,1,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+456,798535,Detached Silver Lake Studio - Middle of it all!,2149233,Ann,City of Los Angeles,Silver Lake,34.10722,-118.26281,Entire home/apt,106,3,228,2022-09-06,3.23,1,200,65,HSR19-000506,CA,Los Angeles
+457,801336,B&B Walk to Beach - Breezy Homebase,884702,June,Other Cities,Santa Monica,34.00236,-118.47622,Private room,100,2,493,2020-03-15,5.55,2,0,0,215848,CA,Los Angeles
+462,727815,Lovely house a block to beach 2 bikes pet friendly,3772506,Bella Casa,Other Cities,Santa Monica,34.02301997024004,-118.50538201788356,Entire home/apt,158,1,20,2013-08-02,0.17,3,135,0,228012,CA,Los Angeles
+470,730669,Charming English Country Cottage in Laurel Canyon,2738689,Dawn,City of Los Angeles,Hollywood Hills West,34.10654,-118.36747,Entire home/apt,325,5,19,2022-05-16,0.18,1,4,11,HSR21-001273,CA,Los Angeles
+475,913270,Be Working from Here,4902248,Helen,City of Los Angeles,Hollywood Hills,34.13039,-118.34505,Private room,108,1,225,2021-12-09,1.93,3,242,4,HSR21-001447,CA,Los Angeles
+477,810082,Room in Hillside Home with Skyline Views,4260628,Darrell,City of Los Angeles,Hollywood Hills West,34.10051,-118.37997,Private room,175,2,353,2022-07-17,3.01,2,240,10,HSR19-001320,CA,Los Angeles
+479,915336,Venice Garden Retreat Guest House,4812255,Christopher,City of Los Angeles,Venice,33.99932,-118.45371,Private room,249,3,216,2022-09-04,1.92,1,78,22,HSR19-003411,CA,Los Angeles
+490,819960,Your Own Guesthouse! Private/Sunny,4306634,Karin And Sean,City of Los Angeles,Sherman Oaks,34.14914,-118.45581,Entire home/apt,120,30,95,2020-01-20,0.82,1,0,0,HSR19-002995,CA,Los Angeles
+491,921800,Quiet guest suite in central LA. Super convenient!,4956771,Anne,City of Los Angeles,Mid-City,34.03956,-118.33178,Entire home/apt,99,30,85,2020-11-23,1.35,1,66,0,HSR19-004174,CA,Los Angeles
+493,733673,Classic 1940's Villa in the Hollywood Hills,462242,Robert,City of Los Angeles,Hollywood Hills,34.1152,-118.31863,Entire home/apt,695,3,26,2022-08-15,0.26,1,63,14,HSR21-001036,CA,Los Angeles
+494,921828,Large Beach House - Great for families,66096,Andrew,Other Cities,Santa Monica,34.00025,-118.47771,Private room,579,4,6,2021-07-09,0.08,1,251,0,228380,CA,Los Angeles
+495,734774,QUAINT COZY CHARMING COTTAGE,3831954,Jennifer,City of Los Angeles,Harvard Heights,34.04245,-118.30607,Entire home/apt,170,30,37,2022-07-30,0.32,2,365,3,HSR19-005208,CA,Los Angeles
+502,932354,Artfully Designed Studio Cottage in Venice,2566215,Jo-Ann,City of Los Angeles,Venice,33.994068,-118.46257,Entire home/apt,240,31,322,2022-07-23,2.77,4,345,16,HSR19-003921,CA,Los Angeles
+503,737112,1 Spacious private Suite Venice Central,3543207,Jessica,City of Los Angeles,Venice,33.99736,-118.46766,Entire home/apt,119,2,628,2022-09-09,5.27,1,231,87,HSR19-002521,CA,Los Angeles
+504,934139,Bedroom in Santa Monica Townhouse,5038295,Vera,Other Cities,Santa Monica,34.02582,-118.46326,Private room,95,2,64,2022-05-02,0.7,2,0,8,227920,CA,Los Angeles
+506,934488,Modern Studio Loft + Roof Deck Steps from Beach,706094,Lisa,City of Los Angeles,Venice,33.98353,-118.4697,Entire home/apt,265,2,364,2022-08-26,3.15,1,34,65,HSR22-001529,CA,Los Angeles
+512,832900,Calm Casita - Modern Wellness Sanctuary,84714,Kris & Danielle,City of Los Angeles,Mar Vista,33.99854,-118.42428,Entire home/apt,217,30,132,2022-05-08,2.67,1,174,24,HSR19-004849,CA,Los Angeles
+513,934688,PRIVATE ROOM (SINGLE) IN VENICE BEACH HOSTEL,1254174,Felix,City of Los Angeles,Venice,33.98887,-118.47356,Private room,69,30,2,2021-01-01,0.02,6,0,0,Exempt - This listing is a hotel or motel,CA,Los Angeles
+515,937869,Gorgeous Views of Hills-PrivateRoom,5063938,Sheena,City of Los Angeles,Woodland Hills,34.14954,-118.5951,Private room,115,2,27,2022-05-22,0.24,2,174,4,HSR19-002458,CA,Los Angeles
+517,738427,Heart of Hollywood Pink House Guest House!,3858964,Charlotte,City of Los Angeles,Hollywood,34.0945,-118.32621,Entire home/apt,146,6,186,2022-06-07,1.55,2,256,10,HSR20-001416,CA,Los Angeles
+518,939688,Malibu Beachfront Penthouse,5076940,Samir,Other Cities,Malibu,34.03309,-118.74573,Entire home/apt,1561,3,95,2022-08-30,0.96,1,180,9,STR20-0012,CA,Los Angeles
+519,739143,Lovely guest house with garden and patio,3865105,Michelle,City of Los Angeles,Fairfax,34.08282,-118.35294,Entire home/apt,130,30,107,2022-08-17,0.96,3,36,5,HSR19-001138,CA,Los Angeles
+527,945586,Hollywood Villa. The best location!,5122857,Roland,City of Los Angeles,Hollywood Hills West,34.102474,-118.363663,Entire home/apt,1106,2,85,2022-09-07,0.73,1,153,26,HSR21-001229,CA,Los Angeles
+529,945663,Casa Sycamore Pool + Gated Estate 2 Master Suites,5123369,Herbert,City of Los Angeles,Hancock Park,34.06461,-118.34185,Entire home/apt,850,5,9,2022-05-16,0.08,1,51,3,HSR19-005452,CA,Los Angeles
+530,844353,"N. Bel Air GATED HOME, POOL, SPA, VIEW-",4408146,Sergio And Dom,City of Los Angeles,Sherman Oaks,34.13048,-118.46677,Entire home/apt,896,30,7,2020-07-26,0.06,1,87,0,HSR19-005615,CA,Los Angeles
+532,945759,Luxury Spanish Beach Home,1776981,Carrie,Other Cities,El Segundo,33.91857,-118.42108,Entire home/apt,369,4,50,2022-08-29,0.45,4,225,30,43181,CA,Los Angeles
+535,844386,"Ocean/Sunset views 2Dream of /Private Home,parking",4408313,Victoria,City of Los Angeles,Playa del Rey,33.95116,-118.4451,Entire home/apt,513,6,120,2022-07-24,1.08,1,322,14,HSR21-000530,CA,Los Angeles
+536,948999,Sunny Room in 50s Mid Mod Delight,3059666,Jean,Other Cities,Long Beach,33.83315,-118.18019,Private room,88,1,109,2022-07-08,0.96,6,49,17,NRP21-00164,CA,Los Angeles
+537,845314,"Prime Silver Lake! Walkable, Private, Clean, Gated",4412791,Oren And Kara,City of Los Angeles,Silver Lake,34.08334,-118.27363,Entire home/apt,164,3,220,2022-09-08,1.87,1,57,48,HSR19-000682,CA,Los Angeles
+538,746115,Million Dollar View!,3913511,Scott,City of Los Angeles,Hollywood Hills West,34.10057,-118.37408,Entire home/apt,226,3,216,2022-09-03,2.03,1,213,71,HSR19-000365,CA,Los Angeles
+539,950208,1927 Spanish Castle w/private bathroom & entrance,5154680,Kathy,City of Los Angeles,Beverly Grove,34.08044,-118.36695,Private room,75,30,90,2022-07-06,0.79,2,203,5,HSR19-002896,CA,Los Angeles
+542,849360,Chic Yoga Villa & Saltwater Pool Sunset Junction Silverlake.,4434583,Fitzjoy,City of Los Angeles,Silver Lake,34.09386,-118.27895,Entire home/apt,521,2,240,2022-08-31,2.05,1,86,22,HSR21-003110,CA,Los Angeles
+544,951044,Lil Zen Den Studio-Aussie-CentraLA,4743375,Rebekah The Aussie,City of Los Angeles,Arlington Heights,34.0375,-118.3253,Entire home/apt,99,30,325,2022-05-03,2.98,3,269,2,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+546,951058,French Cosy Rm-Aussie-Happy Energy,4743375,Rebekah The Aussie,City of Los Angeles,Arlington Heights,34.03858,-118.32636,Private room,99,30,245,2021-08-02,2.28,3,269,0,HSR19-003297,CA,Los Angeles
+549,951515,Townhouse at the Beach,3041,Yoga Priestess,Other Cities,Santa Monica,34.00317,-118.47928,Entire home/apt,297,1,32,2022-08-04,0.28,2,307,11,228269,CA,Los Angeles
+551,852580,LA Grove / Miracle Mile Area,4451028,Max,City of Los Angeles,Mid-Wilshire,34.0574,-118.35775,Private room,73,30,131,2021-04-20,1.12,1,156,0,HSR19-005875,CA,Los Angeles
+555,749702,Charming Bel Air Get Away,3940325,Rainy And Michael,City of Los Angeles,Beverly Crest,34.09119,-118.43816,Entire home/apt,235,30,4,2013-09-13,0.03,1,0,0,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+558,967783,Touch of Big Sur near Venice Beach,5280356,Paul,City of Los Angeles,Mar Vista,34.002216,-118.432892,Private room,78,1,320,2022-08-09,2.76,2,2,20,HSR21-001142,CA,Los Angeles
+559,854589,Private bedroom in eclectic home.,3982520,Louie & Agla,City of Los Angeles,West Adams,34.02778,-118.36516,Private room,64,30,133,2020-03-14,1.6,1,0,0,HSR19-000302,CA,Los Angeles
+560,958435,Architectural Masterpiece with Roof Deck,1795029,Raymond,City of Los Angeles,Venice,33.98302,-118.46284,Entire home/apt,932,1,491,2022-09-02,4.24,1,166,74,HSR22-000877,CA,Los Angeles
+562,860446,Private Room/Bath in Santa Monica,4506695,Donna,Other Cities,Santa Monica,34.02715,-118.49267,Private room,116,2,317,2022-08-18,2.69,2,10,29,228372,CA,Los Angeles
+563,969436,Loft-Style Guest House with Private pool/backyard.,5294171,Justin,City of Los Angeles,Sherman Oaks,34.14791,-118.46739,Entire home/apt,230,3,26,2021-07-06,0.25,2,338,0,HSR22-002569,CA,Los Angeles
+574,975453,Chef Owned Guest Suite Prvt Studio w/own back yard,5335305,Todd,City of Los Angeles,Mid-City,34.0415,-118.33888,Entire home/apt,119,1,355,2022-09-05,3.12,2,128,84,HSR22-000032,CA,Los Angeles
+576,961852,Paradise Hot Tub Tree House,3636235,Ari,City of Los Angeles,Silver Lake,34.08619,-118.26862,Entire home/apt,493,2,248,2022-08-25,2.16,1,2,33,HSR20-001652,CA,Los Angeles
+578,975929,Zen House with Sauna and Spectacular Views,3608303,Veronica,City of Los Angeles,Hollywood Hills,34.12274,-118.35758,Entire home/apt,875,3,37,2022-06-19,0.32,2,345,1,HSR19-004207,CA,Los Angeles
+580,964803,Large Trendy 1 bdrm Condo in Silverlake,5260212,Swaga,City of Los Angeles,Silver Lake,34.10584,-118.25647,Entire home/apt,90,5,56,2022-08-29,0.63,1,0,8,HSR19-001543,CA,Los Angeles
+582,978823,Sleep 6✔ 2 Bedroom 2 Bath Parking +Wash &D,1270782,William,Other Cities,Long Beach,33.78985,-118.2037,Entire home/apt,231,5,42,2022-07-06,0.38,7,365,4,NRP21-00137,CA,Los Angeles
+583,1090649,Great Modern Venice Beach House,662129,Verena,City of Los Angeles,Venice,33.99706,-118.44991,Entire home/apt,500,30,7,2017-07-30,0.06,2,193,0,HSR19-002695,CA,Los Angeles
+585,1092952,Los Angeles Hillside Guesthouse,6005593,Sue And Gideon,City of Los Angeles,Echo Park,34.08678,-118.24957,Entire home/apt,110,2,409,2022-01-15,3.6,1,157,9,HSR19-000014,CA,Los Angeles
+586,1204042,Quiet room beautiful Pasadena home,3164742,Audrey,Other Cities,Pasadena,34.15356,-118.08504,Private room,65,1,187,2022-09-05,1.68,2,265,46,SRH2018-00019,CA,Los Angeles
+592,1097756,"Modern Gorgeous ""treehouse"" Tree View Hill Home",5063938,Sheena,City of Los Angeles,Woodland Hills,34.14807,-118.59683,Entire home/apt,367,3,80,2022-08-15,0.72,2,344,13,HSR19-002458,CA,Los Angeles
+595,1212897,Charming getaway near Venice Beach,6328783,Amadea,City of Los Angeles,Mar Vista,33.99743,-118.44018,Entire home/apt,255,14,1,2015-02-19,0.01,1,165,0,HSR22-002032,CA,Los Angeles
+596,984743,Mid Century Hollywood Hills / Hollywood Sign,2400215,Paula,City of Los Angeles,Hollywood Hills,34.12793,-118.32083,Entire home/apt,325,2,153,2022-09-04,1.35,1,294,41,HSR21-000702,CA,Los Angeles
+598,1213127,Hip Tree-Top Spacious Venice Loft!,4983491,Cynthia & Gustavo,City of Los Angeles,Venice,33.99977,-118.44954,Entire home/apt,215,3,238,2022-09-04,2.13,1,318,53,HSR20-000657,CA,Los Angeles
+599,1101477,"Secret Patio Garden, Harp Music & Breakfast!",1810141,Carolyn,Other Cities,Pasadena,34.16141,-118.10509,Private room,89,2,36,2022-07-07,0.33,1,360,3,SRH-2018-00018,CA,Los Angeles
+604,1214414,room with bathroom  in Silver Lake,1167240,Olena,City of Los Angeles,Silver Lake,34.09338,-118.26108,Private room,50,30,51,2020-02-29,0.45,1,141,0,HSR19-004135,CA,Los Angeles
+606,1217295,Highland Park-Entire Home Quiet 1920's Bungalow,6169252,Judy,City of Los Angeles,Highland Park,34.10948,-118.19055,Entire home/apt,203,4,17,2022-09-03,1.73,1,299,17,HSR21-002621,CA,Los Angeles
+616,1108077,Balinese haven with pool 15 minutes from the beach,2734452,Christine,City of Los Angeles,Palms,34.01798,-118.41585,Entire home/apt,450,6,2,2022-07-13,0.02,1,248,1,HSR22-001259,CA,Los Angeles
+618,1109439,Bright Updated Venice Beach House,329040,Leigh And Stefanie,City of Los Angeles,Venice,33.99635,-118.46916,Entire home/apt,215,2,437,2022-08-30,3.86,1,286,55,HSR21-003031,CA,Los Angeles
+620,1220178,Fabulous Ocean Views at Malibu 2BR Getaway,6656138,Larry,Other Cities,Malibu,34.04181,-118.88698,Entire home/apt,382,2,4,2022-08-04,0.48,2,315,4,STR20-0074,CA,Los Angeles
+621,1010168,Stay at the Pink House Bungalow!,3858964,Charlotte,City of Los Angeles,Hollywood,34.09252,-118.32771,Entire home/apt,229,6,3,2022-09-03,3.0,2,299,3,HSR20-001416,CA,Los Angeles
+623,1220414,Vintage Craftsman House with Pool,631693,Daniel,City of Los Angeles,Mid-Wilshire,34.05424,-118.3573,Entire home/apt,443,4,258,2022-09-02,3.67,1,92,37,HSR21-002630,CA,Los Angeles
+625,1011146,Amazing Hollywood Hills home with pool,5552765,Katrina & Jason,Other Cities,Beverly Hills,34.11084,-118.39099,Entire home/apt,800,30,6,2021-08-13,0.16,1,0,0,HSR21-000900,CA,Los Angeles
+626,1220989,"Observatory Views, Oasis Gardens & Giant Tortoise",6660841,Kareen,City of Los Angeles,Silver Lake,34.10630014012952,-118.26980281575804,Entire home/apt,318,4,22,2022-08-27,0.23,2,334,2,HSR22-001418,CA,Los Angeles
+629,1221430,Beverly Hills Art Deco Guestroom,5555726,Randy,City of Los Angeles,Mid-City,34.04439,-118.38563,Private room,60,6,154,2022-08-28,1.55,1,55,20,HSR19-001114,CA,Los Angeles
+631,1013865,Venice Architectural Dream Suite,2665108,Angela,City of Los Angeles,Venice,33.99556,-118.45307,Private room,121,30,205,2022-08-23,2.18,4,156,29,HSR19-002622,CA,Los Angeles
+632,1013877,Room at the beach in Santa Monica,5577457,Annie,Other Cities,Santa Monica,34.00135,-118.47714,Private room,70,2,120,2022-09-05,1.1,1,265,9,215435,CA,Los Angeles
+633,1223274,Peaceful & Convenient Studio,6672704,Diane,Other Cities,Santa Monica,34.01301,-118.48384,Entire home/apt,87,31,33,2022-08-18,0.53,1,131,4,219867,CA,Los Angeles
+634,1014088,Sunny  One Bedroom Mother-In-Law unit,3865105,Michelle,City of Los Angeles,Fairfax,34.08282,-118.35294,Entire home/apt,140,30,56,2022-07-24,0.49,3,114,6,HSR20-002722,CA,Los Angeles
+636,1115276,Rustic style Lodge in Silverlake/LA,6121136,Gisele,City of Los Angeles,Silver Lake,34.09417,-118.27251,Entire home/apt,100,30,115,2022-06-25,1.25,5,334,4,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+638,1226155,Silver Lake Garden Getaway,4163838,Visperd,City of Los Angeles,Silver Lake,34.08114,-118.28315,Entire home/apt,150,30,73,2022-08-01,0.65,2,89,6,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+640,1226324,Warm Quite and Cozy Private Room,6689265,Henry,City of Los Angeles,Vermont Square,34.00681,-118.31471,Private room,45,2,348,2022-08-31,3.32,2,271,75,HSR19-002636,CA,Los Angeles
+646,1021051,Breezy Private Hillside Silver Lake Artist Studio,3255693,Kaia,City of Los Angeles,Silver Lake,34.1012,-118.26824,Entire home/apt,140,30,12,2022-05-09,0.1,2,35,1,HSR19-003512,CA,Los Angeles
+649,1126532,Dazzling Views Apartment with Architect Designed,6092394,Tim,City of Los Angeles,Silver Lake,34.09838,-118.25438,Entire home/apt,168,30,177,2022-05-15,1.57,2,0,5,HSR19-003222,CA,Los Angeles
+655,1240735,Hollywood Hills Guest Suite II,4260628,Darrell,City of Los Angeles,Hollywood Hills West,34.10051,-118.37997,Private room,175,2,370,2022-08-28,3.3,2,250,58,HSR19-001320,CA,Los Angeles
+658,1240859,MY HOLLYWOOD SPACE RENTALS 3,2622454,Mary,City of Los Angeles,Hollywood,34.1,-118.32807,Private room,64,30,463,2021-11-19,4.12,10,342,1,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+661,1240876,MY HOLLYWOOD SPACE RENTALS 5,2622454,Mary,City of Los Angeles,Hollywood,34.10145,-118.32816,Private room,65,30,521,2022-08-29,4.64,10,290,3,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+663,1240889,MY HOLLYWOOD SPACE RENTALS 4,2622454,Mary,City of Los Angeles,Hollywood,34.10024,-118.32759,Private room,64,30,563,2022-04-11,5.06,10,361,2,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+665,1025161,Private Room in Elegant French Gothic Home,5644575,Rebecca,City of Los Angeles,Mid-Wilshire,34.06124,-118.34656,Private room,98,1,781,2022-09-02,6.83,1,300,87,HSR19-002492,CA,Los Angeles
+666,1240919,MY HOLLYWOOD SPACE RENTALS 2,2622454,Mary,City of Los Angeles,Hollywood,34.10136,-118.32788,Private room,65,30,633,2021-12-12,5.65,10,287,1,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+668,1240928,MY HOLLYWOOD SPACE RENTALS 1,2622454,Mary,City of Los Angeles,Hollywood,34.10231,-118.32907,Private room,65,30,561,2022-08-31,5.01,10,257,2,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+672,1243943,View Hollywood Hills from Stunning Loft-Style Home,6780040,Russell,City of Los Angeles,Hollywood Hills,34.11296,-118.32389,Entire home/apt,536,5,96,2022-09-05,0.87,1,108,28,HSR19-002798,CA,Los Angeles
+674,1036792,Charming Private Guest House w/Shared Pool,5704561,Louis And Ludovic,City of Los Angeles,Mid-Wilshire,34.05591,-118.32507,Entire home/apt,151,4,270,2022-08-01,2.59,1,276,33,HSR19-003174,CA,Los Angeles
+675,1140691,Stunning Apartment in the Hollywood Hills,3662459,Barry,City of Los Angeles,Hollywood Hills,34.11953,-118.32508,Entire home/apt,130,30,18,2019-01-14,0.16,1,204,0,HSR19-002453,CA,Los Angeles
+676,1246134,Beautiful 5 star Bedroom & Private Bath in Venice,2458647,Mark,City of Los Angeles,Venice,33.99905,-118.46518,Private room,189,3,137,2022-08-19,1.23,3,82,20,HSR21-000661,CA,Los Angeles
+677,1140770,Private space Master bedroom in a 2/2 W. LA,6255849,Annabel,City of Los Angeles,Sawtelle,34.03312,-118.43858,Private room,159,30,8,2014-05-02,0.07,3,365,0,HSR21-000574,CA,Los Angeles
+680,1141298,Luxury 1 Bedroom Unit-Walk to Beach -Baby Friendly,6258733,Ray,City of Los Angeles,Venice,33.97789,-118.46243,Entire home/apt,175,30,107,2022-04-17,0.96,1,244,2,Exempt - This listing is a bed and breakfast,CA,Los Angeles
+684,1246974,Perfect Vacation House 2BR/2BTH in Mar Vista 90066,6582790,Barbara,City of Los Angeles,Mar Vista,34.01175,-118.43002,Entire home/apt,230,30,1,2015-09-01,0.01,1,11,0,HSR20-001875,CA,Los Angeles
+685,1040399,Cozy Pool House in Los Angeles.,1136148,Clara,City of Los Angeles,Los Feliz,34.09771,-118.28621,Entire home/apt,231,3,281,2022-09-06,2.49,1,238,47,HSR19-001514,CA,Los Angeles
+687,1147968,Architectural gem in Hancock Park,685976,Paul,City of Los Angeles,Hancock Park,34.08019,-118.32747,Entire home/apt,175,30,114,2019-09-02,1.06,1,0,0,HSR19-002207,CA,Los Angeles
+688,1249253,CHARMING+HIP LOS FELIZ LITTLE HOUSE,819926,Coco And Jon,City of Los Angeles,Los Feliz,34.10681,-118.27555,Entire home/apt,105,30,286,2020-09-01,2.57,1,0,0,HSR19-005091,CA,Los Angeles
+689,1153772,Malibu Studio Enchanted Sea Cottage,6323112,Antoinette,Other Cities,Malibu,34.00876,-118.81379,Private room,330,3,169,2022-08-28,1.66,3,222,31,STR20-0076,CA,Los Angeles
+690,1042878,Studio/Guest House,5741839,Sima,City of Los Angeles,Mar Vista,34.00868,-118.45281,Entire home/apt,190,3,98,2022-08-17,0.85,1,365,24,HSR21-002392,CA,Los Angeles
+692,1043146,Short stays OK. BH/Weho Sunset Hills Contemporary,5743628,Peter,City of Los Angeles,Hollywood Hills West,34.09757,-118.3738,Entire home/apt,1200,30,12,2020-01-02,0.11,1,365,0,HSR20-002405,CA,Los Angeles
+697,1157077,Malibu OceanFront Guest House,6323112,Antoinette,Other Cities,Malibu,34.009,-118.8147,Entire home/apt,595,4,77,2022-08-30,0.8,3,177,24,STR20-0076,CA,Los Angeles
+702,1256361,Large hillside studio in Echo Park,6658533,Aaron & Luciana,City of Los Angeles,Echo Park,34.08593,-118.2506,Entire home/apt,121,30,255,2022-07-31,2.3,2,113,2,HSR19-356687,CA,Los Angeles
+703,1159751,Malibu 3 BR Oceanfront Bluff,6323112,Antoinette,Other Cities,Malibu,34.01096,-118.81384,Entire home/apt,795,7,19,2022-08-27,0.22,3,95,4,STR20-0076,CA,Los Angeles
+704,1160233,Los Angeles ! Pasadena! Rose Bowl!SoCalifornia!,6136641,Allen,City of Los Angeles,Montecito Heights,34.09565,-118.18574,Private room,64,30,25,2021-07-20,0.27,1,0,0,Hsr19-123456,CA,Los Angeles
+705,1046293,Private room in cottage style house,5757665,Ann,City of Los Angeles,Sherman Oaks,34.17007,-118.46056,Private room,50,7,38,2022-08-22,0.33,2,68,10,HSR22-000248,CA,Los Angeles
+708,1257025,Beach side heart of santa monica/P,6471245,Pei,Other Cities,Santa Monica,34.02251,-118.50066,Private room,99,1,698,2022-08-23,6.25,1,300,69,217645,CA,Los Angeles
+709,1160367,Rancho Reseda Retreat House-HSR21-002460,6358823,David,City of Los Angeles,Reseda,34.2018,-118.54782,Entire home/apt,110,5,10,2022-01-03,0.1,1,155,2,HSR21-002460,CA,Los Angeles
+710,1259730,ARCHITECTURAL HOLLYWOOD,1450554,Linda,City of Los Angeles,Hollywood Hills,34.10868,-118.33835,Entire home/apt,120,30,465,2020-03-15,4.16,1,143,0,HSR19-000764,CA,Los Angeles
+711,1054981,Enjoy my Venice Loft (w/ private home gym),2451422,Stephen,City of Los Angeles,Venice,33.99284,-118.46732,Entire home/apt,500,5,84,2022-08-30,0.86,1,159,25,HSR19-001030,CA,Los Angeles
+715,1056644,“The Blue Room” (Private Bd. & Bathroom),190861,Mikey,City of Los Angeles,Valley Village,34.16759,-118.38738,Private room,72,2,51,2022-01-19,0.46,3,0,7,HSR21-000564,CA,Los Angeles
+726,1167685,Tranquil Garden Guest House & Pool,4324567,Serena,City of Los Angeles,Studio City,34.14619,-118.39932,Entire home/apt,222,30,287,2022-09-04,2.53,2,330,39,HSR19-002639,CA,Los Angeles
+732,1069246,REDUCED! LUXURY DESIGNER ART MODERN ON THE BEACH!,10156476,Robert,Other Cities,Santa Monica,33.99728,-118.48254,Entire home/apt,525,31,2,2022-05-14,0.02,8,288,1,228642,CA,Los Angeles
+737,1069809,Serene Hillside Home & Gorgeous Garden,2021412,Heather,City of Los Angeles,Echo Park,34.0893,-118.24568,Entire home/apt,227,30,1,2014-12-28,0.01,1,35,0,HSR22-001388,CA,Los Angeles
+738,1283815,Ktown Home Luxury/Relax/Comfort/Zen,6562223,Mariano,City of Los Angeles,Koreatown,34.07455,-118.29832,Entire home/apt,285,30,157,2020-08-07,1.76,3,365,0,HSR19-005861,CA,Los Angeles
+743,1180428,"Private Hillside Garden Suite, Eastside L.A.",6457603,Dee & Mike,City of Los Angeles,Mount Washington,34.11146,-118.21216,Entire home/apt,144,2,223,2022-08-29,1.99,1,118,72,HSR19-001824,CA,Los Angeles
+744,1288452,Suite near Universal,4902248,Helen,City of Los Angeles,Hollywood Hills,34.11225,-118.33279,Private room,140,1,285,2022-08-28,2.54,3,160,64,HSR21-001447,CA,Los Angeles
+745,1186217,Entire home in Beverly Hills with pool,6486378,Joshua,City of Los Angeles,Beverly Crest,34.1087,-118.43367,Entire home/apt,595,30,130,2021-03-22,1.17,1,339,0,HSR19-002739,CA,Los Angeles
+748,1290697,1920s Hollywood 3BR with Jacuzzi and private yard!,7018329,Alice,City of Los Angeles,Larchmont,34.07926,-118.32069,Entire home/apt,250,30,10,2016-01-01,0.09,1,0,0,HSR20-000271,CA,Los Angeles
+752,1187091,Charming California Bungalow in San Pedro,6490469,Walter,City of Los Angeles,San Pedro,33.73096,-118.29905,Entire home/apt,150,3,54,2022-09-05,0.48,2,52,3,HSR22-002083,CA,Los Angeles
+754,1292476,Charming Craftsman with Outdoor Shower,7027622,Susan & Kevin,City of Los Angeles,Venice,33.99521,-118.45409,Entire home/apt,169,30,458,2022-06-30,4.09,1,158,2,HSR19-003384,CA,Los Angeles
+755,1305483,"CLEAN, Private Entrance, separated 2/1 w Patio",866477,Ewa,City of Los Angeles,Mount Washington,34.11028,-118.22064,Entire home/apt,186,2,102,2022-08-23,1.18,2,320,43,HSR19-004776,CA,Los Angeles
+757,1187671,Private Room Near South Pasadena,6494570,Ann-Marie And Emrick,City of Los Angeles,Highland Park,34.1136,-118.17812,Private room,60,30,65,2022-06-30,0.66,2,336,3,HSR20-002238,CA,Los Angeles
+761,1312034,"Private guesthouse  with patio, pet friendly",7129892,Azita,Other Cities,Santa Monica,34.03654,-118.47378,Entire home/apt,109,14,38,2022-08-11,0.34,2,323,6,242154,CA,Los Angeles
+762,1293181,Modern Spacious Santa Monica Townhome,2734505,Keith & Yeva,Other Cities,Santa Monica,34.03491,-118.46739,Entire home/apt,200,2,23,2022-09-05,0.22,1,0,5,232576,CA,Los Angeles
+764,1294678,Family Paradise in Venice Beach,7039450,Peter And Marisa,City of Los Angeles,Venice,33.99808,-118.45645,Entire home/apt,700,3,25,2022-07-28,0.24,1,352,4,HSR19-002161,CA,Los Angeles
+765,1195078,Cozy Room in Historical Highland Park,6494570,Ann-Marie And Emrick,City of Los Angeles,Highland Park,34.11419,-118.1767,Private room,47,30,102,2020-11-03,0.91,2,334,0,HSR20-002238,CA,Los Angeles
+768,1294861,Come WFH**,4902248,Helen,City of Los Angeles,Hollywood Hills,34.12992,-118.34506,Private room,111,1,106,2022-09-06,0.95,3,285,2,HSR21-001447,CA,Los Angeles
+769,1317166,The Mountain Beach House Suite,7155111,Dorothy,City of Los Angeles,Venice,33.97948,-118.46729,Private room,170,30,301,2020-03-02,2.76,1,365,0,HSR19-003736,CA,Los Angeles
+770,1200697,Charming Home in Highland Park,6483621,Patrice,City of Los Angeles,Highland Park,34.12075,-118.17743,Entire home/apt,175,30,6,2020-02-24,0.05,1,205,0,HSR19-001386,CA,Los Angeles
+773,1327133,Spanish Oasis w/ Spectacular DTLA Views,870087,Martineke,City of Los Angeles,Echo Park,34.09419,-118.25122,Entire home/apt,600,4,13,2022-07-09,0.12,2,284,1,HSR22-000377,CA,Los Angeles
+779,1336082,Venice Garden Studio Apt. & Bikes,7245047,Marco,City of Los Angeles,Venice,33.99195,-118.45463,Entire home/apt,140,5,161,2022-08-23,1.44,1,51,23,HSR22-001781,CA,Los Angeles
+780,1669744,Huge 2+1 1400sf Views Hollywood Heights,8840681,Kevin,City of Los Angeles,Hollywood Hills,34.1094,-118.34235,Entire home/apt,211,30,115,2022-09-01,1.07,1,320,32,HSR22-001824,CA,Los Angeles
+781,1495256,"LAX Beachhouse-Luxury On Sand, sanitized, near LAX",7992508,Frank,City of Los Angeles,Playa del Rey,33.96193,-118.4541,Entire home/apt,1019,3,59,2022-07-27,0.55,3,255,11,HSR21-000363,CA,Los Angeles
+785,1677768,Charming Room  & private bath minutes from  Beach.,8876778,Amanda & Paul,Other Cities,Santa Monica,34.00897,-118.48129,Private room,134,2,140,2022-09-07,1.64,1,185,38,214940,CA,Los Angeles
+787,1503555,Private Sunset Plaza Hideaway with Pool,8033455,Nona,City of Los Angeles,Hollywood Hills West,34.09711,-118.38121,Entire home/apt,420,4,33,2022-08-25,0.3,1,335,9,HSR19-003835,CA,Los Angeles
+788,1677930,Private room with parking in Los Angeles,8877518,Amaia,City of Los Angeles,Del Rey,33.98721,-118.42083,Private room,130,4,9,2022-08-29,2.06,1,45,9,HSR20-000986,CA,Los Angeles
+789,1508079,1877sf 2bd/2 ba 50 yards to beach & 500sf DECK!,7599550,Donald,City of Los Angeles,Venice,33.98405838012695,-118.47040557861328,Entire home/apt,349,3,134,2022-08-22,1.23,3,286,36,HSR22-002073,CA,Los Angeles
+794,1681745,Luxurious Home Overlooking Venice Canals,6342966,Andrea & Ed,City of Los Angeles,Venice,33.98353,-118.46441,Entire home/apt,397,3,372,2022-08-02,3.44,1,190,41,HSR19-003879,CA,Los Angeles
+800,1515883,Centrally-Located Long Beach Guesthouse,8094048,Mikki,Other Cities,Long Beach,33.819183,-118.175247,Entire home/apt,130,31,652,2022-06-30,6.07,1,349,49,PRP20-00004,CA,Los Angeles
+806,1364192,Los Angeles Guest Home in Mt Washington,1979505,Darryl,City of Los Angeles,Mount Washington,34.09515,-118.21371,Entire home/apt,250,6,57,2022-08-15,0.51,2,156,24,HSR19-003715,CA,Los Angeles
+813,1365453,0.8 mi. 2 BEVERLY HILLS-Prv. Bedrm & En Suite Bath,7411743,Tami,City of Los Angeles,Beverlywood,34.04759,-118.39392,Private room,95,30,51,2019-09-28,0.47,2,365,0,HSR20-001877,CA,Los Angeles
+815,1365676,selfcontained1 Bdrm suite with Spa,1535780,Rasha,City of Los Angeles,Studio City,34.14766,-118.40721,Entire home/apt,217,1,89,2022-08-21,0.8,1,362,4,HSR22-001852,CA,Los Angeles
+817,1687791,Beach Retreat in Park-Like Setting,7158073,Jeff,City of Los Angeles,Pacific Palisades,34.04924,-118.53396,Entire home/apt,1795,7,19,2022-07-16,0.18,1,362,5,HSR21-001539,CA,Los Angeles
+820,1538312,Breakfast under Trees close to City,8111032,May,City of Los Angeles,Mount Washington,34.09896,-118.21412,Entire home/apt,290,4,47,2022-08-14,0.43,1,0,11,HSR21-001557,CA,Los Angeles
+821,1373250,Modern Guest Studio in Mid-city LA!,27537,Sarah,City of Los Angeles,Mid-City,34.04511,-118.35946,Private room,128,2,239,2022-08-17,2.52,1,21,21,HSR22-001280,CA,Los Angeles
+825,1543080,Fab Room in Craftsman Style Home,8224625,Veronica,City of Los Angeles,Highland Park,34.10591,-118.19767,Private room,63,2,26,2022-08-14,0.24,1,97,2,HSR19-000757,CA,Los Angeles
+831,1545503,Spanish Style home in Mid-Wilshire,8236124,Dreya,City of Los Angeles,Mid-City,34.04603,-118.36303,Entire home/apt,180,30,18,2022-01-08,0.17,2,365,1,HSR19-001311,CA,Los Angeles
+832,1691660,TheHoudiniEstate,8936617,Lori,City of Los Angeles,Hollywood Hills West,34.1156,-118.37448,Entire home/apt,2321,2,35,2022-07-27,0.47,4,277,6,HSR21-000580,CA,Los Angeles
+836,1381369,Spectacular 1909 Craftsman~AMAZING VIEWS,7480071,Al And Leslie,City of Los Angeles,Silver Lake,34.09335,-118.27285,Entire home/apt,580,2,323,2022-09-04,2.91,1,305,43,HSR19-003295,CA,Los Angeles
+837,1552093,"""Be Our Guest"" Sunset Strip Guest House",6140447,Jennifer,City of Los Angeles,Hollywood,34.09808,-118.35538,Entire home/apt,181,30,144,2022-07-28,1.94,1,264,19,HSR19-001811,CA,Los Angeles
+842,1700085,Soothing Zen Haven In the Hollywood Hills,55411,Hank,City of Los Angeles,Hollywood Hills,34.12002,-118.32136,Entire home/apt,404,5,33,2022-04-28,0.33,10,65,3,HSR19-003021,CA,Los Angeles
+849,1393795,Peaceful and tranquil beach oasis.,1534512,Amy,City of Los Angeles,Venice,33.99379,-118.47855,Entire home/apt,336,30,98,2022-07-24,0.95,1,114,7,HSR21-001973,CA,Los Angeles
+851,1708422,Urban Oasis - Clean/Sanitized - Air Purifier,8961713,Frank Marquez,City of Los Angeles,Highland Park,34.12599,-118.19291,Entire home/apt,145,2,189,2022-08-28,1.75,2,42,17,HSR19-002549,CA,Los Angeles
+852,1561140,Amazing View from Hollywood Hills.,4501234,Dessie,Other Cities,Beverly Hills,34.10898,-118.39163,Entire home/apt,935,2,72,2022-08-15,0.68,1,88,10,HSR19-001052,CA,Los Angeles
+853,1399365,Elegant Design Apartment with Courtyard Garden Dining Space,1930550,Cara,Other Cities,Santa Monica,34.02461,-118.48571,Entire home/apt,191,3,244,2022-09-07,2.21,1,234,38,104375,CA,Los Angeles
+855,1712418,Venice Canals Luxury Vacation Retreat,6825086,Beverly,City of Los Angeles,Venice,33.98473,-118.46583,Entire home/apt,750,30,8,2020-01-10,0.08,1,313,0,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+856,1404538,"Bright, Beverly Hills Home with Pool",1762495,Ravi,City of Los Angeles,Beverly Crest,34.09657,-118.43427,Entire home/apt,500,30,18,2021-01-20,0.2,1,0,0,HSR19-005877,CA,Los Angeles
+857,1408665,"""A little oasis in Laurel Canyon""",287042,Hallgrim,City of Los Angeles,Hollywood Hills West,34.10766,-118.37301,Entire home/apt,400,30,141,2022-09-05,1.27,1,1,20,HSR19-002283,CA,Los Angeles
+861,1409099,Heaven at the Beach & 500 sf oceandeck with BBQ!,7599550,Donald,City of Los Angeles,Venice,33.98403,-118.47005,Entire home/apt,239,3,224,2022-09-05,2.16,3,330,25,HSR22-001320,CA,Los Angeles
+866,1718567,Peaceful Room blocks from Santa Monica beach,160557,Tueykay,Other Cities,Santa Monica,34.00855,-118.47774,Private room,77,5,41,2022-08-18,0.42,1,251,5,227963,CA,Los Angeles
+867,1724222,Spacious cottage room w/kitchenette & private bath,9088338,Melanie,City of Los Angeles,Woodland Hills,34.15726,-118.63245,Private room,106,30,81,2020-03-03,1.05,1,35,0,HSR19-003248,CA,Los Angeles
+871,1570497,Fashionable Melrose Avenue #1      HSR21-002839,7984293,Rita,City of Los Angeles,Hollywood,34.08585,-118.34293,Private room,85,7,301,2022-08-19,2.87,4,365,11,HSR21-002839,CA,Los Angeles
+872,1726045,Private Guest House-Beverly Hills Adj 0.8 miles,7411743,Tami,City of Los Angeles,Beverlywood,34.04825,-118.38791,Entire home/apt,117,30,197,2022-03-31,2.61,2,327,19,HSR20-001877,CA,Los Angeles
+880,1423375,"Bright, Modern & Spacious Stunner in Silverlake",2096159,Josh,City of Los Angeles,Silver Lake,34.10183,-118.26616,Entire home/apt,529,3,54,2022-07-20,0.51,1,76,10,HSR22-001822,CA,Los Angeles
+885,1602551,Canoe Down the Venice Canals from a Historic Guest House,8539755,Josie And Paul,City of Los Angeles,Venice,33.98455,-118.46902,Entire home/apt,295,4,282,2022-08-31,2.58,1,302,45,HSR20-001704,CA,Los Angeles
+889,1433534,Secluded View Home-Prime Location,7464864,Marianne,City of Los Angeles,Woodland Hills,34.16474,-118.60235,Private room,105,30,20,2022-07-15,0.45,2,298,12,HSR22-000251,CA,Los Angeles
+891,1732621,"Hollywood Hills ""Canyon Breezes"" & Private Hot Tub",9128463,Bob,City of Los Angeles,Hollywood Hills West,34.10725,-118.3606,Entire home/apt,302,3,220,2022-08-23,2.1,1,52,36,HSR21-000913,CA,Los Angeles
+892,1602772,ON A HILL BY Pasadena/ KECK  USC,672143,Grace,City of Los Angeles,Montecito Heights,34.09006,-118.18683,Entire home/apt,145,3,155,2022-08-24,1.44,2,363,32,HSR19-002694,CA,Los Angeles
+893,1617945,⭐️ Cozy & Quaint Steps To The Beach,7356043,Trevor,City of Los Angeles,Venice,33.98307,-118.46929,Entire home/apt,150,7,243,2022-08-15,2.23,13,67,18,HSR22-000676,CA,Los Angeles
+895,1735041,Stunning Studio City Retreat,1769997,Marianne,City of Los Angeles,Studio City,34.13398,-118.37988,Entire home/apt,907,30,4,2014-08-18,0.04,2,364,0,HSR19-000781,CA,Los Angeles
+899,1623443,Bachelor in Venice Beach,8056219,Bret,City of Los Angeles,Venice,33.9884,-118.47433,Entire home/apt,75,30,67,2019-09-18,0.74,1,297,0,HSR19-617980,CA,Los Angeles
+900,1446051,COZY GUEST HOUSE NEAR WEHO,7763168,Katherine,Other Cities,West Hollywood,34.09398,-118.36148,Entire home/apt,100,30,30,2022-07-09,0.28,1,267,6,HSR19-001186,CA,Los Angeles
+902,1738146,Quiet guest house  in Studio City hills.,1769997,Marianne,City of Los Angeles,Studio City,34.13565,-118.38017,Entire home/apt,250,2,138,2022-08-28,1.43,2,361,31,HSR21-002303,CA,Los Angeles
+912,1446428,Private cozy cottage in Los Angeles,6310984,Mando And Marta,City of Los Angeles,East Hollywood,34.07649,-118.30286,Entire home/apt,75,2,482,2022-09-04,4.35,1,102,63,HSR19-000209,CA,Los Angeles
+913,1747848,Beautiful Ocean/Harbor hilltop view,9198365,Roya,City of Los Angeles,San Pedro,33.71288,-118.29126,Entire home/apt,200,30,39,2021-12-31,0.37,2,207,1,HSR19-005770,CA,Los Angeles
+916,1628415,Fabulous Ocean Views at Malibu 1 Bedroom Getaway,6656138,Larry,Other Cities,Malibu,34.04327,-118.88437,Entire home/apt,282,2,269,2022-08-24,2.58,2,315,49,STR20-0074,CA,Los Angeles
+918,1453493,Walk to the Beach From a Charming Guest House,7796684,Susan,Other Cities,Long Beach,33.75706,-118.13322,Entire home/apt,139,2,443,2022-08-29,4.06,3,285,66,NRP22-00888,CA,Los Angeles
+919,1750808,Clean Oasis/Private Pool/COUPLE OR SINGLE FAM ONLY,7355875,Debra,Other Cities,Santa Monica,34.0395,-118.48144,Entire home/apt,746,2,72,2022-09-01,0.68,1,334,18,Santa Monica business license 216122,CA,Los Angeles
+921,1630098,USC 1 block north -Private Room/Private Bath B&B,8663618,James Brian,City of Los Angeles,University Park,34.02835,-118.28725,Private room,50,31,68,2021-11-15,0.62,2,329,1,Exempt - This listing is a bed and breakfast,CA,Los Angeles
+928,1756127,"Paradise in ""Melrose Village""",1204722,Ricco & Julie,City of Los Angeles,Fairfax,34.0852,-118.34847,Entire home/apt,445,30,7,2019-07-21,0.07,3,38,0,HSR20-001515,CA,Los Angeles
+929,1634003,Pasadena Craftsman private room w/ separate entry,2789333,Chad,Other Cities,Pasadena,34.17319,-118.12242,Private room,121,1,144,2022-08-28,1.46,1,140,1,STRH2018-00010,CA,Los Angeles
+930,1476120,Panoramic MidCentury SilverLake Gem,7899927,Kiki,City of Los Angeles,Silver Lake,34.09957,-118.26784,Private room,153,30,25,2022-08-29,0.24,1,258,15,HSR21-000202,CA,Los Angeles
+931,1759701,"Chic, Modern Downtown Loft",9251841,LaLOFT,City of Los Angeles,Downtown,34.04433,-118.25124,Entire home/apt,159,30,47,2021-12-20,2.03,3,364,12,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+933,1636261,4Bd/2Ba Craftsman in historic West Adams district,8690256,Juan,City of Los Angeles,Harvard Heights,34.04272,-118.30163,Entire home/apt,354,3,35,2022-09-01,3.24,1,154,35,HSR21-001674,CA,Los Angeles
+935,1637056,Spectacular Loft you can't resist.,8694124,Shlomi & Sharona,City of Los Angeles,Carthay,34.06182,-118.36428,Entire home/apt,215,3,146,2022-08-23,1.39,1,353,8,HSR21-003006,CA,Los Angeles
+936,1637103,B&B Walk to Beach- Breezy & Bright Cozy Home,884702,June,Other Cities,Santa Monica,34.00256,-118.476,Private room,85,1,213,2020-03-14,2.84,2,0,0,215848,CA,Los Angeles
+938,1759806,Sexy/Elegant Armani Casa loft.,9251841,LaLOFT,City of Los Angeles,Downtown,34.04808,-118.25537,Entire home/apt,139,30,265,2020-09-28,2.45,3,364,0,HSR19-004647,CA,Los Angeles
+948,1779146,Silver Lake 3 BR Spanish Bungalow,3130819,Shana,City of Los Angeles,Silver Lake,34.10252,-118.26965,Entire home/apt,400,30,28,2022-08-20,0.26,1,365,1,HSR19-003010,CA,Los Angeles
+949,1650928,Hollywood Hills Getaway,8634336,Mary,City of Los Angeles,Hollywood Hills,34.11516,-118.34403,Entire home/apt,725,30,6,2016-02-23,0.06,1,364,0,HSR19-003022,CA,Los Angeles
+950,1652022,Sunny Pasadena Craftsman Bungalow,8761849,Carol,Other Cities,Pasadena,34.1559,-118.11441,Entire home/apt,98,3,241,2022-09-06,2.23,1,125,36,SRH2021-00301,CA,Los Angeles
+954,1652433,Hear Waves Crash! StudioSteps2Bch!Amazon Firestick,8763731,Starline Real Estate,City of Los Angeles,San Pedro,33.70549,-118.28969,Entire home/apt,165,30,624,2022-08-31,5.84,18,335,3,HSR20-00393,CA,Los Angeles
+955,1903232,Tropical Studio - Cleaned & Sanitized,8961713,Frank Marquez,City of Los Angeles,Highland Park,34.12604,-118.19329,Private room,125,2,168,2022-09-05,1.57,2,40,23,HSR19-002549,CA,Los Angeles
+961,1786575,Sunny House minutes from the beach!,9376474,Maria & Thomas,City of Los Angeles,Westchester,33.97297,-118.38414,Entire home/apt,400,3,118,2022-07-23,1.11,1,0,10,HSR19-000112,CA,Los Angeles
+965,1909799,Venice Beach Studio With Parking,9910128,Cy,City of Los Angeles,Venice,33.98463,-118.47103,Entire home/apt,235,4,240,2022-09-05,2.3,1,114,18,HSR22-002345,CA,Los Angeles
+980,2058030,Charming Pasadena English Cottage,7247965,Marla,Other Cities,Pasadena,34.16044,-118.10502,Entire home/apt,350,3,14,2022-08-28,0.13,1,270,1,SRU2018-00057   and   SRH2018-00161,CA,Los Angeles
+981,1925626,Attached Encino Guest House -  for ONE guest,9975091,Michael,City of Los Angeles,Encino,34.16204,-118.48089,Entire home/apt,115,30,147,2022-08-13,1.71,1,253,7,HSR19-002932,CA,Los Angeles
+982,2058290,A Uniquely Beautiful Modern Studio,10538921,Haim,Other Cities,Santa Monica,34.0076,-118.46759,Entire home/apt,120,3,183,2022-09-03,1.74,1,232,72,235317,CA,Los Angeles
+983,1925843,Echo Park Retreat with Views,8639785,Christian & Meredith,City of Los Angeles,Echo Park,34.09182,-118.25352,Entire home/apt,107,2,530,2022-09-03,5.02,1,281,64,HSR19-001995,CA,Los Angeles
+985,1797692,"Designer Garden Oasis: private home, yard, parking",1716844,Kruti,City of Los Angeles,Mid-City,34.03861,-118.38421,Entire home/apt,336,7,8,2022-01-10,0.16,1,117,1,HSR21-003097,CA,Los Angeles
+986,1929094,Breezy! Private Hillside  Silver Lake Art Studio,3255693,Kaia,City of Los Angeles,Silver Lake,34.10176,-118.26951,Entire home/apt,144,30,327,2022-05-05,3.06,2,35,28,HSR19-003521,CA,Los Angeles
+991,1802756,Charming Sherman Oaks house,9450382,Glenn,City of Los Angeles,Sherman Oaks,34.16372,-118.46483,Entire home/apt,275,5,39,2022-08-28,0.63,1,154,6,HSR22-001048,CA,Los Angeles
+993,1939245,Updated & Sunny Detached 1BD w/Kitchenette & View,10031739,Gretje,City of Los Angeles,El Sereno,34.09573,-118.16909,Entire home/apt,79,30,209,2021-12-24,1.98,1,272,2,HSR19-004044,CA,Los Angeles
+994,1805824,THE SAINT CLAIR -- A RUSTIC  PRIVATE GUEST HOUSE,9464518,Marty And Carla,City of Los Angeles,Valley Glen,34.18028,-118.40047,Entire home/apt,147,2,183,2022-09-02,1.69,1,67,19,HSR21-002409,CA,Los Angeles
+996,1941221,Spacious Hillside Oasis in Silver Lake,10040534,Scott,City of Los Angeles,Silver Lake,34.09932,-118.25426,Entire home/apt,386,3,85,2022-08-21,1.48,2,249,24,HSR22-000483,CA,Los Angeles
+997,2070289,Posh One — Luxury Artist Retreat Pasadena Guesthouse,10585988,Barry & Van-Martin,Other Cities,Pasadena,34.14354,-118.11175,Entire home/apt,198,3,202,2022-09-06,1.91,3,44,28,SRH2018-00014,CA,Los Angeles
+1000,1815335,Private Bed/Bath in Shared Home w Pool/Jacuzzi,1204722,Ricco & Julie,City of Los Angeles,Fairfax,34.08549,-118.34833,Private room,119,30,76,2022-08-17,0.71,3,142,28,HSR20-001515,CA,Los Angeles
+1002,1815430,"Liz's Beachy Retreat in Santa Monica, Master Suite",9465513,Liz,Other Cities,Santa Monica,34.02288,-118.49851,Private room,133,1,433,2022-09-05,4.08,1,81,60,239069,CA,Los Angeles
+1006,1815874,Orange Drive Hostel-Male Dorm Room,9250479,Gretchen,City of Los Angeles,Hollywood,34.10392,-118.34016,Shared room,42,30,49,2020-02-16,0.45,11,312,0,Exempt - This listing is a hotel or motel,CA,Los Angeles
+1010,2073869,"FAMED MUSIC SITE, Hillside View, Acre, Park, Clean",10601052,Craig & Fiona,City of Los Angeles,Sherman Oaks,34.14255,-118.44151,Private room,68,31,79,2016-11-01,0.75,2,365,0,HSR19-004798,CA,Los Angeles
+1011,1959307,Modern Townhouse in West LA,9669575,Kamal,City of Los Angeles,Mid-City,34.04377,-118.38383,Private room,75,30,46,2022-08-28,0.44,1,286,4,HSR19-000903,CA,Los Angeles
+1012,2076112,Gated Hollywood Hills View Estate,10610538,Alex,City of Los Angeles,Hollywood Hills West,34.1042,-118.36465,Entire home/apt,1249,30,91,2022-04-18,0.92,2,275,9,HSR19-002384,CA,Los Angeles
+1013,1819094,Orange Drive Hostel - Female Dorm,9250479,Gretchen,City of Los Angeles,Hollywood,34.10248,-118.3415,Shared room,42,30,70,2020-03-02,0.68,11,365,0,Exempt - This listing is a hotel or motel,CA,Los Angeles
+1014,1819115,Private Room with Two Twin Beds,9250479,Gretchen,City of Los Angeles,Hollywood Hills,34.1047,-118.34021,Private room,100,30,6,2016-04-13,0.06,11,365,0,Exempt - This listing is a hotel or motel,CA,Los Angeles
+1015,1960842,Quintessential Beach Bungalow (1 person limit),10132265,Erin,Other Cities,Santa Monica,34.03422,-118.47398,Entire home/apt,204,3,196,2022-09-05,1.84,1,2,14,228105,CA,Los Angeles
+1016,1819124,Private Double Room with En Suite,9250479,Gretchen,City of Los Angeles,Hollywood,34.10245,-118.34215,Private room,120,30,8,2020-02-02,0.09,11,365,0,Exempt - This listing is a hotel or motel,CA,Los Angeles
+1018,1964828,"COOL, CLEAN LA Apt- NR HOLLYWOOD & DTWN LA!",1317513,Arun,City of Los Angeles,Glassell Park,34.11707,-118.23089,Entire home/apt,221,2,70,2022-08-24,0.69,1,178,5,HSR19-000291,CA,Los Angeles
+1019,2079551,Silverlake Pre-Fab Modern,10286258,Michell,City of Los Angeles,Silver Lake,34.08866,-118.27839,Entire home/apt,227,2,152,2022-08-07,1.44,1,297,47,HSR20-002166,CA,Los Angeles
+1020,1819132,Private Twin Room with En Suite,9250479,Gretchen,City of Los Angeles,Hollywood Hills,34.10413,-118.34205,Private room,120,30,5,2018-02-19,0.05,11,365,0,Exempt - This listing is a hotel or motel,CA,Los Angeles
+1021,1965557,The Cottage Santa Monica,10153127,John,Other Cities,Santa Monica,34.00501,-118.48742,Entire home/apt,2307,3,18,2022-08-08,0.21,1,137,6,164805,CA,Los Angeles
+1025,2083347,"Pasadena: best area,  separate entrance, 3/4 bath",9898515,Sandra,Other Cities,Pasadena,34.13089,-118.13761,Private room,82,3,226,2022-08-25,2.14,2,142,43,SRH2018-00036,CA,Los Angeles
+1026,1821859,Ideal Modern Beach Home Away from Home,2566215,Jo-Ann,City of Los Angeles,Venice,33.99336,-118.46196,Entire home/apt,500,5,143,2022-09-03,1.4,4,128,20,HSR19-003921,CA,Los Angeles
+1031,2089370,Exquisite Echo Park Home,10664686,Marty,City of Los Angeles,Echo Park,34.08819,-118.2455,Entire home/apt,200,30,20,2020-05-20,0.2,1,0,0,HSR20-000771,CA,Los Angeles
+1032,1971325,Lovely Silverlake Studio with Parking,6964894,Adrien,City of Los Angeles,Silver Lake,34.1006,-118.25454,Entire home/apt,99,6,125,2022-08-14,1.33,1,66,22,HSR19-005157,CA,Los Angeles
+1036,1831098,Private Stylish Studio Guest Suite w/ Pool,9576992,Alison,City of Los Angeles,Sherman Oaks,34.14482,-118.42232,Entire home/apt,105,2,211,2022-09-06,2.01,1,98,46,HSR19-001224,CA,Los Angeles
+1037,1971900,Stunning Three Bedroom Santa Monica Beach Home,3606205,Sean,Other Cities,Santa Monica,34.00796,-118.48839,Entire home/apt,1495,3,63,2022-06-02,0.59,4,321,4,220668,CA,Los Angeles
+1041,1972008,Clean & Bright Centrally Located Guesthouse,10182341,Bari,City of Los Angeles,Mid-City,34.04692,-118.35772,Entire home/apt,72,30,18,2022-07-09,1.52,1,124,18,HSR20-002613,CA,Los Angeles
+1043,1831849,Beautiful room with heavenly view,9354641,Alisa,City of Los Angeles,Woodland Hills,34.16238,-118.61543,Private room,83,30,10,2021-12-17,0.1,2,173,1,HSR19-002842,CA,Los Angeles
+1045,1832170,"Modern, Private Cottage in Los Angeles",9581963,Anita,Other Cities,Glendale,34.13497,-118.23456,Entire home/apt,185,1,107,2022-08-22,1.01,1,348,32,HSR19-002163,CA,Los Angeles
+1046,1975188,Absolute Center of Hollywood: Walk Everywhere,2819619,Kirby,City of Los Angeles,Hollywood,34.09706,-118.3349,Entire home/apt,409,3,28,2022-07-05,0.27,2,333,11,HSR19-004954,CA,Los Angeles
+1047,1832266,A Mount Washington Oasis,9305931,Jesse,City of Los Angeles,Mount Washington,34.10234,-118.21222,Entire home/apt,575,5,10,2022-07-31,0.1,1,0,3,HSR22-001378,CA,Los Angeles
+1061,1841734,Century City adjct. charming studio,9624713,Mary Kate,City of Los Angeles,Century City,34.04943,-118.41634,Private room,95,2,293,2022-08-26,2.75,1,220,35,HSR21-003372,CA,Los Angeles
+1063,2110830,The Oakley,4086579,Pablo,City of Los Angeles,Hollywood Hills,34.13153,-118.35775,Private room,135,30,2,2014-06-13,0.02,1,251,0,HSR19-000000,CA,Los Angeles
+1068,1849848,"Charming home, huge yard, quiet, Venice Beach CA,",9661653,Carole,City of Los Angeles,Venice,33.99604,-118.46593,Entire home/apt,165,31,12,2021-09-07,0.13,1,125,0,HSR19-004140,CA,Los Angeles
+1071,2114558,Rose Bowl Garden Suite -Private Entrance and Patio,2349660,Dyane,Other Cities,Pasadena,34.13578,-118.18416,Entire home/apt,182,2,194,2022-08-29,1.86,1,80,38,SRH2021-00310,CA,Los Angeles
+1074,1851496,Great VENICE LOFT near the beach,9238134,Karen,City of Los Angeles,Venice,33.99577,-118.47864,Entire home/apt,375,30,32,2022-03-10,0.31,1,365,1,HSR19-001631,CA,Los Angeles
+1076,1990543,Private 1906 Bungalow,10265095,Janet,Other Cities,Santa Monica,34.00365,-118.48373,Entire home/apt,206,1,1027,2022-08-31,9.98,3,149,100,226237,CA,Los Angeles
+1077,2114825,Warm and cozy private bedroom and bathroom.,10782142,Christian,City of Los Angeles,Van Nuys,34.19783,-118.43668,Private room,99,2,175,2022-09-02,1.7,1,351,45,HSR19-000886,CA,Los Angeles
+1083,2124140,Luxurious Home near Universal Studios New Heated Pool/Spa,10832832,Katy,City of Los Angeles,Van Nuys,34.18916,-118.47772,Entire home/apt,757,5,134,2022-07-31,1.32,35,162,24,HSR19-003771,CA,Los Angeles
+1084,1995488,Santa Monica Studio,8293098,Marina,Other Cities,Santa Monica,34.03475,-118.48976,Private room,131,4,192,2022-09-04,1.81,1,290,31,217907,CA,Los Angeles
+1088,1997451,Sunny bright Westside apartment with large windows,9667664,Valerie,City of Los Angeles,Palms,34.01786,-118.41325,Private room,65,30,1,2014-09-01,0.01,1,359,0,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+1089,1860933,10min to DTLA + Hollywood | Silverlake + Echo Park,4066400,Jeff,City of Los Angeles,Echo Park,34.08812,-118.25874,Entire home/apt,125,30,62,2021-03-25,0.59,2,84,0,HSR19-003520,CA,Los Angeles
+1095,1861007,Hollywood Hills Gated Compound.,9708253,Shahrad,City of Los Angeles,Hollywood Hills West,34.11789,-118.34936,Entire home/apt,1100,30,7,2021-05-01,0.09,1,363,0,HSR21-000016,CA,Los Angeles
+1096,1999243,Private Room in Santa Monica,10299428,Akiko,Other Cities,Santa Monica,34.01852,-118.47295,Private room,81,1,548,2022-09-07,5.31,4,293,85,219881,CA,Los Angeles
+1100,2138148,Serene Private Retreat/Private Bath + Kitchenette,389657,Lia,Other Cities,Pasadena,34.16869,-118.11376,Entire home/apt,98,3,157,2022-08-22,1.49,2,45,11,SRH2018-00001,CA,Los Angeles
+1102,2141767,Bohemian private studio,69546,Lisa,City of Los Angeles,Venice,33.99245,-118.45222,Entire home/apt,140,31,125,2022-07-20,1.19,3,116,21,HSR21-002074,CA,Los Angeles
+1103,1864439,Great Location Brentwood Guesthouse,9635195,Judy,City of Los Angeles,Brentwood,34.04811,-118.48641,Entire home/apt,165,3,239,2022-09-03,2.25,1,264,30,HSR19-000074,CA,Los Angeles
+1106,2021231,Chic Tranquility at a Loft-style House; Walk to Santa Monica Beach,10388767,Deborah,Other Cities,Santa Monica,34.01173,-118.47753,Entire home/apt,350,2,123,2022-08-28,1.26,1,229,33,216628,CA,Los Angeles
+1109,2026121,Come Relax + Enjoy this Beautiful Pasadena Home,707428,Bruce,Unincorporated Areas,Altadena,34.16919,-118.10506,Entire home/apt,463,4,30,2022-07-23,0.28,1,38,8,SRU 2018-00021,CA,Los Angeles
+1115,2151549,"Eclectic, Modernist Urban Retreat in Venice Beach",9377745,Michael,City of Los Angeles,Venice,33.99317,-118.47228,Entire home/apt,387,3,236,2022-09-05,2.28,1,243,52,HSR21-001165,CA,Los Angeles
+1127,2159048,Custom Craftsman With Hot Tub Close to Ocean,11016274,Jan & Dale,Other Cities,Long Beach,33.76989,-118.1376,Entire home/apt,154,2,408,2022-09-06,3.91,2,182,54,PRP20-00009,CA,Los Angeles
+1128,2166451,"Pasadena exquisite cottage,  Madison Heights",9898515,Sandra,Other Cities,Pasadena,34.13161,-118.14056,Entire home/apt,230,4,8,2022-07-08,0.14,2,3,6,SRH2018-00036,CA,Los Angeles
+1137,2034041,Venice Original Private Guest House,1182390,Patrick,City of Los Angeles,Venice,33.99669,-118.45563,Entire home/apt,174,1,850,2022-09-01,8.53,2,240,90,HSR19-004154,CA,Los Angeles
+1145,2038614,Venice Sanctuary  (book 30 nights & save 25%),7548197,Denise,City of Los Angeles,Venice,33.99889,-118.47444,Entire home/apt,386,3,166,2022-08-30,1.87,1,276,34,HSR19-002926,CA,Los Angeles
+1146,2210493,Hollywood Hills Boutique Bungalow,11276100,Sam,City of Los Angeles,Studio City,34.13531,-118.36168,Entire home/apt,191,3,129,2022-08-28,1.41,1,241,50,HSR19-003622,CA,Los Angeles
+1147,2182456,MY HOLLYWOOD SPACE RENTAL 12,2622454,Mary,City of Los Angeles,Hollywood,34.10207,-118.32771,Private room,65,30,365,2022-07-21,3.48,10,313,5,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+1152,2216775,Hollywood Hills Loft Guest House,8874173,Janine,City of Los Angeles,Hollywood Hills,34.1104,-118.3219,Entire home/apt,176,2,481,2022-08-25,4.7,1,208,84,HSR19-000779,CA,Los Angeles
+1153,2188391,HOLLYWOOD / HIGHLAND AVENUE GUEST HOUSE,11159080,Darren,City of Los Angeles,Mid-Wilshire,34.06116,-118.33834,Entire home/apt,155,5,186,2022-09-02,1.78,1,326,17,HSR22-000600,CA,Los Angeles
+1159,2192641,"Marina Del Rey CA Private One Bedroom, Suite Patio",11181341,Karim,City of Los Angeles,Del Rey,33.991367,-118.426895,Entire home/apt,197,2,244,2022-09-04,2.37,1,337,45,HSR21-003178,CA,Los Angeles
+1162,2392440,Bright 1BD Bungalow with Private Yard - 1,1757749,Manouch,Other Cities,Santa Monica,34.02825,-118.47938,Entire home/apt,165,31,28,2022-06-13,0.29,13,244,2,221932,CA,Los Angeles
+1165,2192814,Private Guest House Near Hollywood!,11182400,Josh,City of Los Angeles,Fairfax,34.07815,-118.34905,Entire home/apt,89,30,13,2020-09-27,0.12,1,313,0,HSR19-004435,CA,Los Angeles
+1175,2601068,Private Entrance & Bath. Parking Space. Bus lines,8290371,Carmen,Other Cities,Pasadena,34.14416,-118.10304,Private room,52,1,398,2022-08-25,3.88,2,315,31,SRH2018-00150,CA,Los Angeles
+1179,2228693,Bluff Park Villa with Ocean Views,11366227,Susan,Other Cities,Long Beach,33.761288,-118.15181,Entire home/apt,660,1,344,2022-08-26,3.28,3,284,89,NRP22-00574,CA,Los Angeles
+1182,2412813,Cottage - Private Guest House,11023823,Julieann And David,City of Los Angeles,Beverlywood,34.0469,-118.3861,Entire home/apt,118,31,100,2022-08-16,0.97,1,298,4,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+1185,2236561,CLEAN Large Bedroom - Queen Bed in Artistic home,11418653,Lolita,City of Los Angeles,Westchester,33.95476,-118.42228,Private room,99,30,43,2022-08-27,0.54,2,121,21,HSR21-001499,CA,Los Angeles
+1197,2629076,MODERN 2BD/2B NEAR THE GROVE,8203386,Ben,City of Los Angeles,Mid-Wilshire,34.06607,-118.34979,Entire home/apt,284,30,38,2020-01-19,0.37,1,365,0,HSR19-000675,CA,Los Angeles
+1198,2254340,Little Bit of Heaven # 2      HSR21-002839,7984293,Rita,City of Los Angeles,Hollywood,34.08496,-118.34291,Private room,110,5,218,2022-04-24,2.1,4,365,10,HSR21-002839,CA,Los Angeles
+1200,2255042,Bright 1 Bedroom with Private Yard - 2,1757749,Manouch,Other Cities,Santa Monica,34.02809,-118.48075,Entire home/apt,175,31,38,2022-08-13,0.37,13,290,1,221932,CA,Los Angeles
+1203,2432755,Sunny Gorgeous 2.5 Bedroom Hollywood Hills Home,8941619,Ilse,City of Los Angeles,Hollywood Hills West,34.10697,-118.36639,Entire home/apt,315,30,18,2022-06-25,0.17,2,122,1,HSR20-000120,CA,Los Angeles
+1208,2263028,Family House in Culver City/Del Rey,19065,Morena,City of Los Angeles,Del Rey,33.99052,-118.41008,Entire home/apt,151,30,211,2022-04-17,2.03,1,100,6,HSR21-000087,CA,Los Angeles
+1211,2268086,"PRIVATE, QUIET, COZY DESIGNER COTTAGE, WEST LA",11581546,Patrick,City of Los Angeles,Mar Vista,34.01709,-118.43118,Entire home/apt,189,3,215,2022-09-05,2.06,1,337,44,HSR19-002308,CA,Los Angeles
+1212,2437836,Modern Pool House walk to Beverly Hills & Fox,4221343,Joan,Other Cities,Beverly Hills,34.05307,-118.40617,Entire home/apt,333,2,27,2022-08-30,3.48,1,66,27,HSR21-002920,CA,Los Angeles
+1219,2652861,Large Room. Private bath. Parking. Bus Stop. Futon,8290371,Carmen,Other Cities,Pasadena,34.14454,-118.10887,Private room,60,1,259,2022-07-25,2.54,2,318,43,SRH2018-00150,CA,Los Angeles
+1222,2454957,Oasis Retreat with pool #4     HSR21-002839,7984293,Rita,City of Los Angeles,Hollywood,34.08545,-118.34127,Private room,155,7,179,2022-08-13,1.75,4,365,9,HSR21-002839,CA,Los Angeles
+1223,2653811,Relaxing 3 bed 1 bath w a spacious back yard,6074045,Sharon,City of Los Angeles,Del Rey,33.99764,-118.41835,Entire home/apt,225,30,60,2020-09-20,0.84,1,365,0,HSR20-001605,CA,Los Angeles
+1225,2291457,BEST Venice Locale: the full Venice Experience!,11705911,Meghan,City of Los Angeles,Venice,33.99008,-118.46611,Entire home/apt,572,2,156,2022-09-07,1.51,1,201,70,HSR19-001055,CA,Los Angeles
+1229,2462114,Charming Pool House in Amazing Location!,10957018,Lauren,City of Los Angeles,Fairfax,34.08037,-118.34971,Entire home/apt,120,30,119,2020-03-10,1.23,1,180,0,HSR19-000378,CA,Los Angeles
+1230,2665869,The Venice Beach Garagement,1182390,Patrick,City of Los Angeles,Venice,33.99659,-118.45593,Entire home/apt,110,31,631,2022-06-03,6.25,2,344,4,HSR19-004154,CA,Los Angeles
+1232,2298801,Hollywood Hills RockStar Getaway!,11742158,Anya,City of Los Angeles,Hollywood Hills West,34.10755,-118.38469,Entire home/apt,172,3,192,2022-08-21,1.88,1,143,28,HSR20-000469,CA,Los Angeles
+1238,2303082,Santa  Monica  Cottage Near  Beach,11760479,Shelley,Other Cities,Santa Monica,34.0185,-118.46624,Entire home/apt,190,3,306,2022-08-29,3.1,1,65,43,217707,CA,Los Angeles
+1247,2326099,Idyllic Hollywood Cottage Oasis:serenity & comfort,442540,Robin,City of Los Angeles,Hollywood,34.10075,-118.35353,Entire home/apt,194,30,338,2021-12-04,3.24,1,155,2,HSR19-000256,CA,Los Angeles
+1252,2494793,Cozy and Bright Private Room,10299428,Akiko,Other Cities,Santa Monica,34.02026,-118.47336,Private room,71,1,543,2022-09-06,5.79,4,274,106,219881,CA,Los Angeles
+1258,2331968,"Colorful, bright room in Artist’s Mountaintop home",9354641,Alisa,City of Los Angeles,Woodland Hills,34.16095,-118.61374,Private room,68,30,26,2022-06-23,0.25,2,217,2,HSR19-002842,CA,Los Angeles
+1260,2337670,Gorgeous Elysian Heights Home -2B2B,6658533,Aaron & Luciana,City of Los Angeles,Echo Park,34.08615,-118.2491,Entire home/apt,129,30,158,2021-01-05,1.6,2,206,0,HSR19-323458,CA,Los Angeles
+1263,2694567,"Quiet, Comfy West LA Cottage - HSR 19-000047",2882551,James,City of Los Angeles,Mar Vista,34.01084,-118.4432,Entire home/apt,113,3,407,2022-09-05,4.0,1,141,43,HSR19-000047,CA,Los Angeles
+1274,2356769,Silver Box Beverly Hils Apartment,12035060,Marleen,City of Los Angeles,Beverly Crest,34.11588,-118.42397,Entire home/apt,239,2,1,2020-06-24,0.04,1,0,0,HSR21-001900,CA,Los Angeles
+1276,2701550,"3 BR, 2.5 BA, Modern & Luxurious",8085934,Elena,City of Los Angeles,Tarzana,34.17294,-118.52885,Entire home/apt,202,3,83,2022-09-05,0.94,1,104,38,HSR21-001157,CA,Los Angeles
+1278,2701715,Super-Cute Private Guesthouse,4797064,Tanja,City of Los Angeles,Valley Village,34.16036,-118.39224,Entire home/apt,110,2,181,2022-09-06,1.78,1,279,48,HSR19-000941,CA,Los Angeles
+1283,2372985,Beautiful Eagle Rock bungalow,12122495,Nathan,City of Los Angeles,Eagle Rock,34.12835,-118.21716,Entire home/apt,110,30,34,2021-01-18,0.33,1,0,0,HSR20-000531,CA,Los Angeles
+1284,2703551,Comfortable and charming private room in Venice,13837305,Thac,City of Los Angeles,Venice,33.99707,-118.45345,Private room,119,1,427,2022-08-18,5.89,2,0,77,HSR19-001083,CA,Los Angeles
+1288,2540499,Quiet & Artistic Home Near the Venice Beach Sign,3384029,Flavs,City of Los Angeles,Venice,33.99012,-118.45554,Entire home/apt,175,30,70,2021-11-25,0.69,2,351,1,HSR19-005524,CA,Los Angeles
+1292,2544655,Venice/Marina Bedrm & Private Bath!,1543883,Valerie,City of Los Angeles,Venice,33.98929,-118.44678,Private room,100,30,147,2021-04-05,1.43,2,90,0,HSR20-001637,CA,Los Angeles
+1294,2379697,East Village Arts District,1478130,Mike,Other Cities,Long Beach,33.76789,-118.18225,Entire home/apt,209,3,56,2022-08-15,0.56,2,339,17,NRP21-00287,CA,Los Angeles
+1296,2722835,Beautiful Luxury Stay - DTLA,3904039,Noel,City of Los Angeles,Westlake,34.05101,-118.26625,Private room,75,30,267,2020-10-18,2.8,1,340,0,HSR19-234548,CA,Los Angeles
+1297,2547530,Colorful Bed/Bath in 50s Ranch-Style Home in Long Beach,3059666,Jean,Other Cities,Long Beach,33.83315,-118.18019,Private room,84,1,139,2022-06-15,1.35,6,56,19,NRP21-00164,CA,Los Angeles
+1299,2547573,The Hidden Spot,13044882,The Hidden Spot,City of Los Angeles,Reseda,34.20623,-118.55363,Entire home/apt,85,30,218,2022-08-01,2.11,1,273,3,HSR19-000650,CA,Los Angeles
+1303,2547624,"Bixby Beauty 50s Mod Long Beach, CA",3059666,Jean,Other Cities,Long Beach,33.83315,-118.18019,Entire home/apt,293,2,44,2022-07-21,0.44,6,273,7,NRP21-00164,CA,Los Angeles
+1304,2553441,Secluded Silver Lake Gem,13073898,Nancy,City of Los Angeles,Silver Lake,34.10213,-118.25777,Entire home/apt,350,30,4,2017-11-30,0.04,1,193,0,HSR19-003613,CA,Los Angeles
+1307,2558409,Venice/Marina Studio - 1mi to beach,1543883,Valerie,City of Los Angeles,Venice,33.98624,-118.45145,Private room,120,30,155,2020-10-23,1.52,2,89,0,HSR20-001641,CA,Los Angeles
+1308,2738933,1br Light-Filled Vintage Hollywood Loft,13993456,Kelly,City of Los Angeles,Larchmont,34.08295,-118.31547,Entire home/apt,160,30,7,2019-05-15,0.07,1,363,0,Exempt,CA,Los Angeles
+1309,2383462,Private Bungalow at 5 Stars Resort 2 Rooms Suit,12175786,Chris,Other Cities,Pasadena,34.11992,-118.1317,Entire home/apt,317,1,150,2022-08-29,1.52,2,137,37,SRH2018-00103,CA,Los Angeles
+1312,2739290,HUGE 3BR/2.5BA Central to EVERYTHING,148358,Zack,City of Los Angeles,Silver Lake,34.07929,-118.28201,Entire home/apt,165,30,324,2022-02-14,3.41,5,345,2,HSR19-004439,CA,Los Angeles
+1313,2560012,The Chandelier Tree.  House.,13106267,Adam,City of Los Angeles,Silver Lake,34.10756,-118.26674,Entire home/apt,152,3,496,2022-08-28,5.17,1,310,54,HSR19-000952,CA,Los Angeles
+1314,2739866,Sunny Scholar's Retreat + Private Bath,389657,Lia,Other Cities,Pasadena,34.16902,-118.11295,Private room,73,3,115,2022-05-23,1.14,2,9,13,SRH2018-00001,CA,Los Angeles
+1315,2831977,Private guest house in Los Feliz,14488072,Ben,City of Los Angeles,Los Feliz,34.11055,-118.29262,Entire home/apt,50,30,206,2021-01-22,2.04,1,0,0,HSR19-000460,CA,Los Angeles
+1321,2842982,Relax at a Homey Hideaway in Soothing Shades of Blue,14541045,Stacy,Other Cities,El Segundo,33.91835,-118.4184,Private room,109,3,77,2022-08-31,0.79,1,239,8,43239,CA,Los Angeles
+1324,2566102,Cabin Hideaway,107382,Jeff,City of Los Angeles,Highland Park,34.1295,-118.1923,Entire home/apt,48,31,44,2022-08-13,0.43,2,5,4,HSR19-001590,CA,Los Angeles
+1326,2843388,DTLA Luxury is You - the Penthouse,14542902,Dane,City of Los Angeles,Downtown,34.04701,-118.26142,Entire home/apt,142,31,22,2022-08-13,0.24,1,60,3,California State Real Estate Broker: 01403189,CA,Los Angeles
+1328,2844034,Contemporary Cottage - An Oasis with a Private Heated Pool.,6528303,Michael,City of Los Angeles,Sherman Oaks,34.1616,-118.42243,Entire home/apt,189,3,123,2022-08-27,1.21,1,190,14,HSR19-003111,CA,Los Angeles
+1332,2846842,Ideal Family Home w/ Guest House in Santa Monica!,9989221,Katherine,Other Cities,Santa Monica,34.01098,-118.46492,Entire home/apt,562,31,20,2018-07-29,0.25,3,133,0,218444,CA,Los Angeles
+1334,2586332,"“The TreeHouse” near beach, King beds, free prking",11579456,Nelson,Other Cities,Long Beach,33.76825296070049,-118.15608049784188,Entire home/apt,188,3,345,2022-09-02,3.38,1,285,21,PRP20-00018,CA,Los Angeles
+1336,2856032,charming room in a charming house,7129892,Azita,Other Cities,Santa Monica,34.03672,-118.47384,Private room,98,3,12,2022-09-03,1.26,2,334,12,242154,CA,Los Angeles
+1341,2856372,Detached Guest House HSR22-001812,14602536,Scott,City of Los Angeles,Valley Village,34.1582,-118.38197,Entire home/apt,90,2,374,2021-11-01,3.69,1,39,3,HSR22-001812,CA,Los Angeles
+1347,2857503,HUGE LUXURY PENTHOUSE WestLA/Santa Monica/Brentwoo,14608648,Frank,City of Los Angeles,Sawtelle,34.04174,-118.45208,Entire home/apt,299,3,51,2022-07-08,0.52,1,9,4,HSR21-002840,CA,Los Angeles
+1350,2795582,Cozy Garden Guest Suite Los Angeles,14301034,Carol,City of Los Angeles,Mid-City,34.04475,-118.37562,Entire home/apt,140,2,561,2022-09-06,5.52,1,93,59,HSR19-001750,CA,Los Angeles
+1352,2594434,HollyWood Hot Spot lll,13284034,Timothy,City of Los Angeles,Hollywood,34.09641,-118.33081,Entire home/apt,165,30,15,2020-03-31,0.17,3,0,0,HSR19-002359,CA,Los Angeles
+1354,3020271,ROOM & BATH. 4 BLOCKS TO OCEAN. N OF WILSHIRE.,15389817,Saloumeh,Other Cities,Santa Monica,34.02268,-118.50197,Private room,174,4,100,2022-09-02,1.0,1,90,11,220962,CA,Los Angeles
+1355,2804245,hillside hideaway with mtn views,14344943,Peter,City of Los Angeles,Sherman Oaks,34.1432,-118.43273,Entire home/apt,495,2,233,2022-08-14,2.44,1,169,28,HSR19-004804,CA,Los Angeles
+1357,3027857,Unique Craftsman House Venice Beach HSR20- 001087.,15423463,Bergamotto,City of Los Angeles,Venice,33.99815,-118.47366,Entire home/apt,350,3,71,2022-06-19,0.7,1,18,16,HSR20-001087,CA,Los Angeles
+1363,2867922,Bright Studio with Panoramic Views in Silver Lake,6092394,Tim,City of Los Angeles,Silver Lake,34.09616,-118.25708,Entire home/apt,257,3,359,2022-08-31,3.55,2,3,24,HSR22-000277,CA,Los Angeles
+1370,2823209,DELUXE 3-BED PRIVATE ROOM w/ BATHROOM,1254174,Felix,City of Los Angeles,Venice,33.98732,-118.47157,Private room,130,30,7,2017-02-17,0.08,6,0,0,Exempt - This listing is a hotel or motel,CA,Los Angeles
+1373,2873621,Private Ensuite Room/Bath in Unique Serene Setting,14687073,Don,City of Los Angeles,Bel-Air,34.08801,-118.45957,Private room,155,30,43,2022-07-31,0.44,3,316,3,HSR19-001829,CA,Los Angeles
+1374,3042436,ARTIST HOME PRIVAT ROOM N. HOLLYWOOD WALK EVRYWHRE,13621311,Scozy,City of Los Angeles,North Hollywood,34.16632,-118.36661,Private room,71,30,24,2020-04-30,0.28,3,309,0,Exempt - This listing is a bed and breakfast,CA,Los Angeles
+1377,3048343,Abbot Kinney Venice Craftsman,14719697,Puna,City of Los Angeles,Venice,33.98767,-118.46459,Entire home/apt,300,30,138,2022-08-20,1.36,1,332,4,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+1389,2889663,Quirky Artist's Hideaway in Venice Beach,3384029,Flavs,City of Los Angeles,Venice,33.99363,-118.45302,Entire home/apt,122,30,42,2021-10-31,0.42,2,365,1,HSR19-005524,CA,Los Angeles
+1392,3058610,Hip 2bd Townhouse close to beach.,15568415,Darrell,City of Los Angeles,Del Rey,33.99894,-118.41663,Entire home/apt,179,30,41,2020-10-05,0.5,1,284,0,HSR19-003221,CA,Los Angeles
+1395,2899146,Gorgeous Penthouse Condo next to Universal Studios,2113736,James & Jamee,City of Los Angeles,Studio City,34.14506,-118.39474,Entire home/apt,248,30,4,2022-01-10,0.04,1,285,2,HSR21-002048,CA,Los Angeles
+1398,3250171,"Cool & Eclectic, Historic Mansion.",7757652,Portia,City of Los Angeles,Arlington Heights,34.05039,-118.31625,Entire home/apt,725,30,44,2020-06-26,0.58,1,266,0,HSR19-002945,CA,Los Angeles
+1405,3060818,"Spacious, gorgeous, private LA apt!",15579637,Petrula,City of Los Angeles,Rancho Park,34.03502,-118.42483,Entire home/apt,179,3,122,2022-08-27,1.21,1,139,18,HSR19-000705,CA,Los Angeles
+1406,2919753,Rare Find Los Angeles Retreat: family/ work escape,14885132,Tanya,City of Los Angeles,Mid-City,34.04319,-118.38466,Entire home/apt,709,4,7,2022-08-01,1.51,1,174,7,HSR21-003295,CA,Los Angeles
+1416,3258450,Purple Palace with Tropical Garden,16478990,Michael,City of Los Angeles,Mar Vista,34.00924,-118.43881,Entire home/apt,119,30,136,2020-03-01,1.42,1,89,0,HSR19-002251,CA,Los Angeles
+1417,3259107,Super Venice Location!!,2079340,Alix,City of Los Angeles,Venice,33.99523,-118.47462,Entire home/apt,141,1,776,2022-09-08,7.74,1,39,68,HSR21-003200,CA,Los Angeles
+1418,2925094,Fun and Cozy Venice Beach Bungalow,14935224,Erinn + Tim,City of Los Angeles,Venice,33.99502,-118.47505,Entire home/apt,306,7,4,2022-07-09,0.04,1,4,1,HSR22-001541,CA,Los Angeles
+1425,3264373,LUXURIOUS HOME w/ DOUBLE LOT in the VENICE CANALS!,16507201,Daniel,City of Los Angeles,Venice,33.98434,-118.46729,Entire home/apt,495,30,122,2019-09-02,1.24,3,1,0,HSR19-002250,CA,Los Angeles
+1426,3084267,Private Ensuite Room/Bath in Serene Setting #2,14687073,Don,City of Los Angeles,Bel-Air,34.08795,-118.45978,Private room,155,30,10,2022-06-12,0.13,3,314,1,HSR19-001829,CA,Los Angeles
+1428,2943009,Quiet Relaxing Retreat House near Universal Studios,14511819,Ty,City of Los Angeles,Sherman Oaks,34.15756,-118.43414,Entire home/apt,399,14,13,2022-08-09,0.13,1,82,3,HSR21-002905,CA,Los Angeles
+1429,3084922,Spacious Modern Room,15697894,Jay,City of Los Angeles,Beverly Grove,34.06379,-118.36317,Private room,68,30,5,2015-04-09,0.05,8,364,0,na,CA,Los Angeles
+1430,2943313,"Room in Fantastic Location, Popular Melrose West Hollywood",14948163,Jade,City of Los Angeles,Fairfax,34.08512,-118.34629,Private room,138,5,203,2022-09-05,2.05,1,19,31,HSR20-002751,CA,Los Angeles
+1433,3279987,Great private bedroom with private bathroom!,16578369,Jon,City of Los Angeles,Valley Village,34.1573,-118.38677,Private room,110,2,126,2022-08-28,1.51,1,361,19,HSR21-000714,CA,Los Angeles
+1436,2948671,"Hip Studio in NoHo, Arts District",9507500,We Are Lisa & Mia,City of Los Angeles,North Hollywood,34.16856,-118.36093,Entire home/apt,95,2,191,2022-09-03,1.9,3,269,35,HSR22-000171,CA,Los Angeles
+1437,3280233,Cozy Spanish Sanctuary Great Energy,16579551,Gregory,City of Los Angeles,Silver Lake,34.09379,-118.26931,Entire home/apt,319,4,178,2022-08-13,1.78,1,3,34,HSR19-001428,CA,Los Angeles
+1438,3101761,3 BED PRIVATE ROOM w/ BATHROOM,1254174,Felix,City of Los Angeles,Venice,33.98666,-118.47158,Entire home/apt,105,30,4,2020-11-08,0.04,6,0,0,Exempt - This listing is a hotel or motel,CA,Los Angeles
+1439,3102027,Clean Paradise on Venice Canals. Message Dm for Short Stay,13488012,Charlie,City of Los Angeles,Venice,33.98284,-118.46726,Entire home/apt,1737,30,85,2020-09-05,0.87,1,364,0,HSR19-002707,CA,Los Angeles
+1445,3107689,NoHo Arts District - Luxe Bedroom,4732895,Christopher,City of Los Angeles,North Hollywood,34.18293,-118.36726,Private room,43,30,42,2022-08-24,0.43,3,286,8,HSR19-001264,CA,Los Angeles
+1449,2955921,Private Beach Patio Guestroom,1126652,Len,City of Los Angeles,Pacific Palisades,34.02967071533203,-118.51506805419922,Private room,148,30,5,2020-02-29,0.05,5,47,0,004121,CA,Los Angeles
+1451,3282972,"Zen Cottage, Venice Beach Tropical Oasis - WITH AC",8650967,Trisja,City of Los Angeles,Venice,33.99635,-118.45978,Entire home/apt,332,2,282,2022-08-23,3.75,2,358,38,HSR22-000103,CA,Los Angeles
+1464,3291844,Artistic Craftsman Charm - DTLA-Pasadena-Hollywood,2127973,Roger,City of Los Angeles,Eagle Rock,34.14122,-118.20797,Entire home/apt,299,2,112,2022-08-29,1.34,1,234,30,HSR21-003258,CA,Los Angeles
+1469,3292208,The Venice Love Lodge,2830547,Aaron,City of Los Angeles,Venice,34.00154,-118.45707,Entire home/apt,312,3,227,2022-08-31,2.26,1,331,50,HSR19-000399,CA,Los Angeles
+1474,3293395,Private Architectural Loft in Walk Streets of Venice,4183341,David,City of Los Angeles,Venice,33.99518,-118.45936,Entire home/apt,186,3,317,2022-09-08,3.21,1,315,22,HSR22-000460,CA,Los Angeles
+1476,3139043,"So. Cal. Oasis, priv. bath; parking",15938400,Birgit,Other Cities,Long Beach,33.83911,-118.1766,Private room,87,1,265,2022-08-15,2.71,1,320,52,PRP21-00408,CA,Los Angeles
+1477,3294293,Corporate Furnished Suites 1 Bedroom Studio,16644446,Corporate,City of Los Angeles,Hollywood,34.10179,-118.32774,Entire home/apt,299,30,2,2015-01-21,0.02,8,80,0,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+1487,3309829,Third Slice of Heaven #3   HSR21-002839,7984293,Rita,City of Los Angeles,Hollywood,34.08502,-118.343,Private room,105,3,211,2022-05-16,2.13,4,365,8,HSR21-002839,CA,Los Angeles
+1488,3156442,EAGLE'S WATCH MALIBU- Architectural w/ Ocean View,16016535,Katherine,Other Cities,Malibu,34.038322,-118.639755,Entire home/apt,1000,5,9,2022-08-23,0.23,3,300,6,STR21-0116,CA,Los Angeles
+1490,2995134,Venice Beach House - Zen House,8650967,Trisja,City of Los Angeles,Venice,33.99766,-118.46169,Entire home/apt,481,5,53,2022-08-12,0.53,2,19,10,HSR22-000103,CA,Los Angeles
+1496,3167605,TWO STORY Hollywood Guesthouse,13816520,Jeff,City of Los Angeles,Hollywood Hills West,34.1059,-118.37047,Entire home/apt,185,30,68,2022-05-02,0.68,1,329,17,HSR21-000207,CA,Los Angeles
+1504,3324603,The Hollywood Bungalow,9560767,Robert,City of Los Angeles,Hollywood Hills West,34.10344,-118.35671,Entire home/apt,115,30,43,2019-03-04,0.54,2,49,0,HSR19-002178,CA,Los Angeles
+1505,3326323,Close to Movie Studios and Malibu,16794969,Michael,City of Los Angeles,West Hills,34.18994,-118.63019,Private room,65,30,12,2015-09-15,0.12,1,0,0,HSR19-001456,CA,Los Angeles
+1511,3331429,Bedroom & Private Bath in 2 bed 2 bth Condo,16818658,Saul,City of Los Angeles,Van Nuys,34.18873,-118.45893,Private room,54,31,11,2022-07-23,0.13,1,158,2,HSR19-005220,CA,Los Angeles
+1512,3192030,Cottage with Garden in the hills,5923557,Maria,City of Los Angeles,Echo Park,34.08896,-118.25256,Entire home/apt,140,80,2,2017-05-23,0.03,1,0,0,HSR20-002734,CA,Los Angeles
+1513,3192470,Relaxing Los Feliz Home w/ Spacious Chill Yard,3985624,Joseph,City of Los Angeles,Los Feliz,34.09865,-118.28422,Entire home/apt,133,30,91,2018-10-30,1.37,1,0,0,HSR19-004500,CA,Los Angeles
+1514,3333016,"Hollywood Hills Sky Home, Awesome Views",16824025,Nora,City of Los Angeles,Hollywood Hills,34.11602,-118.32435,Entire home/apt,399,3,178,2022-08-22,1.81,1,350,23,HSR22-000144,CA,Los Angeles
+1515,3011412,Amazing House! Access to All Places,6610009,Alice,City of Los Angeles,Mid-City,34.03771,-118.38351,Entire home/apt,85,31,17,2020-03-01,0.18,1,252,0,HSR22-000134,CA,Los Angeles
+1517,3193063,"2 Rooms + Backyard, Hollywood",7183018,Zuke,City of Los Angeles,Hollywood,34.08634,-118.31139,Entire home/apt,142,30,606,2022-09-06,6.06,1,161,109,HSR21-001010,CA,Los Angeles
+1522,3385799,WEST HOLLYWOOD HOUSE--HEART OF WEHO,17081960,Matt,City of Los Angeles,Beverly Grove,34.08382,-118.36865,Entire home/apt,350,4,8,2022-08-05,0.08,1,237,1,HSR21-001515,CA,Los Angeles
+1523,3194941,BRIGHT & Comfy Home in Best WLA Area,15902216,Lucia,City of Los Angeles,Palms,34.02383,-118.42087,Entire home/apt,398,30,62,2022-06-30,0.63,1,66,5,HSR21-000601,CA,Los Angeles
+1526,3343965,Casita del Sol,6719252,Olivier,Other Cities,Santa Monica,34.01138,-118.47957,Entire home/apt,95,1,429,2019-09-29,4.3,2,0,0,218550,CA,Los Angeles
+1528,3344849,Beach Bungalow Living in Venice,16883324,Samantha,City of Los Angeles,Venice,34.00021,-118.45576,Entire home/apt,147,3,66,2022-08-25,1.67,1,115,29,HSR20-002352,CA,Los Angeles
+1533,3344959,"Private Entry, Serene Bdrm Bath Kitchenette CLEAN",866477,Ewa,City of Los Angeles,Mount Washington,34.11045,-118.22066,Private room,150,29,52,2021-08-11,0.59,2,320,0,HSR19-004776,CA,Los Angeles
+1541,3359860,Modern Silver Lake hillside retreat,16950887,Jeremy,City of Los Angeles,Silver Lake,34.08688,-118.27865,Entire home/apt,269,3,145,2022-09-04,2.11,1,17,28,HSR19-004453,CA,Los Angeles
+1543,3362970,Bright Studio Near Beach & 3rd Street,1757749,Manouch,Other Cities,Santa Monica,34.02453,-118.49437,Entire home/apt,135,31,58,2022-06-25,0.58,13,196,2,222035,CA,Los Angeles
+1548,3576373,Sublime Gorgeous Hideaway with Pool,18010271,Martha,City of Los Angeles,Windsor Square,34.07529,-118.32017,Entire home/apt,275,30,2,2014-08-16,0.02,2,9,0,HSR19-001658,CA,Los Angeles
+1551,3414817,Malibu Room 4,215462,Paul,Other Cities,Malibu,34.02934,-118.75706,Private room,250,2,326,2022-08-20,3.27,4,348,47,STR21-0049,CA,Los Angeles
+1552,3582797,Hollywood Hills Private Guest Suite,18047038,Martin,City of Los Angeles,Hollywood Hills,34.1094,-118.32938,Private room,110,3,93,2022-09-07,0.94,1,179,22,HSR22-002712,CA,Los Angeles
+1554,3583498,Entire Suite: super clean! Walk to the beach.,7765823,Lorna,Other Cities,Santa Monica,34.00798,-118.47978,Entire home/apt,204,2,142,2022-08-29,1.44,1,250,47,216688,CA,Los Angeles
+1555,3416556,"Spacious, hip Echo Park Apartment",1684893,Helix,City of Los Angeles,Echo Park,34.08661,-118.25901,Entire home/apt,110,30,257,2022-08-06,2.61,2,84,54,HSR19-002031,CA,Los Angeles
+1556,3586224,Hillside Striking View Apt,18024393,Javier,City of Los Angeles,Glassell Park,34.12281,-118.23447,Entire home/apt,154,1,295,2022-09-06,2.99,3,320,58,HSR19-002925,CA,Los Angeles
+1561,3372289,New listing discount Venice/SM beach house,16513823,Dc,Other Cities,Santa Monica,34.00114,-118.48225,Entire home/apt,340,3,12,2022-07-22,0.12,3,164,5,227981,CA,Los Angeles
+1571,3595890,Incredible View - Canyon and Trees,7464864,Marianne,City of Los Angeles,Woodland Hills,34.16283,-118.60341,Private room,106,2,18,2022-05-27,0.29,2,221,4,HSR22-000251,CA,Los Angeles
+1581,3751832,Classic Private Room in West LA,19199871,Angela,City of Los Angeles,Palms,34.02275,-118.41555,Private room,45,3,428,2022-08-28,4.36,2,183,38,HSR19-001222,CA,Los Angeles
+1582,3605568,Hollywood Hills Lake House Escape,1380474,Eric,City of Los Angeles,Hollywood Hills,34.1172,-118.32487,Entire home/apt,275,30,131,2022-08-24,1.38,1,292,42,HSR19-004891,CA,Los Angeles
+1587,3606175,Spanish with Down Town Views organic edible garden,18173932,Livinio,City of Los Angeles,Los Feliz,34.10827,-118.28379,Entire home/apt,155,30,125,2022-08-05,1.32,2,127,4,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+1588,3449142,Le Petit Coquillage,6719252,Olivier,Other Cities,Santa Monica,34.01112,-118.47746,Private room,65,1,378,2019-09-24,3.8,2,0,0,218550,CA,Los Angeles
+1590,3612212,Charming & Quiet,18201315,Tom,City of Los Angeles,Mount Washington,34.09575,-118.21349,Private room,79,2,231,2022-09-05,2.43,1,200,28,HSR19-001338,CA,Los Angeles
+1591,3757786,Luxury Resort Like Home,19237277,Brenda,City of Los Angeles,Northridge,34.23256,-118.51592,Entire home/apt,832,4,28,2022-07-03,0.3,10,340,3,HSR21-001131,CA,Los Angeles
+1598,3761519,House with Pool & Spa By Venice Beach!,2854160,Angelica,City of Los Angeles,Mar Vista,34.01089,-118.42327,Entire home/apt,255,2,525,2022-08-31,5.32,2,212,60,HSR19-000994,CA,Los Angeles
+1600,3761825,Cozy 2nd Floor Guest Suite walk to Metro Station,19266386,Goli,City of Los Angeles,Mid-City,34.02941,-118.38803,Entire home/apt,100,30,82,2022-09-07,1.88,1,54,4,HSR19-004310,CA,Los Angeles
+1603,3768758,Vintage Modern Guesthouse,287404,Bryant And Margaret,Other Cities,Pasadena,34.15767,-118.13646,Entire home/apt,124,4,352,2022-08-22,3.71,1,133,52,SRH2020-00256,CA,Los Angeles
+1609,3468384,BLOCK TO BEACH - Craftsman Studio,10932637,Anna,Other Cities,Long Beach,33.76662,-118.17978,Entire home/apt,64,4,315,2022-08-16,4.85,1,4,62,PRP22-00833,CA,Los Angeles
+1611,3772639,Private Beach Condo on Ocean Blvd,19133591,Leila,Other Cities,Long Beach,33.76489,-118.17899,Entire home/apt,141,3,125,2022-08-26,1.27,2,271,44,NRP22-00500,CA,Los Angeles
+1613,3773682,Great studio apartment on Hollywood,12812392,Amazing,City of Los Angeles,Hollywood,34.10087,-118.34062,Entire home/apt,138,30,222,2020-11-01,2.26,2,332,0,HSR19-781112,CA,Los Angeles
+1614,3626184,Perfect Venice Beach Vacation Home for Couples and Families,506779,Claudia,City of Los Angeles,Venice,34.00204,-118.45008,Entire home/apt,299,3,128,2022-07-12,1.33,1,312,20,HSR19-003139,CA,Los Angeles
+1616,3478519,Northeast Pasadena: Master Suite,17424443,Beatrice,Other Cities,Pasadena,34.15951,-118.11115,Private room,91,2,339,2022-08-27,3.44,1,330,48,SRH202100321,CA,Los Angeles
+1617,3628066,Entire Single-Family House.  Large Bungalow,1317021,Gina,City of Los Angeles,Eagle Rock,34.14447,-118.19377,Entire home/apt,450,3,48,2022-08-29,1.96,1,102,11,HSR22-000686,CA,Los Angeles
+1619,3774747,Luxury Ocean View Home,12590257,Lisa,City of Los Angeles,Playa del Rey,33.96153,-118.44944,Entire home/apt,1000,30,2,2015-12-31,0.02,1,363,0,Hsr20-000922,CA,Los Angeles
+1620,3629028,Sunny House in Hollywood Hills,15637379,Robby,City of Los Angeles,Hollywood Hills,34.10834,-118.3408,Entire home/apt,546,30,125,2020-05-14,1.55,1,0,0,HSR19-002192,CA,Los Angeles
+1629,3646194,Long Beach Shoreline Vacation,18419978,Heather,Other Cities,Long Beach,33.76642,-118.18358,Entire home/apt,225,3,82,2022-05-19,0.84,1,319,12,NRP21-00121,CA,Los Angeles
+1630,3783779,"1927 Bungalow, views, Lake, discount (ask)",3595258,Dino,City of Los Angeles,Silver Lake,34.09619,-118.25722,Entire home/apt,135,30,12,2022-07-09,0.12,6,343,2,8675309,CA,Los Angeles
+1632,3487768,"Huge Corner Master in Mansionette, Hammock",5469474,Angel,City of Los Angeles,Koreatown,34.05557,-118.30191,Private room,105,30,31,2022-08-09,0.32,27,344,4,Exempt - This listing is a bed and breakfast,CA,Los Angeles
+1633,3646645,Beautiful home on the westside,10264642,Sandrine,City of Los Angeles,Del Rey,33.99017,-118.415,Entire home/apt,329,30,24,2022-07-22,0.24,1,315,2,HSR19-001696,CA,Los Angeles
+1634,3488199,ENTIRE HOUSE in HILLS-AMAZING VIEWS,309512,Vincenzo,City of Los Angeles,Hollywood Hills,34.11341,-118.32206,Entire home/apt,396,2,67,2022-08-24,0.68,3,325,19,HSR21-000113,CA,Los Angeles
+1635,3488763,VIEWS HOLLYWOOD SIGN - DOWNTOWN 1&2,309512,Vincenzo,City of Los Angeles,Hollywood Hills,34.11517,-118.32398,Private room,251,2,12,2022-06-26,0.13,3,349,3,HSR21-000113,CA,Los Angeles
+1643,3653912,"Mid Century Modern w/AC, 125"" 4k Projector, & more",4483584,Giovanni,Other Cities,Long Beach,33.81211,-118.12631,Entire home/apt,237,3,233,2022-08-28,2.52,1,214,32,NRP21-00111,CA,Los Angeles
+1644,3494428,Garden Haven in Santa Monica,7100267,Zizi,Other Cities,Santa Monica,34.00733,-118.46982,Entire home/apt,155,2,127,2022-09-04,1.27,1,17,3,215734,CA,Los Angeles
+1647,3795794,"LA, SIlverlake, Self Contained Apartment",19267387,Frazer,City of Los Angeles,Silver Lake,34.093,-118.25865,Entire home/apt,125,30,118,2022-08-02,1.22,1,358,2,HSR20-001458,CA,Los Angeles
+1651,3803590,Amazing Hollywood loft,19544751,Ori,City of Los Angeles,Hollywood,34.0917,-118.33132,Entire home/apt,135,30,449,2020-03-10,4.78,3,222,0,Exempt - This listing is a bed and breakfast,CA,Los Angeles
+1652,3506410,Santa Monica Canyon Pied-a-Terre,61692,Leslie,City of Los Angeles,Pacific Palisades,34.03092,-118.51178,Entire home/apt,134,2,537,2022-08-25,5.73,1,31,72,HSR19-003569,CA,Los Angeles
+1654,3656419,Spacious bedroom with T. V.  and private bathroom,18522071,Felix,City of Los Angeles,Van Nuys,34.17599,-118.4635,Private room,60,3,80,2022-08-27,0.81,1,277,7,HSR19-001592,CA,Los Angeles
+1655,3506751,Art House in Hollywood Hills,17657291,Christina,City of Los Angeles,Hollywood Hills,34.1098,-118.31534,Entire home/apt,555,30,9,2020-09-09,0.12,1,363,0,HSR19-004238,CA,Los Angeles
+1657,3512378,CDC-Sanitized Private 1 Bedroom Apartment in Home,10453251,Maria,City of Los Angeles,Sherman Oaks,34.14872,-118.46204,Entire home/apt,137,3,128,2021-12-19,1.29,1,0,12,HSR19-005058,CA,Los Angeles
+1659,3812683,Private Bedroom & Bathroom in Family Mini Mansion,14933201,Edwin L,City of Los Angeles,Del Rey,33.99062,-118.42399,Private room,118,1,450,2022-08-27,4.61,2,345,57,HSR19-000531,CA,Los Angeles
+1661,3817210,The Hartwell Estate | 360 Degree VIEWS!!!,3003777,Christian,City of Los Angeles,Hollywood Hills West,34.11395,-118.38492,Entire home/apt,505,30,5,2020-09-24,0.14,1,87,0,HSR19-005166,CA,Los Angeles
+1665,3522350,NEW! Hey Venice Abode,17737960,Karolina & Tobias,City of Los Angeles,Venice,33.99777,-118.4627,Entire home/apt,354,4,52,2022-08-30,5.27,1,68,52,HSR21-001097,CA,Los Angeles
+1668,3524259,Beautiful Creative Sunny Loft,2408848,Michele,City of Los Angeles,Downtown,34.0451,-118.2525,Entire home/apt,99,31,9,2019-06-25,0.14,1,180,0,HSR19-002540,CA,Los Angeles
+1677,3678271,Cozy Studio Guest House with Courtyard Garden,16188262,Joseph,City of Los Angeles,Hollywood,34.09297,-118.3235,Entire home/apt,106,2,525,2022-09-04,5.31,1,71,88,HSR21-001378,CA,Los Angeles
+1683,3834717,Loft w/ view in Downtown LA,10487863,Kerri,City of Los Angeles,Downtown,34.04638,-118.25015,Entire home/apt,200,30,2,2015-01-01,0.02,1,365,0,HSR19-000335,CA,Los Angeles
+1685,3685300,Architectural Retreat nested in WEHO/LA/BHills,18171166,Jan,City of Los Angeles,Beverly Grove,34.07646,-118.3711,Entire home/apt,501,4,51,2022-08-28,0.52,1,114,25,HSR20-001989,CA,Los Angeles
+1686,3561421,Adorable Beach Bungalow,10319843,Curt,Other Cities,Long Beach,33.758419036865234,-118.1338119506836,Entire home/apt,171,3,286,2022-09-01,2.91,2,269,51,NRP22-00513,CA,Los Angeles
+1689,3841108,Oasis in the City,1684893,Helix,City of Los Angeles,Echo Park,34.08843,-118.25909,Entire home/apt,371,3,68,2022-07-26,0.7,2,0,9,HSR19-002031,CA,Los Angeles
+1696,3843641,5 Star Private Poolside Studio Guest Suite,19811323,Jocelyn,City of Los Angeles,Sherman Oaks,34.15319,-118.42355,Private room,189,1,305,2022-07-06,3.34,1,164,7,HSR21-002827,CA,Los Angeles
+1697,3697224,"Storybook Cottage, Quiet Neighborhood / Yard, Deck & Hammock",12626486,Callie,City of Los Angeles,Los Feliz,34.10428,-118.27886,Entire home/apt,453,2,195,2022-08-28,2.09,1,235,52,HSR21-000082,CA,Los Angeles
+1698,3844150,Serene Garden Room by the Beach!!!,9881505,Mira,Other Cities,Santa Monica,34.02204,-118.49828,Private room,118,3,251,2022-08-26,2.56,1,98,25,227801,CA,Los Angeles
+1699,3563533,Rustic Space Perched in the Hollywood Hills,922109,Mathias,City of Los Angeles,Hollywood Hills,34.11477,-118.32085,Entire home/apt,281,1,886,2022-09-06,10.54,1,287,133,HSR19-002983,CA,Los Angeles
+1700,3698344,Top of the World Magical Paradise in Laurel Canyon,6171590,Shida,City of Los Angeles,Hollywood Hills West,34.10924,-118.38641,Private room,325,2,171,2022-08-28,1.73,1,78,24,HSR19-003269,CA,Los Angeles
+1701,3563679,"Idyllic, Romantic Beachfront Apartment in Malibu",17944041,Connie,Other Cities,Malibu,34.03793,-118.61114,Entire home/apt,571,3,270,2022-08-28,2.73,1,11,29,STR20-0064,CA,Los Angeles
+1706,3852327,Charming & Cozy Silverlake Cottage1,16153415,Jeannette,City of Los Angeles,Silver Lake,34.08314,-118.27589,Entire home/apt,132,30,78,2022-04-28,0.8,2,316,3,Exempt - This listing is a bed and breakfast,CA,Los Angeles
+1713,3855260,Venice Studio,15529424,Susan,City of Los Angeles,Venice,33.99894,-118.47521,Entire home/apt,100,7,87,2022-08-06,0.89,1,281,15,215562/215585,CA,Los Angeles
+1714,3898138,Cozy Guesthouse Surrounded by Nature,9789046,Faisal,Other Cities,Pasadena,34.17109,-118.0798,Entire home/apt,157,2,298,2022-08-28,3.05,1,144,54,SRH 2021-00300,CA,Los Angeles
+1718,3860814,Private Wing in Designer Home,14479322,Maria,City of Los Angeles,Sherman Oaks,34.16989,-118.42071,Private room,121,30,9,2020-02-10,0.12,3,0,0,HSR19-003097,CA,Los Angeles
+1725,3908221,Peaceful Venice Retreat,20244160,Josh & Cameron,City of Los Angeles,Venice,33.99771,-118.45442,Entire home/apt,229,1,379,2022-08-25,3.94,1,103,96,HSR21-000392,CA,Los Angeles
+1728,3874726,Private Studio  Hidden Treasure in Woodland-Hills,19684108,Celia,City of Los Angeles,Woodland Hills,34.15795,-118.62334,Private room,120,30,39,2022-08-18,0.92,1,121,8,HSR19-002610,CA,Los Angeles
+1731,3917357,Your vacation home in prime Sherman Oaks,4158217,Cristiane,City of Los Angeles,Sherman Oaks,34.15801,-118.4464,Entire home/apt,400,30,1,2014-12-29,0.01,2,0,0,HSR19-001298,CA,Los Angeles
+1735,3742328,Pool Side Detached Clean Private Bright Studio,19137950,Margaux,City of Los Angeles,North Hollywood,34.1856,-118.39612,Entire home/apt,91,30,118,2022-05-31,1.73,1,324,5,HSR20-000603,CA,Los Angeles
+1739,3742898,Private Guest Suite with Separate Entrance,19142820,Leron,City of Los Angeles,Playa Vista,33.97259,-118.42601,Entire home/apt,153,3,262,2022-08-31,2.65,2,232,41,HSR19-000263,CA,Los Angeles
+1741,3883071,Casa Los Pinos M   bedroom/private bath in house,20076782,William,City of Los Angeles,North Hollywood,34.17427,-118.36603,Private room,71,2,231,2022-08-01,2.36,3,305,40,HSR19-001315,CA,Los Angeles
+1748,4033105,Oceanfront Beach House in Malibu,2843111,Natalie,Other Cities,Malibu,34.0379,-118.61746,Entire home/apt,1850,3,25,2022-08-01,0.29,9,326,4,STR21-0061,CA,Los Angeles
+1751,3889098,Modern Beach Pad w/ office Marina / Venice,1561865,Jessica,City of Los Angeles,Venice,33.9799,-118.46371,Entire home/apt,395,5,106,2022-08-28,1.22,1,260,35,HSR20-001505,CA,Los Angeles
+1755,4033614,ARTIST HOME! PRIVATE ROOM: NOHO ARTS DISTRICT,13621311,Scozy,City of Los Angeles,North Hollywood,34.16438,-118.36688,Private room,75,30,34,2022-08-27,0.39,3,335,2,Exempt - This listing is a hotel or motel,CA,Los Angeles
+1757,4034163,Beautiful Private Room in West LA,19199871,Angela,City of Los Angeles,Palms,34.02237,-118.41552,Private room,55,30,154,2022-01-19,1.59,2,1,1,Hsr19-001222,CA,Los Angeles
+1761,3939304,2 bedroom Home N. Hollywood Arts District,9507500,We Are Lisa & Mia,City of Los Angeles,North Hollywood,34.16851,-118.36021,Entire home/apt,240,4,18,2022-05-09,0.22,3,280,1,HSR22-000171,CA,Los Angeles
+1762,3894472,"Private Den, Eagle Rock",8278915,Cynthia,City of Los Angeles,Eagle Rock,34.14269,-118.19857,Private room,64,1,73,2022-08-29,0.76,1,67,9,HSR22-001801,CA,Los Angeles
+1764,4038764,Cozy Venice Beach House // Kid Friendly,1362945,Lissa,City of Los Angeles,Venice,33.98891,-118.45171,Entire home/apt,375,5,18,2020-02-26,0.19,1,0,0,HSR21-002764,CA,Los Angeles
+1765,4045613,Venice Walk Street Cottage,19776172,Mel,City of Los Angeles,Venice,33.99285,-118.46088,Entire home/apt,190,31,147,2022-02-13,1.52,1,183,1,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+1768,4047091,"Cozy, furnished 1Bdr Condo, heart of Santa Monica",1163335,Lee,Other Cities,Santa Monica,34.03718,-118.47593,Entire home/apt,125,365,5,2020-03-15,0.05,1,318,0,214883,CA,Los Angeles
+1770,4174207,"Room for rent in Gardena, CA",21659677,Natalie,City of Los Angeles,Harbor Gateway,33.8642,-118.30154,Private room,50,30,29,2020-02-17,0.3,1,74,0,HSR19-004953,CA,Los Angeles
+1772,4174321,Garden Guest Suite with Pool,3238908,Carin,City of Los Angeles,Woodland Hills,34.15897,-118.61739,Entire home/apt,91,30,286,2022-08-20,2.96,2,254,3,HSR19-003306,CA,Los Angeles
+1781,4174988,*NEW*  lower level studio with private entrance.,21664272,Alan,City of Los Angeles,Highland Park,34.12735,-118.19413,Entire home/apt,185,2,47,2022-09-04,1.33,1,44,27,HSR19-001188,CA,Los Angeles
+1783,3945096,"*****Studio w/ wifi, cable, AC, kitchen*******",17370496,Melissa,City of Los Angeles,Sawtelle,34.03834,-118.45727,Entire home/apt,125,7,136,2022-05-28,1.39,2,312,4,HSR22-002048,CA,Los Angeles
+1786,4052819,Cool westside bungalow,21016695,Owen And Mariana,City of Los Angeles,Del Rey,33.99015,-118.43317,Entire home/apt,125,30,109,2022-08-11,1.12,1,246,6,HSR19-002213,CA,Los Angeles
+1790,4053948,Venice Studio 1.5 miles from Beach,21023362,Bob,City of Los Angeles,Venice,34.00227,-118.45429,Entire home/apt,158,1,572,2022-09-05,7.04,1,142,73,HSR19-002529,CA,Los Angeles
+1793,4059899,Private Room w/ Private Entrance & Bath,20630146,Elyse & Barry,City of Los Angeles,Silver Lake,34.09715,-118.2653,Private room,130,3,227,2022-09-06,2.46,1,250,14,HSR21-003337,CA,Los Angeles
+1794,3962864,NoHo Arts - Luxe / Cozy Queen Bedroom - Long Term,4732895,Christopher,City of Los Angeles,North Hollywood,34.18183,-118.36738,Private room,41,31,55,2021-05-01,0.64,3,0,0,HSR19-001264,CA,Los Angeles
+1799,3963003,Beach Condo with Game Room 3BR/3BA,4262267,Nicole,City of Los Angeles,Venice,33.97664,-118.46526,Entire home/apt,646,2,217,2022-09-04,2.22,1,175,47,HSR22-000015,CA,Los Angeles
+1806,4067361,The Fountainhead Cottage  + Garden,4158217,Cristiane,City of Los Angeles,Sherman Oaks,34.15763,-118.44655,Entire home/apt,114,1,385,2022-08-28,4.0,2,64,46,HSR19-001298,CA,Los Angeles
+1809,3972305,"Spanish Villa. Great location.   3 bed, 2 bath",11712907,Rochelle,City of Los Angeles,Beverly Grove,34.06747,-118.36424,Entire home/apt,374,5,84,2022-08-21,0.9,1,75,13,HSR19-001444,CA,Los Angeles
+1815,3974087,Eagle Rock - Yosemite Hills - Grand View,20548909,Yon,City of Los Angeles,Eagle Rock,34.13541,-118.22251,Entire home/apt,136,6,14,2022-08-28,0.17,1,30,3,HSR22-001718,CA,Los Angeles
+1820,4190881,Blue King Craftsman w/ EV charger,6529781,Zac And Co-Hosts,City of Los Angeles,Highland Park,34.11105,-118.19398,Private room,50,31,108,2020-03-08,1.13,11,344,0,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+1821,4190907,A Sunrise HP Bedroom w/ EV charger,6529781,Zac And Co-Hosts,City of Los Angeles,Highland Park,34.11098,-118.19284,Private room,50,31,131,2022-08-09,1.37,11,273,1,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+1823,4190935,A Nice Craftsman FilmTV&EV Friendly,6529781,Zac And Co-Hosts,City of Los Angeles,Highland Park,34.11042,-118.19471,Entire home/apt,614,31,72,2020-01-20,0.75,11,274,0,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+1824,3979641,Hill Top Retreat Home Above Ocean!,20542761,Linda,City of Los Angeles,Playa del Rey,33.95598,-118.44579,Private room,91,4,79,2022-09-03,0.83,1,272,9,HSR22-001336,CA,Los Angeles
+1826,4080769,Spacious 3 BR Westside Beach Villa @Marina del Rey,115377318,Manuel,City of Los Angeles,Del Rey,33.98547382224561,-118.42000530057736,Entire home/apt,257,2,34,2022-03-13,0.35,8,4,8,HSR19-004260,CA,Los Angeles
+1833,4085040,Private Room in quiet home in Woodland Hills,21188390,Michele,City of Los Angeles,Woodland Hills,34.16838,-118.62515,Private room,70,1,129,2022-08-07,1.47,1,334,26,HSR21-000885,CA,Los Angeles
+1837,4086070,Serene Zen Retreat,21194368,Deb,City of Los Angeles,Tarzana,34.18199,-118.55922,Private room,110,30,49,2020-08-31,0.56,1,8,0,HSR19-004251,CA,Los Angeles
+1838,4205112,"Malibu, Carbon Beach - Suite Eight",21817201,The Malibu Suites,Other Cities,Malibu,34.0375,-118.67573,Entire home/apt,527,2,279,2022-09-05,3.37,11,146,75,STR21-0046,CA,Los Angeles
+1840,4205493,Modern Venice Beach Oasis,21819860,Griselda,City of Los Angeles,Venice,33.99698,-118.46624,Private room,145,2,299,2022-09-03,3.24,1,123,49,HSR21-001391,CA,Los Angeles
+1843,3992823,"Sunset Plaza Estate, West Hollywood",20697797,Vivian,City of Los Angeles,Hollywood Hills West,34.09418,-118.38039,Entire home/apt,817,10,68,2022-07-27,0.74,1,67,5,HSR22-000621,CA,Los Angeles
+1855,4212759,"Bright, Breezy & Beautiful Townhome - Santa Monica",21862842,Ted,Other Cities,Santa Monica,34.0322,-118.47797,Entire home/apt,286,30,18,2021-11-30,0.2,1,252,1,220420,CA,Los Angeles
+1860,4217936,"L.A. Super Location, Sweet Indoor/Outdoor Space",6911978,Mic & Leeah,City of Los Angeles,Mid-Wilshire,34.05231,-118.3398,Entire home/apt,105,1,460,2022-09-04,4.78,1,116,104,HSR21-003093,CA,Los Angeles
+1866,4015029,Mediterranean Inspired Architecture Home with Patio,20766934,Julian,City of Los Angeles,Silver Lake,34.08689,-118.27612,Entire home/apt,195,30,164,2022-01-27,1.68,1,71,4,HSR19-002355,CA,Los Angeles
+1869,4106488,Gorgeous Master suite /Private bath / Pasadena,21304470,Stacey,Unincorporated Areas,San Pasqual,34.14011,-118.1033,Private room,132,2,83,2022-08-22,0.86,3,365,6,SRH20180089,CA,Los Angeles
+1877,4227570,"Private oasis, perfect for city distancing",21941179,David,City of Los Angeles,Mid-City,34.05065,-118.37032,Entire home/apt,289,2,147,2022-05-08,1.53,1,312,28,HSR21-003267,CA,Los Angeles
+1884,4235156,Oceanfront Celebrity Styled Home,2843111,Natalie,Other Cities,Malibu,34.03354,-118.74194,Entire home/apt,3200,3,17,2022-08-26,0.19,9,351,7,STR21-0157,CA,Los Angeles
+1899,4129424,Studio Near LAX / El Segundo Beach.,21422412,Steve,Other Cities,El Segundo,33.9244,-118.42608,Private room,110,2,507,2022-09-02,5.26,1,322,59,43185,CA,Los Angeles
+1902,4278990,"1909 Old Style Sunny Bungalow, City Center Close",22215213,Ginger,Other Cities,Pasadena,34.15556,-118.1406,Entire home/apt,120,1,473,2022-08-21,4.93,1,180,43,SRH2018-00088,CA,Los Angeles
+1904,4279041,Cottage Near the Sea!,6701135,John,City of Los Angeles,Pacific Palisades,34.04461,-118.53428,Entire home/apt,129,3,516,2022-09-05,5.4,1,204,59,HSR19-002500,CA,Los Angeles
+1908,4134377,"Beautiful California Bungalow in Eagle Rock, CA",21448083,Sally,City of Los Angeles,Eagle Rock,34.13648,-118.20062,Entire home/apt,340,30,15,2020-08-27,0.17,1,180,0,HSR19-000411,CA,Los Angeles
+1913,4137609,Charming Echo Park Hills Apartment,5294558,Jenny,City of Los Angeles,Echo Park,34.08555,-118.2506,Entire home/apt,120,4,234,2022-09-04,2.43,1,80,18,HSR22-000487,CA,Los Angeles
+1915,4284302,Colorful Boutique Home Close to the Beach,8366077,Helene,City of Los Angeles,Westchester,33.96171569824219,-118.41436004638672,Entire home/apt,257,3,195,2022-09-01,2.04,9,101,17,HSR22-001672,CA,Los Angeles
+1918,4256314,"Malibu, Carbon Beach- Bungalow Ten",21817201,The Malibu Suites,Other Cities,Malibu,34.03869,-118.6724,Entire home/apt,387,2,361,2022-09-07,3.94,11,138,57,STR21-0028,CA,Los Angeles
+1923,4296177,Silverlake Oasis w/Hot Tub Next To Sunset Junction,2019864,Jason,City of Los Angeles,Silver Lake,34.09532,-118.27955,Entire home/apt,400,30,54,2019-07-29,0.57,1,0,0,HSR19-003502,CA,Los Angeles
+1928,4263203,"Contemporary Loft, view of Iconic downtown Towers",22128615,Sanjeev,City of Los Angeles,Downtown,34.04743,-118.25184,Entire home/apt,99,30,61,2022-07-31,0.82,1,0,1,HSR19-003445,CA,Los Angeles
+1931,4310757,Beautiful and Cozy Guesthouse,22376246,Zahra,Other Cities,Santa Monica,34.04122,-118.47676,Entire home/apt,160,1,134,2022-07-26,1.39,1,327,31,228523,CA,Los Angeles
+1932,4155763,Picfair Village Modern Glam House,13856090,Doris,City of Los Angeles,Mid-City,34.0461,-118.36029,Entire home/apt,285,30,177,2022-04-17,1.93,33,270,2,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+1933,4311740,⛨PRIVATE ⛨ Kitchenette+King bed+Wifi+Netflix,14452391,Nidia & Andres,City of Los Angeles,Canoga Park,34.21089,-118.61308,Entire home/apt,120,5,232,2022-08-31,2.44,2,293,33,HSR19-000536,CA,Los Angeles
+1935,4270001,The Zen Upstairs,21420324,Ana,City of Los Angeles,Sawtelle,34.02577,-118.44902,Private room,78,2,268,2022-05-06,2.81,1,4,9,HSR21-003104,CA,Los Angeles
+1936,4157821,Private Room in Hollywood Hills!,14945824,Maria,City of Los Angeles,Hollywood Hills,34.12437,-118.34827,Private room,140,30,30,2019-07-14,0.31,1,344,0,Exempt - This listing is a transient occupancy residential structure,CA,Los Angeles
+1937,4270516,Boutique house/yard near Westwood - Room #1,457337,Craig,City of Los Angeles,Rancho Park,34.03925,-118.42677,Private room,199,2,31,2022-08-21,0.36,3,364,12,HSR21-000383,CA,Los Angeles
+1940,4165927,HEART of LA OASIS,12433164,Ana & Edgar,City of Los Angeles,Carthay,34.05894,-118.37386,Private room,73,30,285,2020-09-07,4.11,6,243,0,HSR20-001548,CA,Los Angeles
+1941,4271070,"Spacious 2BR2BA by LAX, SOFI, Venice parking for 2",4865547,Jason,City of Los Angeles,Westchester,33.97276,-118.37505,Entire home/apt,237,3,119,2022-05-09,1.36,1,365,6,HSR20-000712,CA,Los Angeles
+1945,4275893,Venice Pro Cleaned & Sanitized Beach House,1448739,Shaahin,City of Los Angeles,Del Rey,33.992973367913905,-118.43847321637632,Entire home/apt,275,30,255,2022-08-17,2.71,1,299,67,HSR20-000432,CA,Los Angeles
+1948,4318812,Beautiful room in light & quiet bungalow in Venice,2014711,Sharoz,City of Los Angeles,Venice,33.99317,-118.45921,Private room,200,30,16,2020-02-27,0.26,1,180,0,HSR19-003392,CA,Los Angeles
+1954,4455320,Gated Hollywood Pool Villa,23118355,Ashton,City of Los Angeles,Hollywood,34.08547,-118.34166,Entire home/apt,500,3,78,2022-08-14,0.84,43,282,12,HSR19-001200,CA,Los Angeles
+1956,4629321,Private Guest House Near Venice,19199108,Chris,City of Los Angeles,Mar Vista,34.0029,-118.4477,Entire home/apt,118,2,219,2022-08-26,2.38,1,89,48,HSR19-002082,CA,Los Angeles
+1960,4633279,Ocean View PENTHOUSE! Best location in Long Beach,23993775,Lance,Other Cities,Long Beach,33.76709,-118.18555,Entire home/apt,349,7,10,2022-03-02,0.32,1,154,4,NRP21-00202,CA,Los Angeles
+1961,4331882,Enchanting guest suite in Hollywood Hills!,22491481,Robin,City of Los Angeles,Hollywood,34.10068,-118.36057,Entire home/apt,162,5,60,2022-08-30,0.7,2,286,25,HSR20-002729,CA,Los Angeles
+1966,4637876,"Quiet/Private/Clean/Spacious:Walkable, Quaint Area",22363,Tom,City of Los Angeles,Atwater Village,34.11588,-118.26083,Entire home/apt,207,1,348,2022-09-05,3.7,2,266,46,HSR19-003514,CA,Los Angeles
+1967,4463809,Stunning Hancock Park home + pool + steam room,23159721,Jenn,City of Los Angeles,Windsor Square,34.0726,-118.3151,Entire home/apt,750,30,3,2019-12-28,0.04,1,0,0,HSR19-004963,CA,Los Angeles
+1968,4464924,Glorious Laurel Canyon Retreat - perfect location!,1937752,Sarah,City of Los Angeles,Hollywood Hills West,34.10645,-118.36913,Entire home/apt,99,30,100,2022-08-25,1.06,2,65,6,Exempt,CA,Los Angeles
+1969,4639002,Mid-Century Getaway in the Heart of Silver Lake,24018492,Tim & Drew,City of Los Angeles,Silver Lake,34.08141,-118.2738,Private room,117,2,310,2022-09-06,3.49,1,8,26,HSR22-001616,CA,Los Angeles
+1971,4339227,Charming NoHo guest Studio With  Private entrance.,17893425,Keiko,City of Los Angeles,North Hollywood,34.17659,-118.38559,Entire home/apt,120,1,410,2022-09-07,6.88,2,122,105,HSR19-000773,CA,Los Angeles
+1982,4470174,Main Street Loft,10658835,Brandon,City of Los Angeles,Venice,33.99694,-118.47841,Entire home/apt,550,30,2,2018-07-12,0.03,8,365,0,228065,CA,Los Angeles
+1983,4672208,3b/2b FULL HOUSE GARDEN & JACUZZI,24168951,Gabriela,Other Cities,West Hollywood,34.08789,-118.35755,Entire home/apt,270,30,1,2020-01-25,0.03,2,333,0,HSR19-000432,CA,Los Angeles
+1985,4350361,Hillside House with Period Character near Sunset Boulevard,11345003,Francesco,City of Los Angeles,Studio City,34.13758,-118.38206,Entire home/apt,463,30,80,2020-02-11,0.86,1,89,0,HSR20-000209,CA,Los Angeles
+1988,4480520,Classic and Convenient Bungalow in Pasadena,9374760,Hoss & Cathy,Other Cities,Pasadena,34.12998,-118.15777,Entire home/apt,160,4,77,2020-01-08,0.81,1,22,0,5RH2018-00095,CA,Los Angeles
+1991,4482047,Charming Garden Cottage in Hancock Park,5461678,Catherine,City of Los Angeles,Hancock Park,34.08057,-118.33049,Entire home/apt,130,30,33,2022-09-04,0.79,1,101,2,HSR19-000098,CA,Los Angeles
+1992,4680505,Historic Atwater Village Home,21595592,Todd,City of Los Angeles,Atwater Village,34.11891,-118.26051,Entire home/apt,275,30,20,2016-10-09,0.22,1,100,0,HSR19-003123,CA,Los Angeles
+1994,4483969,"Hollywood Home w/ Gardens &  Pool, walk to village",155261,Lindsay,City of Los Angeles,Windsor Square,34.06984,-118.32192,Entire home/apt,1914,30,7,2019-10-07,0.08,1,0,0,HSR22-000359,CA,Los Angeles
+1997,4693119,Wind Down in the Hot Tub at a Modern Arts and Crafts Studio,11016274,Jan & Dale,Other Cities,Long Beach,33.76993,-118.13758,Entire home/apt,110,31,384,2022-07-05,4.06,2,281,25,PRP20-00009,CA,Los Angeles
+1998,4694175,Charming New Craftsman Studio,9111869,Carolyn,City of Los Angeles,Arlington Heights,34.03885,-118.32156,Entire home/apt,129,4,307,2022-08-29,4.02,2,10,31,HSR21-003075,CA,Los Angeles
+2001,4494476,Renovated 3bd Home w/ Front & Back Yards Near York,7231358,Anna,City of Los Angeles,Highland Park,34.11355,-118.2073,Entire home/apt,200,31,14,2022-07-18,0.17,1,320,4,HSR21-002606,CA,Los Angeles
+2016,4719647,SPACIOUS CLEAN TOWNHOUSE!,24380675,Brooke,City of Los Angeles,Studio City,34.14529,-118.41732,Entire home/apt,198,30,16,2022-07-17,0.17,1,169,2,HSR19-003914,CA,Los Angeles
+2020,4720740,Stunning Architectural Home by Golf Course,24385107,Dylan,Other Cities,Santa Monica,34.00689,-118.46244,Entire home/apt,553,2,178,2022-09-05,1.91,1,286,45,Santa Monica business license (home share):  215505,CA,Los Angeles
+2027,4377952,Sunset Views Hillside HotTub Home,22730612,Aimee,City of Los Angeles,Woodland Hills,34.1517,-118.59131,Entire home/apt,560,2,170,2022-08-27,1.79,1,240,31,HSR21-001095,CA,Los Angeles
+2032,4386566,The Studio at Venice Beach,5610403,Jesse & Abha,City of Los Angeles,Venice,33.99427,-118.45776,Entire home/apt,145,2,511,2022-09-05,5.33,1,346,71,HSR19-002942,CA,Los Angeles
+2035,4525134,Private Apartment in Downtown L.A.,23458539,Kirk,City of Los Angeles,Westlake,34.06419,-118.28036,Entire home/apt,176,1,386,2022-08-30,4.06,1,29,71,HSR19-001948,CA,Los Angeles

@@ -1,0 +1,129 @@
+1. Find all properties with a price higher than 1000
+{'p': {'last_review': neo4j.time.Date(2022, 8, 30), 'price': 1561, 'name': 'Malibu Beachfront Penthouse', 'id': 939688}}
+{'p': {'last_review': neo4j.time.Date(2022, 9, 7), 'price': 1106, 'name': 'Hollywood Villa. The best location!', 'id': 945586}}
+{'p': {'last_review': neo4j.time.Date(2020, 1, 2), 'price': 1200, 'name': 'Short stays OK. BH/Weho Sunset Hills Contemporary', 'id': 1043146}}
+{'p': {'last_review': neo4j.time.Date(2022, 7, 27), 'price': 1019, 'name': 'LAX Beachhouse-Luxury On Sand, sanitized, near LAX', 'id': 1495256}}
+{'p': {'last_review': neo4j.time.Date(2022, 7, 16), 'price': 1795, 'name': 'Beach Retreat in Park-Like Setting', 'id': 1687791}}
+{'p': {'last_review': neo4j.time.Date(2022, 7, 27), 'price': 2321, 'name': 'TheHoudiniEstate', 'id': 1691660}}
+{'p': {'last_review': neo4j.time.Date(2022, 4, 18), 'price': 1249, 'name': 'Gated Hollywood Hills View Estate', 'id': 2076112}}
+{'p': {'last_review': neo4j.time.Date(2022, 8, 8), 'price': 2307, 'name': 'The Cottage Santa Monica', 'id': 1965557}}
+{'p': {'last_review': neo4j.time.Date(2022, 6, 2), 'price': 1495, 'name': 'Stunning Three Bedroom Santa Monica Beach Home', 'id': 1971900}}
+{'p': {'last_review': neo4j.time.Date(2021, 5, 1), 'price': 1100, 'name': 'Hollywood Hills Gated Compound.', 'id': 1861007}}
+{'p': {'last_review': neo4j.time.Date(2020, 9, 5), 'price': 1737, 'name': 'Clean Paradise on Venice Canals. Message Dm for Short Stay', 'id': 3102027}}
+{'p': {'last_review': neo4j.time.Date(2022, 8, 1), 'price': 1850, 'name': 'Oceanfront Beach House in Malibu', 'id': 4033105}}
+{'p': {'last_review': neo4j.time.Date(2022, 8, 26), 'price': 3200, 'name': 'Oceanfront Celebrity Styled Home', 'id': 4235156}}
+{'p': {'last_review': neo4j.time.Date(2019, 10, 7), 'price': 1914, 'name': 'Hollywood Home w/ Gardens &  Pool, walk to village', 'id': 4483969}}
+{'p': {'last_review': neo4j.time.Date(2022, 8, 18), 'price': 1743, 'name': 'Dog Friendly 3BD Home on PRIVATE beach in Malibu', 'id': 287339}}
+{'p': {'last_review': neo4j.time.Date(2022, 9, 6), 'price': 1304, 'name': 'Mulholland Mid Century - Pool & Fab View', 'id': 566016}}
+
+2. Find the 10 properties with a room type of 'Entire home/apt' with the highest price
+{'p': {'last_review': neo4j.time.Date(2022, 8, 26), 'price': 3200, 'name': 'Oceanfront Celebrity Styled Home', 'id': 4235156}}
+{'p': {'last_review': neo4j.time.Date(2022, 7, 27), 'price': 2321, 'name': 'TheHoudiniEstate', 'id': 1691660}}
+{'p': {'last_review': neo4j.time.Date(2022, 8, 8), 'price': 2307, 'name': 'The Cottage Santa Monica', 'id': 1965557}}
+{'p': {'last_review': neo4j.time.Date(2019, 10, 7), 'price': 1914, 'name': 'Hollywood Home w/ Gardens &  Pool, walk to village', 'id': 4483969}}
+{'p': {'last_review': neo4j.time.Date(2022, 8, 1), 'price': 1850, 'name': 'Oceanfront Beach House in Malibu', 'id': 4033105}}
+{'p': {'last_review': neo4j.time.Date(2022, 7, 16), 'price': 1795, 'name': 'Beach Retreat in Park-Like Setting', 'id': 1687791}}
+{'p': {'last_review': neo4j.time.Date(2022, 8, 18), 'price': 1743, 'name': 'Dog Friendly 3BD Home on PRIVATE beach in Malibu', 'id': 287339}}
+{'p': {'last_review': neo4j.time.Date(2020, 9, 5), 'price': 1737, 'name': 'Clean Paradise on Venice Canals. Message Dm for Short Stay', 'id': 3102027}}
+{'p': {'last_review': neo4j.time.Date(2022, 8, 30), 'price': 1561, 'name': 'Malibu Beachfront Penthouse', 'id': 939688}}
+{'p': {'last_review': neo4j.time.Date(2022, 6, 2), 'price': 1495, 'name': 'Stunning Three Bedroom Santa Monica Beach Home', 'id': 1971900}}
+
+3. List the total number of properties for each neighbourhood group
+{'Neighbourhood_Group': 'Unincorporated Areas', 'Total_Properties': 2}
+{'Neighbourhood_Group': 'City of Los Angeles', 'Total_Properties': 539}
+{'Neighbourhood_Group': 'Other Cities', 'Total_Properties': 124}
+
+4. List all hosts and the properties they have
+{'h.name': 'Aaron', 'property': 'The Venice Love Lodge'}
+{'h.name': 'Aaron & Luciana', 'property': 'Gorgeous Elysian Heights Home -2B2B'}
+{'h.name': 'Aaron & Luciana', 'property': 'Large hillside studio in Echo Park'}
+{'h.name': 'Adam', 'property': 'The Chandelier Tree.  House.'}
+{'h.name': 'Adrien', 'property': 'Lovely Silverlake Studio with Parking'}
+{'h.name': 'Aimee', 'property': 'Sunset Views Hillside HotTub Home'}
+{'h.name': 'Akiko', 'property': 'Private Room in Santa Monica'}
+{'h.name': 'Akiko', 'property': 'Cozy and Bright Private Room'}
+{'h.name': 'Al And Leslie', 'property': 'Spectacular 1909 Craftsman~AMAZING VIEWS'}
+{'h.name': 'Alan', 'property': '*NEW*  lower level studio with private entrance.'}
+{'h.name': 'Alejandra', 'property': 'Garden of Edenhurst Guest House - 1BR'}
+{'h.name': 'Alex', 'property': 'Gated Hollywood Hills View Estate'}
+{'h.name': 'Alex', 'property': 'Relax with a View at a Spanish-style Hilltop Home'}
+{'h.name': 'Alexio & Vero', 'property': 'Spectacular Home With Breathtaking View'}
+{'h.name': 'Alice', 'property': 'Amazing House! Access to All Places'}
+{'h.name': 'Alice', 'property': '1920s Hollywood 3BR with Jacuzzi and private yard!'}
+{'h.name': 'Alisa', 'property': 'Colorful, bright room in Artist’s Mountaintop home'}
+{'h.name': 'Alisa', 'property': 'Beautiful room with heavenly view'}
+{'h.name': 'Alison', 'property': 'Private Stylish Studio Guest Suite w/ Pool'}
+{'h.name': 'Alix', 'property': 'Super Venice Location!!'}
+
+5. List all hosts who have more than 4 properties
+{'h.name': 'Gramercy', 'num_properties': 15}
+{'h.name': 'Gretchen', 'num_properties': 5}
+{'h.name': 'Hank', 'num_properties': 8}
+{'h.name': 'Mary', 'num_properties': 10}
+
+6. List the 10 hosts with the most properties with a cost higher than 100
+{'h.name': 'Hank', 'num_properties': 8}
+{'h.name': 'Paul', 'num_properties': 4}
+{'h.name': 'Hollywood', 'num_properties': 4}
+{'h.name': 'Manouch', 'num_properties': 3}
+{'h.name': 'Antoinette', 'num_properties': 3}
+{'h.name': 'Rita', 'num_properties': 3}
+{'h.name': 'Jo-Ann', 'num_properties': 3}
+{'h.name': 'Helen', 'num_properties': 3}
+{'h.name': 'Mark', 'num_properties': 3}
+{'h.name': 'Lisa', 'num_properties': 3}
+
+7. List all properties of the host with the name 'Lisa'
+{'h.name': 'Lisa', 'p.name': 'Modern Studio Loft + Roof Deck Steps from Beach'}
+{'h.name': 'Lisa', 'p.name': 'Luxury Ocean View Home'}
+{'h.name': 'Lisa', 'p.name': 'Bohemian Home with rooftop  Jacuzzi and Tiki Bar'}
+{'h.name': 'Lisa', 'p.name': 'Bohemian private studio'}
+{'h.name': 'Lisa', 'p.name': 'Boho home w/detached Studio &Jacuzzi   31 day sale'}
+
+8. List all properties in a neighbourhood starting with 'B'
+{'p.name': 'Private Guest House-Beverly Hills Adj 0.8 miles'}
+{'p.name': '0.8 mi. 2 BEVERLY HILLS-Prv. Bedrm & En Suite Bath'}
+{'p.name': 'Cottage - Private Guest House'}
+{'p.name': 'Private Ensuite Room/Bath in Serene Setting #2'}
+{'p.name': 'Private Ensuite Room/Bath in Unique Serene Setting'}
+{'p.name': 'Entire home in Beverly Hills with pool'}
+{'p.name': 'Bright, Beverly Hills Home with Pool'}
+{'p.name': 'The Oasis in Beverly Hills.'}
+{'p.name': 'Silver Box Beverly Hils Apartment'}
+{'p.name': 'Charming Bel Air Get Away'}
+{'p.name': 'WEST HOLLYWOOD HOUSE--HEART OF WEHO'}
+{'p.name': '1927 Spanish Castle w/private bathroom & entrance'}
+{'p.name': 'Beverly Hills/BevCenter/Cedars/RodeoDr/W Hollywood'}
+{'p.name': 'Architectural Retreat nested in WEHO/LA/BHills'}
+{'p.name': 'Spacious Modern Room'}
+{'p.name': 'Spanish Villa. Great location.   3 bed, 2 bath'}
+{'p.name': '2br Cottage in LA'}
+{'p.name': 'Modern Pool House walk to Beverly Hills & Fox'}
+{'p.name': 'Amazing View from Hollywood Hills.'}
+{'p.name': '3 Blocks to Cedars Sinai-Best Neighborhood in town'}
+{'p.name': 'Amazing Hollywood Hills home with pool'}
+{'p.name': 'Great Location Brentwood Guesthouse'}
+{'p.name': 'Brentwood Artist Farmhouse'}
+
+9. List the 5 hosts with the top total prices of their properties
+{'h.name': 'Natalie', 'total_price': 5100}
+{'h.name': 'Hank', 'total_price': 2590}
+{'h.name': 'John', 'total_price': 2436}
+{'h.name': 'Lori', 'total_price': 2321}
+{'h.name': 'Jeff', 'total_price': 2153}
+
+10. List the property with the highest price out of the 10 properties with the oldest last review
+{'Property': 'Stunning Studio City Retreat', 'last_review': neo4j.time.Date(2014, 8, 18), 'Price': 907}
+
+(the 10 oldest reviews)
+{'Property': 'Lovely house a block to beach 2 bikes pet friendly', 'last_review': neo4j.time.Date(2013, 8, 2), 'p.price': 158}
+{'Property': 'Charming Bel Air Get Away', 'last_review': neo4j.time.Date(2013, 9, 13), 'p.price': 235}
+{'Property': 'Private space Master bedroom in a 2/2 W. LA', 'last_review': neo4j.time.Date(2014, 5, 2), 'p.price': 159}
+{'Property': 'The Oakley', 'last_review': neo4j.time.Date(2014, 6, 13), 'p.price': 135}
+{'Property': 'Gorgeous, remodeled, private home Woodland Hills', 'last_review': neo4j.time.Date(2014, 7, 27), 'p.price': 250}
+{'Property': 'Sublime Gorgeous Hideaway with Pool', 'last_review': neo4j.time.Date(2014, 8, 16), 'p.price': 275}
+{'Property': 'Stunning Studio City Retreat', 'last_review': neo4j.time.Date(2014, 8, 18), 'p.price': 907}
+{'Property': 'Sunny bright Westside apartment with large windows', 'last_review': neo4j.time.Date(2014, 9, 1), 'p.price': 65}
+{'Property': 'Hollywood Grove Hillside', 'last_review': neo4j.time.Date(2014, 12, 27), 'p.price': 450}
+{'Property': 'Serene Hillside Home & Gorgeous Garden', 'last_review': neo4j.time.Date(2014, 12, 28), 'p.price': 227}
+

@@ -119,11 +119,31 @@ where any(role in r.roles where role STARTS WITH 'Dr.')
 return n.name as Ator, r as Lista_das_roles
 
 
+#18 
+# Que pessoas apareceram em pelo menos 3 filmes depois de 2000?
+
+MATCH (n:Person)-[:ACTED_IN]->(m:Movie)
+WHERE m.released > 2000
+WITH n, collect(m) as movies
+WHERE size(movies) >= 3
+RETURN n.name, movies
 
 
+#19
+# Indique atores que atuaram com 'Tom Cruise' também se chamam 'Tom'
+
+MATCH (t:Person {name: 'Tom Cruise'})-[:ACTED_IN]->(movie:Movie)<-[:ACTED_IN]-(n:Person)
+WHERE n.name CONTAINS "Tom" and n <> t
+RETURN t.name, n.name, movie.title
 
 
+#20
+# Indique o diretor de filmes a uma distancia de pelo menos 2 de 'Tom Cruise'
 
+MATCH (t:Person {name: "Tom Cruise"}), (d:Person)-[:DIRECTED]->(m:Movie)
+WITH t, d, m, shortestPath((t)-[*]-(m)) as path
+WHERE length(path) <= 2
+RETURN d.name, m.title
 
 
 

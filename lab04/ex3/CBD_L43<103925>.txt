@@ -1,6 +1,6 @@
 // NMEC: 103925
 
-// a) entity modelation
+// a) database model
 
 // (:User {svn_id, real_name, organization})-[:worked_on {num, role_on_project}]->(:Project {project_name})
 
